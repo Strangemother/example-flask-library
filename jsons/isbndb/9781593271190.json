@@ -1,0 +1,29 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "By Pete Goodliffe. Includes Bibliographical References And Index.",
+        "language": "Eng English",
+        "format": "Print",
+        "image": "https://images.isbndb.com/covers/11/90/9781593271190.jpg",
+        "title_long": "Code Craft: The Practice Of Writing Excellent Code",
+        "edition": "1",
+        "dimensions": "Print",
+        "pages": 624,
+        "date_published": "2007",
+        "subjects": [
+            "Computer programming",
+            "Programming languages (Electronic computers)",
+            "Computer software--Development",
+            "QA76.6 .G656 2007"
+        ],
+        "authors": [
+            "Goodliffe, Pete."
+        ],
+        "title": "Code Craft: The Practice Of Writing Excellent Code",
+        "isbn13": "9781593271190",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2007",
+        "isbn": "1593271190"
+    }
+}

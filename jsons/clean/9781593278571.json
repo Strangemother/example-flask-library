@@ -1,0 +1,49 @@
+{
+    "asset": "modern python cookbook",
+    "page_detail": {
+        "count": 280,
+        "delta": 56
+    },
+    "pages": "280 ~ 56",
+    "title": {
+        "title_short": "Mission Python",
+        "subtitle": "A Programming Adventure in Space",
+        "description": "Program a graphical adventure game in this hands-on, beginner-friendly introduction to coding in the Python language. Launch into coding with Mission: Python, a space-themed guide to building a complete computer game in Python. You'll learn programming fundamentals like loops, strings, and lists as you build Escape!, an exciting game with a map to explore, items to collect, and tricky logic puzzles to solve. As you work through the book, you'll build exercises and mini-projects, like making a spacewalk simulator and creating an astronaut's safety checklist that will put your new Python skills to the test. You'll learn how to use Pygame Zero, a free resource that lets you add graphics and sound effects to your creations, and you'll get useful game-making tips, such as how to design fun puzzles and intriguing maps. Before you know it, you'll have a working, awesome game to stump your friends with (and some nifty coding skills, too!). You can follow this book using a Raspberry Pi or a Microsoft Windows PC, and the 3D graphics and sound effects you need are provided as a download.",
+        "title_long": "Mission Python: Code A Space Adventure Game!",
+        "synopsys": "A Space-themed Guide To Building A Complete Computer Game In Python. You'll Learn Programming Fundamentals Like Loops, Strings, And Lists As You Build Escape!, An Exciting Game With A Map To Explore, Items To Collect, And Tricky Logic Puzzles To Solve. As You Work Through The Book, You'll Build Exercises And Mini-projects, Like Making A Spacewalk Simulator And Creating An Astronaut's Safety Checklist That Will Put Your New Python Skills To The Test--",
+        "title": "Mission Python: Code A Space Adventure Game!"
+    },
+    "isbn": "1593278578",
+    "isbn13": "9781593278571",
+    "authors": [
+        "Sean McManus",
+        "Sean Mcmanus"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Python (computer Program Language)",
+        "Computer Games",
+        "Programming",
+        "Computer Programming",
+        "Juvenile Nonfiction / Computers / Programming",
+        "Juvenile Nonfiction / Computers / Entertainment & Games",
+        "Juvenile Nonfiction / Games & Activities / Video & Electronic Games",
+        "Computers / Programming / Games",
+        "Computers / Programming Languages / Python",
+        "Games & Activities / Video & Electronic",
+        "Juvenile Nonfiction"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/85/71/9781593278571.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=YIznswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YIznswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 29.95,
+    "publish_date": "2018",
+    "files": [],
+    "image": "1593278578.jpg"
+}

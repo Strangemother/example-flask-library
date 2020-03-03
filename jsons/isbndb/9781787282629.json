@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "synopsys": "Catalin Batrinu.",
+        "language": "Eng English",
+        "image": "https://images.isbndb.com/covers/26/29/9781787282629.jpg",
+        "title_long": "Esp8266 Home Automation Projects: Leverage The Power Of This Tiny Wifi Chip To Build Exciting Smart Home Projects",
+        "pages": 196,
+        "date_published": "2017",
+        "authors": [
+            "Catalin Batrinu"
+        ],
+        "title": "Esp8266 Home Automation Projects: Leverage The Power Of This Tiny Wifi Chip To Build Exciting Smart Home Projects",
+        "isbn13": "9781787282629",
+        "msrp": "34.99",
+        "binding": "Paperback",
+        "publish_date": "2017",
+        "isbn": "1787282627"
+    }
+}

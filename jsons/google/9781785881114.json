@@ -1,0 +1,74 @@
+{
+    "kind": "books#volume",
+    "id": "zzaltAEACAAJ",
+    "etag": "ceyfxUAYiUU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/zzaltAEACAAJ",
+    "volumeInfo": {
+        "title": "Python Microservices Development",
+        "authors": [
+            "Tarek Ziade"
+        ],
+        "publishedDate": "2017-07-24",
+        "description": "A practical approach to conquering the complexities of Microservices using the Python tooling ecosystemAbout This Book* A very useful guide for Python developers who are shifting to the new microservices-based development* A concise, up-to-date guide to building efficient and lightweight microservices in Python using Flask, Tox, and other tools* Learn to use Docker containers, CoreOS, and Amazon Web Services to deploy your servicesWho This Book Is ForThis book is for developers who have basic knowledge of Python, the command line, and HTTP-based application principles, and those who want to learn how to build, test, scale, and manage Python 3 microservices. No prior experience of writing microservices in Python is assumed.What You Will Learn* Explore what microservices are and how to design them* Use Python 3, Flask, Tox, and other tools to build your services using best practices* Learn how to use a TDD approach* Discover how to document your microservices* Configure and package your code in the best way* Interact with other services* Secure, monitor, and scale your services* Deploy your services in Docker containers, CoreOS, and Amazon Web ServicesIn DetailWe often deploy our web applications into the cloud, and our code needs to interact with many third-party services. An efficient way to build applications to do this is through microservices architecture. But, in practice, it's hard to get this right due to the complexity of all the pieces interacting with each other.This book will teach you how to overcome these issues and craft applications that are built as small standard units, using all the proven best practices and avoiding the usual traps. It's a practical book: you'll build everything using Python 3 and its amazing tooling ecosystem. You will understand the principles of TDD and apply them.You will use Flask, Tox, and other tools to build your services using best practices. You will learn how to secure connections between services, and how to script Nginx using Lua to build web application firewall features such as rate limiting. You will also familiarize yourself with Docker's role in microservices, and use Docker containers, CoreOS, and Amazon Web Services to deploy your services.This book will take you on a journey, ending with the creation of a complete Python application based on microservices. By the end of the book, you will be well versed with the fundamentals of building, designing, testing, and deploying your Python microservices.Style and approachThis book is an linear, easy-to-follow guide on how to best design, write, test, and deploy your microservices. It includes real-world examples that will help Python developers create their own Python microservice using the most efficient methods.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1785881116"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781785881114"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+            "Python (Computer program language)"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=zzaltAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=zzaltAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=zzaltAEACAAJ&dq=isbn:9781785881114&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=zzaltAEACAAJ&dq=isbn:9781785881114&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Microservices_Development.html?hl=&id=zzaltAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zzaltAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "A practical approach to conquering the complexities of Microservices using the Python tooling ecosystemAbout This Book* A very useful guide for Python developers who are shifting to the new microservices-based development* A concise, up-to ..."
+    }
+}

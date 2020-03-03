@@ -1,0 +1,74 @@
+{
+    "kind": "books#volume",
+    "id": "fQIWuAEACAAJ",
+    "etag": "roM+YPUoVMw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fQIWuAEACAAJ",
+    "volumeInfo": {
+        "title": "Cracking Codes with Python",
+        "subtitle": "An Introduction to Building and Breaking Ciphers",
+        "authors": [
+            "Al Sweigart"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2018",
+        "description": "Cracking Secret Codes with Python is a hands-on introduction to Python that teaches readers how to make and hack cipher programs, which are used to encrypt secret messages. It covers ciphers like the Caesar cipher, transposition cipher, and the RSA cipher, and teaches readers how to test and hack them. For every program, Sweigart provides the full source code and then walks readers through it, explaining how every line works. Along the way, readers will learn Python fundamentals - and by the book's end, they'll have a solid foundation in Python and some fun programs under their belt.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1593278225"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593278229"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=fQIWuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fQIWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=fQIWuAEACAAJ&dq=isbn:9781593278229&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=fQIWuAEACAAJ&dq=isbn:9781593278229&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cracking_Codes_with_Python.html?hl=&id=fQIWuAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fQIWuAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Along the way, readers will learn Python fundamentals - and by the book&#39;s end, they&#39;ll have a solid foundation in Python and some fun programs under their belt."
+    }
+}

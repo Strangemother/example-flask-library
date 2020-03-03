@@ -1,0 +1,42 @@
+{
+    "asset": "python for kids 1490905401",
+    "page_detail": {
+        "count": 344,
+        "delta": 4
+    },
+    "pages": "344 ~ 4",
+    "title": {
+        "title_short": "Python for Kids",
+        "subtitle": "A Playful Introduction to Programming",
+        "description": "Introduces the basics of the Python programming language, covering how to use data structures, organize and reuse code, draw shapes and patterns with turtle, and create games and animations with tkinter.",
+        "title_long": "Python For Kids: A Playful Introduction To Programming",
+        "synopsys": "By Jason R. Briggs. Includes Index.",
+        "title": "Python For Kids: A Playful Introduction To Programming"
+    },
+    "isbn": "1593274076",
+    "isbn13": "9781593274078",
+    "authors": [
+        "Jason R. Briggs"
+    ],
+    "publisher": [
+        "No Starch Press, Incorporated",
+        "No Starch Press"
+    ],
+    "categories": [
+        "Computer Software",
+        "Computer Programming",
+        "Python (computer Program Language)",
+        "Juvenile Nonfiction"
+    ],
+    "rating": 5.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/40/78/9781593274078.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2013",
+    "files": [],
+    "image": "1593274076.jpg"
+}

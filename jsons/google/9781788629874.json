@@ -1,0 +1,72 @@
+{
+    "kind": "books#volume",
+    "id": "Tz-itQEACAAJ",
+    "etag": "SWbfTAraohY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Tz-itQEACAAJ",
+    "volumeInfo": {
+        "title": "Raspberry Pi 3 Cookbook for Python Programmers - Third Edition",
+        "authors": [
+            "Steven Lawrence"
+        ],
+        "publishedDate": "2018-04-30",
+        "description": "A recipe-based guide to programming your Raspberry Pi 3 using Python Key Features Leverage the power of Raspberry Pi 3 using Python programming Create 3D games, build neural network modules, and interface with your own circuits Packed with clear, step-by-step recipes to walk you through the capabilities of Raspberry Pi Book Description Raspberry Pi 3 Cookbook for Python Programmers - Third Edition begins by guiding you through setting up Raspberry Pi 3, performing tasks using Python 3.6, and introducing the first steps to interface with electronics. As you work through each chapter, you will build your skills and apply them as you progress. You will learn how to build text classifiers, predict sentiments in words, develop applications using the popular Tkinter library, and create games by controlling graphics on your screen. You will harness the power of a built in graphics processor using Pi3D to generate your own high-quality 3D graphics and environments. You will understand how to connect Raspberry Pi's hardware pins directly to control electronics, from switching on LEDs and responding to push buttons to driving motors and servos. Get to grips with monitoring sensors to gather real-life data, using it to control other devices, and viewing the results over the internet. You will apply what you have learned by creating your own Pi-Rover or Pi-Hexipod robots. You will also learn about sentiment analysis, face recognition techniques, and building neural network modules for optical character recognition. Finally, you will learn to build movie recommendations system on Raspberry Pi 3. What you will learn Learn to set up and run Raspberry Pi 3 Build text classifiers and perform automation using Python Predict sentiments in words and create games and graphics Detect edges and contours in images Build human face detection and recognition system Use Python to drive hardware Sense and display real-world data Build a neural network module for optical character recognition Build movie recommendations system Who this book is for This book is for anyone who wants to master the skills of Python programming using Raspberry Pi 3. Prior knowledge of Python will be an added advantage.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1788629876"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781788629874"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 552,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Tz-itQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Tz-itQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Tz-itQEACAAJ&dq=isbn:9781788629874&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Tz-itQEACAAJ&dq=isbn:9781788629874&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Raspberry_Pi_3_Cookbook_for_Python_Progr.html?hl=&id=Tz-itQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tz-itQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "What you will learn Learn to set up and run Raspberry Pi 3 Build text classifiers and perform automation using Python Predict sentiments in words and create games and graphics Detect edges and contours in images Build human face detection ..."
+    }
+}

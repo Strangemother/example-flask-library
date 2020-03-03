@@ -1,0 +1,32 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "A Space-themed Guide To Building A Complete Computer Game In Python. You'll Learn Programming Fundamentals Like Loops, Strings, And Lists As You Build Escape!, An Exciting Game With A Map To Explore, Items To Collect, And Tricky Logic Puzzles To Solve. As You Work Through The Book, You'll Build Exercises And Mini-projects, Like Making A Spacewalk Simulator And Creating An Astronaut's Safety Checklist That Will Put Your New Python Skills To The Test--",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/85/71/9781593278571.jpg",
+        "title_long": "Mission Python: Code A Space Adventure Game!",
+        "pages": 280,
+        "date_published": "2018",
+        "subjects": [
+            "Python (computer Program Language)",
+            "Computer Games",
+            "Programming",
+            "Computer Programming",
+            "Juvenile Nonfiction / Computers / Programming",
+            "Juvenile Nonfiction / Computers / Entertainment & Games",
+            "Juvenile Nonfiction / Games & Activities / Video & Electronic Games",
+            "Computers / Programming / Games",
+            "Computers / Programming Languages / Python",
+            "Games & Activities / Video & Electronic"
+        ],
+        "authors": [
+            "Sean Mcmanus"
+        ],
+        "title": "Mission Python: Code A Space Adventure Game!",
+        "isbn13": "9781593278571",
+        "msrp": "29.95",
+        "binding": "Paperback",
+        "publish_date": "2018",
+        "isbn": "1593278578"
+    }
+}

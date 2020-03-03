@@ -1,0 +1,38 @@
+{
+    "asset": "python data analysis cookbook",
+    "page_detail": {
+        "count": 462,
+        "delta": 0
+    },
+    "pages": 462,
+    "title": {
+        "title_short": "Python Data Analysis Cookbook",
+        "subtitle": null,
+        "description": null,
+        "title_long": "Python Data Analysis Cookbook",
+        "synopsys": null,
+        "title": "Python Data Analysis Cookbook"
+    },
+    "isbn": "178528228x",
+    "isbn13": "9781785282287",
+    "authors": [
+        "Ivan Idris"
+    ],
+    "publisher": [
+        "Packt Publishing - Ebooks Account"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/22/87/9781785282287.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=sy7djwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=sy7djwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 34.99,
+    "publish_date": "2016-07-22",
+    "files": [],
+    "image": "178528228x.jpg"
+}

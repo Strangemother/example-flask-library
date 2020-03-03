@@ -1,0 +1,40 @@
+{
+    "asset": "Mastering Internet of Things",
+    "page_detail": {
+        "count": 410,
+        "delta": 0
+    },
+    "pages": 410,
+    "title": {
+        "title_short": "Mastering Internet of Things",
+        "subtitle": "Design and Create Your Own IoT Applications Using Raspberry Pi 3",
+        "description": "Augment your IoT skills with the help of engaging and enlightening tutorials designed for Raspberry Pi 3 Key Features Design and implement state-of-the-art solutions for the Internet of Things Build complex projects using motions detectors, controllers, sensors, and Raspberry Pi 3 A hands-on guide that provides interoperable solutions for sensors, actuators, and controllers Book Description The Internet of Things (IoT) is the fastest growing technology market. Industries are embracing IoT technologies to improve operational expenses, product life, and people's well-being. Mastering Internet of Things starts by presenting IoT fundamentals and the smart city. You will learn the important technologies and protocols that are used for the Internet of Things, their features, corresponding security implications, and practical examples on how to use them. This book focuses on creating applications and services for the Internet of Things. Further, you will learn to create applications and services for the Internet of Things. You will be discover various interesting projects and understand how to publish sensor data, control devices, and react to asynchronous events using the XMPP protocol. The book also introduces chat, to interact with your devices. You will learn how to automate your tasks by using Internet of Things Service Platforms as the base for an application. You will understand the subject of privacy, requirements they should be familiar with, and how to avoid violating any of the important new regulations being introduced. At the end of the book, you will have mastered creating open, interoperable and secure networks of things, protecting the privacy and integrity of your users and their information. What you will learn Create your own project, run and debug it Master different communication patterns using the MQTT, HTTP, CoAP, LWM2M and XMPP protocols Build trust-based as hoc networks for open, secure and interoperable communication Explore the IoT Service Platform Manage the entire product life cycle of devices Understand and set up the security and privacy features required for your system Master interoperability, and how it is solved in the realms of HTTP,CoAP, LWM2M and XMPP Who this book is for If you're a developer or electronic engineer and are curious about the Internet of Things, this is the book for you. With only a rudimentary understanding of electronics and Raspberry Pi 3, and some programming experience using managed code, such as C# or Java, you will be taught to develop state-of-the-art solutions for the Internet of Things.",
+        "title_long": "Mastering Internet Of Things: Design And Create Your Own Iot Applications Using Raspberry Pi 3",
+        "synopsys": null,
+        "title": "Mastering Internet Of Things: Design And Create Your Own Iot Applications Using Raspberry Pi 3"
+    },
+    "isbn": "1788397487",
+    "isbn13": "9781788397483",
+    "authors": [
+        "Peter",
+        "Peter Waher",
+        "Waher"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/74/83/9781788397483.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=ECLFtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ECLFtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2018",
+    "files": [],
+    "image": "1788397487.jpg"
+}

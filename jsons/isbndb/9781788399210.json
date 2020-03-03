@@ -1,0 +1,21 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "synopsys": "Alex Gonza\ufffd\ufffdlez. Previous Edition Published: 2015. Includes Bibliographical References.",
+        "language": "Eng English",
+        "image": "https://images.isbndb.com/covers/92/10/9781788399210.jpg",
+        "title_long": "Embedded Linux Development Using Yocto Project Cookbook: Practical Recipes To Help You Leverage The Power Of Yocto To Build Exciting Linux-based Systems, 2nd Edition",
+        "edition": "2",
+        "pages": 456,
+        "date_published": "2018",
+        "authors": [
+            "Alex Gonzalez"
+        ],
+        "title": "Embedded Linux Development Using Yocto Project Cookbook: Practical Recipes To Help You Leverage The Power Of Yocto To Build Exciting Linux-based Systems, 2nd Edition",
+        "isbn13": "9781788399210",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2018",
+        "isbn": "1788399218"
+    }
+}

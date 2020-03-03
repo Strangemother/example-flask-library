@@ -1,0 +1,19 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/22/43/9781789132243.jpg",
+        "title_long": "Hands-on Iot Solutions With Blockchain: Discover How Converging Iot And Blockchain Can Help You Build Effective Solutions",
+        "pages": 206,
+        "date_published": "2019",
+        "authors": [
+            "Maximiliano Santos",
+            "Enio Moura"
+        ],
+        "title": "Hands-on Iot Solutions With Blockchain: Discover How Converging Iot And Blockchain Can Help You Build Effective Solutions",
+        "isbn13": "9781789132243",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2019",
+        "isbn": "178913224X"
+    }
+}

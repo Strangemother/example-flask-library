@@ -1,0 +1,38 @@
+{
+    "asset": "python machine learning",
+    "page_detail": {
+        "count": 454,
+        "delta": 0
+    },
+    "pages": 454,
+    "title": {
+        "title_short": "Python Machine Learning",
+        "subtitle": null,
+        "description": "Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analyticsAbout This Book- Leverage Python's most powerful open-source libraries for deep learning, data wrangling, and data visualization- Learn effective strategies and best practices to improve and optimize machine learning systems and algorithms- Ask - and answer - tough questions of your data with robust statistical models, built for a range of datasetsWho This Book Is ForIf you want to find out how to use Python to start answering critical questions of your data, pick up Python Machine Learning - whether you want to get started from scratch or want to extend your data science knowledge, this is an essential and unmissable resource.What You Will Learn- Explore how to use different machine learning models to ask different questions of your data- Learn how to build neural networks using Keras and Theano- Find out how to write clean and elegant Python code that will optimize the strength of your algorithms- Discover how to embed your machine learning model in a web application for increased accessibility- Predict continuous target outcomes using regression analysis- Uncover hidden patterns and structures in data with clustering- Organize data using effective pre-processing techniques- Get to grips with sentiment analysis to delve deeper into textual and social media dataIn DetailMachine learning and predictive analytics are transforming the way businesses and other organizations operate. Being able to understand trends and patterns in complex data is critical to success, becoming one of the key strategies for unlocking growth in a challenging contemporary marketplace. Python can help you deliver key insights into your data - its unique capabilities as a language let you build sophisticated algorithms and statistical models that can reveal new perspectives and answer key questions that are vital for success.Python Machine Learning gives you access to the world of predictive analytics and demonstrates why Python is one of the world's leading data science languages. If you want to ask better questions of data, or need to improve and extend the capabilities of your machine learning systems, this practical data science book is invaluable. Covering a wide range of powerful Python libraries, including scikit-learn, Theano, and Keras, and featuring guidance and tips on everything from sentiment analysis to neural networks, you'll soon be able to answer some of the most important questions facing you and your organization.Style and approachPython Machine Learning connects the fundamental theoretical principles behind machine learning to their practical application in a way that focuses you on asking and answering the right questions. It walks you through the key elements of Python and its powerful machine learning libraries, while demonstrating how to get to grips with a range of statistical models.",
+        "title_long": "Python Machine Learning, 1st Edition",
+        "synopsys": "Machine Learning And Predictive Analytics Are Transforming The Way Businesses And Other Organizations Operate. Being Able To Understand Trends And Patterns In Complex Data Is Critical To Success, Becoming One Of The Key Strategies For Unlocking Growth In A Challenging Contemporary Marketplace. Python Can Help You Deliver Key Insights Into Your Data \u2013 Its Unique Capabilities As A Language Let You Build Sophisticated Algorithms And Statistical Models That Can Reveal New Perspectives And Answer Key Questions That Are Vital For Success. Python Machine Learning Gives You Access To The World Of Predictive Analytics And Demonstrates Why Python Is One Of The World's Leading Data Science Languages. If You Want To Ask Better Questions Of Data, Or Need To Improve And Extend The Capabilities Of Your Machine Learning Systems, This Practical Data Science Book Is Invaluable. Covering A Wide Range Of Powerful Python Libraries, Including Scikit-learn, Theano, And Pylearn2, And Featuring Guidance And Tips On Everything From Sentiment Analysis To Neural Networks, You'll Soon Be Able To Answer Some Of The Most Important Questions Facing You And Your Organization. Giving Computers The Ability To Learn From Data -- Training Machine Learning Algorithms For Classification -- A Tour Of Machine Learning Classifiers Using Scikit-learn -- Building Good Training Sets : Data Preprocessing -- Compressing Data Via Dimensionality Reduction -- Learning Best Practices For Model Evaluation And Hyperparameter Tuning -- Combining Different Models For Ensemble Learning -- Applying Machine Learning To Sentiment Analysis -- Embedding A Machine Learning Model Into A Web Application -- Predicting Continuous Target Variables With Regression Analysis -- Working With Unlabeled Data : Clustering Analysis -- Training Artificial Neural Networks For Image Recognition -- Parallelizing Neural Network Training With Theano. Sebastian Raschka. Includes Index.",
+        "title": "Python Machine Learning, 1st Edition"
+    },
+    "isbn": "1783555130",
+    "isbn13": "9781783555130",
+    "authors": [
+        "Sebastian Raschka"
+    ],
+    "publisher": [
+        "Packt Publishing - Ebooks Account"
+    ],
+    "categories": [
+        "COMPUTERS"
+    ],
+    "rating": 5.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/51/30/9781783555130.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=HuxuawEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=HuxuawEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 44.99,
+    "publish_date": "2015",
+    "files": [],
+    "image": "1783555130.jpg"
+}

@@ -1,0 +1,71 @@
+{
+    "kind": "books#volume",
+    "id": "4vZCMQAACAAJ",
+    "etag": "3kp3um9S6mg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/4vZCMQAACAAJ",
+    "volumeInfo": {
+        "title": "Python GUI Programming Cookbook - Second Edition",
+        "authors": [
+            "Burkhard A. Meier"
+        ],
+        "publishedDate": "2017-07-31",
+        "description": "Over 80 object-oriented recipes to help you create amazing GUIs in PythonAbout This Book* Based on the latest version of Python, 3.6* Carefully organized instructions to solve problems efficiently* Solutions that can be applied to solve real-world problemsWho This Book Is ForThis book is for intermediate Python programmers who wish to enhance their Python skills by writing powerful GUIs in Python. As Python is such a great and easy to learn language, this book is also ideal for any developer with experience of other languages and enthusiasm to expand their horizon.What you will learn* Create the GUI Form and add widgets* Arrange the widgets using layout managers* Use object-oriented programming to create GUIs* Create Matplotlib charts* Use threads and talking to networks* Talk to a MySQL database via the GUI* Perform unit-testing and internationalizing the GUI* Extend the GUI with third-party graphical libraries* Get to know the best practices to create GUIsIn DetailExplore the beautiful world of GUI development using the Python programming language. You will learn how easy it is to get started and you might be surprised how advanced you can become in just a short time of coding. GUI development using Python is not a very well-known subject. The built-in tkinter GUI framework was limited, but with the latest versions of Python 3 and tkinter, all of this has dramatically changed.This book will guide you from the very basics of creating a fully functional GUI in Python with only a few lines of code. Each and every recipe adds more widgets to the GUIs we are creating. While the cookbook recipes all stand on their own, there is a common theme running through all of them. As our GUIs keep expanding, using more and more widgets, we start to talk to networks, databases, and graphical libraries that greatly enhance our GUI's functionality.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1787129454"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781787129450"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4vZCMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4vZCMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=4vZCMQAACAAJ&dq=isbn:9781787129450&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=4vZCMQAACAAJ&dq=isbn:9781787129450&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_GUI_Programming_Cookbook_Second_E.html?hl=&id=4vZCMQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4vZCMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Master over 80 object-oriented recipes to create amazing GUIs in Python and revolutionize your applications todayAbout This Book* Use object-oriented programming to develop amazing GUIs in Python* Create a working GUI project as a central ..."
+    }
+}

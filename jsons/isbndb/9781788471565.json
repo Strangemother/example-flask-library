@@ -1,0 +1,17 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/15/65/9781788471565.jpg",
+        "title_long": "Building Smart Lego Mindstorms Ev3 Robots: Leverage The Lego Mindstorms Ev3 Platform To Build And Program Intelligent Robots",
+        "pages": 258,
+        "date_published": "2018-04-04",
+        "authors": [
+            "Kyle Markland"
+        ],
+        "title": "Building Smart Lego Mindstorms Ev3 Robots: Leverage The Lego Mindstorms Ev3 Platform To Build And Program Intelligent Robots",
+        "isbn13": "9781788471565",
+        "msrp": "29.99",
+        "binding": "Paperback",
+        "isbn": "1788471563"
+    }
+}

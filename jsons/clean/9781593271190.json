@@ -1,0 +1,43 @@
+{
+    "asset": "code craft",
+    "page_detail": {
+        "count": 624,
+        "delta": 0
+    },
+    "pages": 624,
+    "title": {
+        "title_short": "Code Craft",
+        "subtitle": "The Practice of Writing Excellent Code",
+        "description": "A guide to writing computer code covers such topics as variable naming, presentation style, error handling, and security.",
+        "title_long": "Code Craft: The Practice Of Writing Excellent Code",
+        "synopsys": "By Pete Goodliffe. Includes Bibliographical References And Index.",
+        "title": "Code Craft: The Practice Of Writing Excellent Code"
+    },
+    "isbn": "1593271190",
+    "isbn13": "9781593271190",
+    "authors": [
+        "Goodliffe, Pete.",
+        "Pete Goodliffe"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Computer programming",
+        "Programming languages (Electronic computers)",
+        "Computer software--Development",
+        "QA76.6 .G656 2007",
+        "Computers"
+    ],
+    "rating": 5.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/11/90/9781593271190.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=i4zCzpkrt4sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=i4zCzpkrt4sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2007",
+    "files": [],
+    "image": "1593271190.jpg"
+}

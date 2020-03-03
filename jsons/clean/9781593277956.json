@@ -1,0 +1,41 @@
+{
+    "asset": "invent your own computer games with python",
+    "page_detail": {
+        "count": 376,
+        "delta": 0
+    },
+    "pages": 376,
+    "title": {
+        "title_short": "Invent Your Own Computer Games with Python, 4th Edition",
+        "subtitle": null,
+        "description": "Invent Your Own Computer Games with Python will teach you how to make computer games using the popular Python programming language\u2014even if you\u2019ve never programmed before! Begin by building classic games like Hangman, Guess the Number, and Tic-Tac-Toe, and then work your way up to more advanced games, like a text-based treasure hunting game and an animated collision-dodging game with sound effects. Along the way, you\u2019ll learn key programming and math concepts that will help you take your game programming to the next level. Learn how to: *Combine loops, variables, and flow control statements into real working programs *Choose the right data structures for the job, such as lists, dictionaries, and tuples *Add graphics and animation to your games with the pygame module *Handle keyboard and mouse input *Program simple artificial intelligence so you can play against the computer *Use cryptography to convert text messages into secret code *Debug your programs and find common errors As you work through each game, you\u2019ll build a solid foundation in Python and an understanding of computer science fundamentals. What new game will you create with the power of Python? The projects in this book are compatible with Python 3.",
+        "title_long": "Invent Your Own Computer Games With Python, 4e",
+        "synopsys": "Teaches You How To Make Your Own Versions Of Classic Computer Games--",
+        "title": "Invent Your Own Computer Games With Python, 4e"
+    },
+    "isbn": "1593277954",
+    "isbn13": "9781593277956",
+    "authors": [
+        "Al Sweigart"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Computer Games",
+        "Programming",
+        "Python (computer Program Language)",
+        "Computers"
+    ],
+    "rating": 3.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/79/56/9781593277956.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=ZPneDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ZPneDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "cost": 29.95,
+    "publish_date": "2017",
+    "files": [],
+    "image": "1593277954.jpg"
+}

@@ -1,0 +1,24 @@
+{
+    "book": {
+        "publisher": "No Starch Press, Inc.,",
+        "synopsys": "Offers Experienced Coders Advice And Tips For Improving Knowledge Of Python Coding Language. Includes Interviews With Python Experts And Covers A Wide Range Of Common Topics, From Scaling And Testing Code To Designing Apis--",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/87/86/9781593278786.jpg",
+        "title_long": "Serious Python",
+        "pages": 240,
+        "date_published": "2019",
+        "subjects": [
+            "Python (computer Program Language)"
+        ],
+        "authors": [
+            "Danjou, Julien",
+            "Danjou, Julien, Author."
+        ],
+        "title": "Serious Python",
+        "isbn13": "9781593278786",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2019",
+        "isbn": "1593278780"
+    }
+}

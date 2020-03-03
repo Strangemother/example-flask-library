@@ -1,0 +1,76 @@
+{
+    "kind": "books#volume",
+    "id": "EVuk7eqhWiwC",
+    "etag": "GSBja3/iMdo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/EVuk7eqhWiwC",
+    "volumeInfo": {
+        "title": "Gray Hat Python",
+        "subtitle": "Python Programming for Hackers and Reverse Engineers",
+        "authors": [
+            "Justin Seitz"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2009",
+        "description": "\"Gray Hat Python,\" the first Python book written for advanced security analysts, explains the intricacies of using Python to assist in a range of security analysis tasks.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593271923"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593271921"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 2.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=EVuk7eqhWiwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EVuk7eqhWiwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EVuk7eqhWiwC&printsec=frontcover&dq=isbn:9781593271923&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EVuk7eqhWiwC&dq=isbn:9781593271923&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gray_Hat_Python.html?hl=&id=EVuk7eqhWiwC"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EVuk7eqhWiwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot;Gray Hat Python,&quot; the first Python book written for advanced security analysts, explains the intricacies of using Python to assist in a range of security analysis tasks."
+    }
+}

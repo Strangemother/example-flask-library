@@ -1,0 +1,26 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "Teaches You How To Make Your Own Versions Of Classic Computer Games--",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/79/56/9781593277956.jpg",
+        "title_long": "Invent Your Own Computer Games With Python, 4e",
+        "edition": "4",
+        "pages": 376,
+        "date_published": "2017",
+        "subjects": [
+            "Computer Games",
+            "Programming",
+            "Python (computer Program Language)"
+        ],
+        "authors": [
+            "Al Sweigart"
+        ],
+        "title": "Invent Your Own Computer Games With Python, 4e",
+        "isbn13": "9781593277956",
+        "msrp": "29.95",
+        "binding": "Paperback",
+        "publish_date": "2017",
+        "isbn": "1593277954"
+    }
+}

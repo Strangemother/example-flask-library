@@ -1,0 +1,76 @@
+{
+    "kind": "books#volume",
+    "id": "pMEUG8oNBfkC",
+    "etag": "3QnUPrOF/7Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pMEUG8oNBfkC",
+    "volumeInfo": {
+        "title": "Python for Kids",
+        "subtitle": "A Playful Introduction to Programming",
+        "authors": [
+            "Jason R. Briggs"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2013",
+        "description": "Introduces the basics of the Python programming language, covering how to use data structures, organize and reuse code, draw shapes and patterns with turtle, and create games and animations with tkinter.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593274078"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593274076"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+            "Juvenile Nonfiction"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.6.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=pMEUG8oNBfkC&printsec=frontcover&dq=isbn:9781593274078&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=pMEUG8oNBfkC&dq=isbn:9781593274078&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_for_Kids.html?hl=&id=pMEUG8oNBfkC"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pMEUG8oNBfkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Introduces the basics of the Python programming language, covering how to use data structures, organize and reuse code, draw shapes and patterns with turtle, and create games and animations with tkinter."
+    }
+}

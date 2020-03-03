@@ -1,0 +1,74 @@
+{
+    "kind": "books#volume",
+    "id": "gu3iuQEACAAJ",
+    "etag": "btKOif4T1TM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/gu3iuQEACAAJ",
+    "volumeInfo": {
+        "title": "Mastering Python Networking",
+        "subtitle": "Your One-Stop Solution to Using Python for Network Automation, DevOps, and Test-Driven Development, 2nd Edition",
+        "authors": [
+            "Eric Chou"
+        ],
+        "publisher": "Packt Publishing",
+        "publishedDate": "2018-08-29",
+        "description": "Master the art of using Python for a diverse range of network engineering tasks Key Features Explore the power of Python libraries to tackle difficult network problems efficiently and effectively Use Python for network device automation, DevOps, and software-defined networking Become an expert in implementing advanced network-related tasks with Python Book Description Networks in your infrastructure set the foundation for how your application can be deployed, maintained, and serviced. Python is the ideal language for network engineers to explore tools that were previously available to systems engineers and application developers. In this second edition of Mastering Python Networking, you'll embark on a Python-based journey to transition from traditional network engineers to network developers ready for the next-generation of networks. This book begins by reviewing the basics of Python and teaches you how Python can interact with both legacy and API-enabled network devices. As you make your way through the chapters, you will then learn to leverage high-level Python packages and frameworks to perform network engineering tasks for automation, monitoring, management, and enhanced security. In the concluding chapters, you will use Jenkins for continuous network integration as well as testing tools to verify your network. By the end of this book, you will be able to perform all networking tasks with ease using Python. What you will learn Use Python libraries to interact with your network Integrate Ansible 2.5 using Python to control Cisco, Juniper, and Arista eAPI network devices Leverage existing frameworks to construct high-level APIs Learn how to build virtual networks in the AWS Cloud Understand how Jenkins can be used to automatically deploy changes in your network Use PyTest and Unittest for Test-Driven Network Development Who this book is for Mastering Python Networking is for network engineers and programmers who want to use Python for networking. Basic familiarity with Python programming and networking-related concepts such as Transmission Control Protocol/Internet Protocol (TCP/IP) will be useful.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1789135990"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781789135992"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gu3iuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gu3iuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=gu3iuQEACAAJ&dq=isbn:9781789135992&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=gu3iuQEACAAJ&dq=isbn:9781789135992&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Python_Networking.html?hl=&id=gu3iuQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gu3iuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In this second edition of Mastering Python Networking, you&#39;ll embark on a Python-based journey to transition from traditional network engineers to network developers ready for the next-generation of networks."
+    }
+}

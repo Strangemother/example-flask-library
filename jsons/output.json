@@ -1,0 +1,2063 @@
+[
+    {
+        "asset": "code craft",
+        "page_detail": {
+            "count": 624,
+            "delta": 0
+        },
+        "pages": 624,
+        "title": {
+            "title_short": "Code Craft",
+            "subtitle": "The Practice of Writing Excellent Code",
+            "description": "A guide to writing computer code covers such topics as variable naming, presentation style, error handling, and security.",
+            "title_long": "Code Craft: The Practice Of Writing Excellent Code",
+            "synopsys": "By Pete Goodliffe. Includes Bibliographical References And Index.",
+            "title": "Code Craft: The Practice Of Writing Excellent Code"
+        },
+        "isbn": "1593271190",
+        "isbn13": "9781593271190",
+        "authors": [
+            "Goodliffe, Pete.",
+            "Pete Goodliffe"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Computer programming",
+            "Programming languages (Electronic computers)",
+            "Computer software--Development",
+            "QA76.6 .G656 2007",
+            "Computers"
+        ],
+        "rating": 5.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/11/90/9781593271190.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=i4zCzpkrt4sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=i4zCzpkrt4sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2007",
+        "files": [],
+        "image": "1593271190.jpg"
+    },
+    {
+        "asset": "grayhat python",
+        "page_detail": {
+            "count": 216,
+            "delta": 16
+        },
+        "pages": "216 ~ 16",
+        "title": {
+            "title_short": "Gray Hat Python",
+            "subtitle": "Python Programming for Hackers and Reverse Engineers",
+            "description": "\"Gray Hat Python,\" the first Python book written for advanced security analysts, explains the intricacies of using Python to assist in a range of security analysis tasks.",
+            "title_long": "Gray Hat Python: Python Programming For Hackers And Reverse Engineers",
+            "synopsys": "Setting Up Your Development Environment -- Debuggers And Debugger Design -- Building A Windows Debugger -- Pydbg : A Pure Python Windows Debugger -- Immunity Debugger : The Best Of Both Worlds -- Hooking -- Dll And Code Injection -- Fuzzing -- Sulley -- Fuzzing Windows Drivers -- Dapython---scripting Ida Pro -- Pyemu---the Scriptable Emulator. By Justin Seitz. Includes Bibliographical References And Index.",
+            "title": "Gray Hat Python: Python Programming For Hackers And Reverse Engineers"
+        },
+        "isbn": "1593271921",
+        "isbn13": "9781593271923",
+        "authors": [
+            "Seitz, Justin.",
+            "Justin Seitz"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Computer security",
+            "Python (Computer program language)",
+            "QA76.9.A25 S457 2009",
+            "Computers"
+        ],
+        "rating": 2.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/19/23/9781593271923.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=EVuk7eqhWiwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EVuk7eqhWiwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2009",
+        "files": [],
+        "image": "1593271921.jpg"
+    },
+    {
+        "asset": "python for kids 1490905401",
+        "page_detail": {
+            "count": 344,
+            "delta": 4
+        },
+        "pages": "344 ~ 4",
+        "title": {
+            "title_short": "Python for Kids",
+            "subtitle": "A Playful Introduction to Programming",
+            "description": "Introduces the basics of the Python programming language, covering how to use data structures, organize and reuse code, draw shapes and patterns with turtle, and create games and animations with tkinter.",
+            "title_long": "Python For Kids: A Playful Introduction To Programming",
+            "synopsys": "By Jason R. Briggs. Includes Index.",
+            "title": "Python For Kids: A Playful Introduction To Programming"
+        },
+        "isbn": "1593274076",
+        "isbn13": "9781593274078",
+        "authors": [
+            "Jason R. Briggs"
+        ],
+        "publisher": [
+            "No Starch Press, Incorporated",
+            "No Starch Press"
+        ],
+        "categories": [
+            "Computer Software",
+            "Computer Programming",
+            "Python (computer Program Language)",
+            "Juvenile Nonfiction"
+        ],
+        "rating": 5.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/40/78/9781593274078.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pMEUG8oNBfkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2013",
+        "files": [],
+        "image": "1593274076.jpg"
+    },
+    {
+        "asset": "blackhat python",
+        "page_detail": {
+            "count": 192,
+            "delta": 0
+        },
+        "pages": 192,
+        "title": {
+            "title_short": "Black Hat Python",
+            "subtitle": "Python Programming for Hackers and Pentesters",
+            "description": "In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you\u2019ll explore the darker side of Python\u2019s capabilities\u2014writing network sniffers, manipulating packets, infecting virtual machines, creating stealthy trojans, and more. You\u2019ll learn how to: Create a trojan command-and-control using GitHubDetect sandboxing and automate com\u00admon malware tasks, like keylogging and screenshottingEscalate Windows privileges with creative process controlUse offensive memory forensics tricks to retrieve password hashes and inject shellcode into a virtual machineExtend the popular Burp Suite web-hacking toolAbuse Windows COM automation to perform a man-in-the-browser attackExfiltrate data from a network most sneakily Insider techniques and creative challenges throughout show you how to extend the hacks and how to write your own exploits. When it comes to offensive security, your ability to create powerful tools on the fly is indispensable. Learn how in Black Hat Python.",
+            "title_long": "Black Hat Python: Python Programming For Hackers And Pentesters",
+            "synopsys": "Python Is The High-level Language Of Choice For Hackers And Software Security Analysts Because It Makes It Easy To Write Powerful And Effective Security Tools. A Follow-up To The Perennial Best-seller Gray Hat Python (2011), The All-new Black Hat Python Explores The Darker Side Of Python's Capabilities - Writing Network Sniffers, Manipulating Packets, Web Hacking, Infecting Virtual Machines, Creating Stealthy Trojans, Extending The Popular Web Hacking Tool Burp Suite, And More. By Showing How Carefully Crafted Code Can Be Used To Disrupt And Disable A System, Black Hat Python Will Help You Test Your Systems And Improve Your Security Posture. Insider Techniques And Creative Challenges Show You How To Extend The Hacks, And Are Sure To Make Black Hat Python Irresistible To Anyone Interested In Offensive Security.",
+            "title": "Black Hat Python: Python Programming For Hackers And Pentesters"
+        },
+        "isbn": "1593275900",
+        "isbn13": "9781593275907",
+        "authors": [
+            "Justin Seitz"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/59/07/9781593275907.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=9MS9BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9MS9BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 34.95,
+        "publish_date": "2015",
+        "files": [],
+        "image": "1593275900.jpg"
+    },
+    {
+        "asset": "automate the boring stuff with python",
+        "page_detail": {
+            "count": 504,
+            "delta": 0
+        },
+        "pages": 504,
+        "title": {
+            "title_short": "Automate the Boring Stuff with Python",
+            "subtitle": "Practical Programming for Total Beginners",
+            "description": "If you\u2019ve ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you? In Automate the Boring Stuff with Python, you\u2019ll learn how to use Python to write programs that do in minutes what would take you hours to do by hand\u2014no prior programming experience required. Once you\u2019ve mastered the basics of programming, you\u2019ll create Python programs that effortlessly perform useful and impressive feats of automation to: Search for text in a file or across multiple filesCreate, update, move, and rename files and foldersSearch the Web and download online contentUpdate and format data in Excel spreadsheets of any sizeSplit, merge, watermark, and encrypt PDFsSend reminder emails and text notificationsFill out online forms Step-by-step instructions walk you through each program, and practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks. Don\u2019t spend your time doing work a well-trained monkey could do. Even if you\u2019ve never written a line of code, you can make your computer do the grunt work. Learn how in Automate the Boring Stuff with Python. Note: The programs in this book are written to run on Python 3.",
+            "title_long": "Automate The Boring Stuff With Python: Practical Programming For Total Beginners",
+            "synopsys": "In Automate The Boring Stuff With Python, You'll Learn How To Use Python To Write Programs That Do In Minutes What Would Take You Hours To Do By Hand -- No Prior Programming Experience Required. Once You've Mastered The Basics Of Programming, You'll Create Python Programs That Effortlessly Perform Useful And Impressive Feats Of Automation To: Search For Text In A File Or Across Multiple Files; Create, Update, Move, And Rename Files And Folders; Search The Web And Download Online Content; Update And Format Data In Excel Spreadsheets Of Any Size; Split, Merge, Watermark, And Encrypt Pdfs; Send Reminder Emails And Text Notifications; Fill Out Online Forms. Step-by-step Instructions Walk You Through Each Program, And Practice Projects At The End Of Each Chapter Challenge You To Improve Those Programs And Use Your Newfound Skills To Automate Similar Tasks.",
+            "title": "Automate The Boring Stuff With Python: Practical Programming For Total Beginners"
+        },
+        "isbn": "1593275994",
+        "isbn13": "9781593275990",
+        "authors": [
+            "Al Sweigart"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Python (computer Program Language)",
+            "Computer Programming",
+            "Computers"
+        ],
+        "rating": 4.5,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/59/90/9781593275990.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=UEu0CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UEu0CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 29.95,
+        "publish_date": "2015",
+        "files": [],
+        "image": "1593275994.jpg"
+    },
+    {
+        "asset": "python playground_geeky projects for the curious programmer",
+        "page_detail": {
+            "count": 352,
+            "delta": 0
+        },
+        "pages": 352,
+        "title": {
+            "title_short": "Python Playground",
+            "subtitle": "Geeky Projects for the Curious Programmer",
+            "description": "Python is a powerful programming language that\u2019s easy to learn and fun to play with. But once you\u2019ve gotten a handle on the basics, what do you do next? Python Playground is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi. You\u2019ll learn to use common Python tools and libraries like numpy, matplotlib, and pygame to do things like: *Generate Spirograph-like patterns using parametric equations and the turtle module *Create music on your computer by simulating frequency overtones *Translate graphical images into ASCII art *Write an autostereogram program that produces 3D images hidden beneath random patterns *Make realistic animations with OpenGL shaders by exploring particle systems, transparency, and billboarding techniques *Construct 3D visualizations using data from CT and MRI scans *Build a laser show that responds to music by hooking up your computer to an Arduino Programming shouldn\u2019t be a chore. Have some solid, geeky fun with Python Playground. The projects in this book are compatible with both Python 2 and 3.",
+            "title_long": "Python Playground: Geeky Projects For The Curious Programmer",
+            "synopsys": "Mahesh Venkitachalam. Includes Bibliographical References And Index.",
+            "title": "Python Playground: Geeky Projects For The Curious Programmer"
+        },
+        "isbn": "1593276044",
+        "isbn13": "9781593276041",
+        "authors": [
+            "Mahesh Venkitachalam"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Python (computer Program Language)",
+            "Electronic Apparatus And Appliances",
+            "Automatic Control",
+            "Arduino (programmable Controller)",
+            "Programming",
+            "Raspberry Pi (computer)",
+            "Computers"
+        ],
+        "rating": 5.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/60/41/9781593276041.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=YRHSCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YRHSCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 29.95,
+        "publish_date": "2016",
+        "files": [],
+        "image": "1593276044.jpg"
+    },
+    {
+        "asset": "teach your kids to code",
+        "page_detail": {
+            "count": 336,
+            "delta": 0
+        },
+        "pages": 336,
+        "title": {
+            "title_short": "Teach Your Kids to Code",
+            "subtitle": "A Parent-Friendly Guide to Python Programming",
+            "description": "Teach Your Kids to Code is a parent's and teacher's guide to teaching kids basic programming and problem solving using Python, the powerful language used in college courses and by tech companies like Google and IBM. Step-by-step explanations will have kids learning computational thinking right away, while visual and game-oriented examples hold their attention. Friendly introductions to fundamental programming concepts such as variables, loops, and functions will help even the youngest programmers build the skills they need to make their own cool games and applications. Whether you've been coding for years or have never programmed anything at all, Teach Your Kids to Code will help you show your young programmer how to: Explore geometry by drawing colorful shapes with Turtle graphicsWrite programs to encode and decode messages, play Rock-Paper-Scissors, and calculate how tall someone is in Ping-Pong ballsCreate fun, playable games like War, Yahtzee, and PongAdd interactivity, animation, and sound to their apps Teach Your Kids to Code is the perfect companion to any introductory programming class or after-school meet-up, or simply your educational efforts at home. Spend some fun, productive afternoons at the computer with your kids\u2014you can all learn something!",
+            "title_long": "Teach Your Kids To Code: A Parent-friendly Guide To Python Programming",
+            "synopsys": "A Guide To Teaching Basic Programming Skills For Parents And Teachers, With Step-by-step Explanations, Visual Examples, And Exercises. Covers Programming Concepts Including Loops, Lists, Functions, And Variables, And How To Build Games And Applications--",
+            "title": "Teach Your Kids To Code: A Parent-friendly Guide To Python Programming"
+        },
+        "isbn": "1593276141",
+        "isbn13": "9781593276140",
+        "authors": [
+            "Bryson Payne"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": 4.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/61/40/9781593276140.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=tki0CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=tki0CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2015",
+        "files": [],
+        "image": "1593276141.jpg"
+    },
+    {
+        "asset": "doing math with python",
+        "page_detail": {
+            "count": 264,
+            "delta": 0
+        },
+        "pages": 264,
+        "title": {
+            "title_short": "Doing Math with Python",
+            "subtitle": "Use Programming to Explore Algebra, Statistics, Calculus, and More!",
+            "description": "Doing Math with Python shows you how to use Python to delve into high school\u2013level math topics like statistics, geometry, probability, and calculus. You\u2019ll start with simple projects, like a factoring program and a quadratic-equation solver, and then create more complex projects once you\u2019ve gotten the hang of things. Along the way, you\u2019ll discover new ways to explore math and gain valuable programming skills that you\u2019ll use throughout your study of math and computer science. Learn how to: -Describe your data with statistics, and visualize it with line graphs, bar charts, and scatter plots -Explore set theory and probability with programs for coin flips, dicing, and other games of chance -Solve algebra problems using Python\u2019s symbolic math functions -Draw geometric shapes and explore fractals like the Barnsley fern, the Sierpinski triangle, and the Mandelbrot set -Write programs to find derivatives and integrate functions Creative coding challenges and applied examples help you see how you can put your new math and coding skills into practice. You\u2019ll write an inequality solver, plot gravity\u2019s effect on how far a bullet will travel, shuffle a deck of cards, estimate the area of a circle by throwing 100,000 \u201cdarts\u201d at a board, explore the relationship between the Fibonacci sequence and the golden ratio, and more. Whether you\u2019re interested in math but have yet to dip into programming or you\u2019re a teacher looking to bring programming into the classroom, you\u2019ll find that Python makes programming easy and practical. Let Python handle the grunt work while you focus on the math.",
+            "title_long": "Doing Math With Python: Use Programming To Explore Algebra, Statistics, Calculus, And More!",
+            "synopsys": "Doing Math With Python Shows You How To Use Python To Delve Into High School\u2013level Math Topics Like Statistics, Geometry, Probability, And Calculus. You\u2019ll Start With Simple Projects, Like A Factoring Program And A Quadratic-equation Solver, And Then Create More Complex Projects Once You\u2019ve Gotten The Hang Of Things. Along The Way, You\u2019ll Discover New Ways To Explore Math And Gain Valuable Programming Skills That You\u2019ll Use Throughout Your Study Of Math And Computer Science. Learn How To: -describe Your Data With Statistics, And Visualize It With Line Graphs, Bar Charts, And Scatter Plots -explore Set Theory And Probability With Programs For Coin Flips, Dicing, And Other Games Of Chance -solve Algebra Problems Using Python\u2019s Symbolic Math Functions -draw Geometric Shapes And Explore Fractals Like The Barnsley Fern, The Sierpinski Triangle, And The Mandelbrot Set -write Programs To Find Derivatives And Integrate Functions Creative Coding Challenges And Applied Examples Help You See How You Can Put Your New Math And Coding Skills Into Practice. You\u2019ll Write An Inequality Solver, Plot Gravity\u2019s Effect On How Far A Bullet Will Travel, Shuffle A Deck Of Cards, Estimate The Area Of A Circle By Throwing 100,000 \u201cdarts\u201d At A Board, Explore The Relationship Between The Fibonacci Sequence And The Golden Ratio, And More. Whether You\u2019re Interested In Math But Have Yet To Dip Into Programming Or You\u2019re A Teacher Looking To Bring Programming Into The Classroom, You\u2019ll Find That Python Makes Programming Easy And Practical. Let Python Handle The Grunt Work While You Focus On The Math.",
+            "title": "Doing Math With Python: Use Programming To Explore Algebra, Statistics, Calculus, And More!"
+        },
+        "isbn": "1593276400",
+        "isbn13": "9781593276409",
+        "authors": [
+            "Amit Saha"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/64/09/9781593276409.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=EvWbCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EvWbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 29.95,
+        "publish_date": "2015",
+        "files": [],
+        "image": "1593276400.jpg"
+    },
+    {
+        "asset": "invent your own computer games with python",
+        "page_detail": {
+            "count": 376,
+            "delta": 0
+        },
+        "pages": 376,
+        "title": {
+            "title_short": "Invent Your Own Computer Games with Python, 4th Edition",
+            "subtitle": null,
+            "description": "Invent Your Own Computer Games with Python will teach you how to make computer games using the popular Python programming language\u2014even if you\u2019ve never programmed before! Begin by building classic games like Hangman, Guess the Number, and Tic-Tac-Toe, and then work your way up to more advanced games, like a text-based treasure hunting game and an animated collision-dodging game with sound effects. Along the way, you\u2019ll learn key programming and math concepts that will help you take your game programming to the next level. Learn how to: *Combine loops, variables, and flow control statements into real working programs *Choose the right data structures for the job, such as lists, dictionaries, and tuples *Add graphics and animation to your games with the pygame module *Handle keyboard and mouse input *Program simple artificial intelligence so you can play against the computer *Use cryptography to convert text messages into secret code *Debug your programs and find common errors As you work through each game, you\u2019ll build a solid foundation in Python and an understanding of computer science fundamentals. What new game will you create with the power of Python? The projects in this book are compatible with Python 3.",
+            "title_long": "Invent Your Own Computer Games With Python, 4e",
+            "synopsys": "Teaches You How To Make Your Own Versions Of Classic Computer Games--",
+            "title": "Invent Your Own Computer Games With Python, 4e"
+        },
+        "isbn": "1593277954",
+        "isbn13": "9781593277956",
+        "authors": [
+            "Al Sweigart"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Computer Games",
+            "Programming",
+            "Python (computer Program Language)",
+            "Computers"
+        ],
+        "rating": 3.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/79/56/9781593277956.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=ZPneDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZPneDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "cost": 29.95,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1593277954.jpg"
+    },
+    {
+        "asset": "cracking codes with python",
+        "page_detail": {
+            "count": 416,
+            "delta": 0
+        },
+        "pages": 416,
+        "title": {
+            "title_short": "Cracking Codes with Python",
+            "subtitle": "An Introduction to Building and Breaking Ciphers",
+            "description": "Cracking Secret Codes with Python is a hands-on introduction to Python that teaches readers how to make and hack cipher programs, which are used to encrypt secret messages. It covers ciphers like the Caesar cipher, transposition cipher, and the RSA cipher, and teaches readers how to test and hack them. For every program, Sweigart provides the full source code and then walks readers through it, explaining how every line works. Along the way, readers will learn Python fundamentals - and by the book's end, they'll have a solid foundation in Python and some fun programs under their belt.",
+            "title_long": "Cracking Codes With Python: An Introduction To Building And Breaking Ciphers",
+            "synopsys": "Presents A Crash Course In Python Programming, Followed By Instructions For Making, Testing, And Hacking Classic Cipher Programs, From The Caesar Cipher To Public Key Cryptography And The Rsa Cipher--",
+            "title": "Cracking Codes With Python: An Introduction To Building And Breaking Ciphers"
+        },
+        "isbn": "1593278225",
+        "isbn13": "9781593278229",
+        "authors": [
+            "Al Sweigart"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/82/29/9781593278229.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=fQIWuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fQIWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 29.95,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1593278225.jpg"
+    },
+    {
+        "asset": "modern python cookbook",
+        "page_detail": {
+            "count": 280,
+            "delta": 56
+        },
+        "pages": "280 ~ 56",
+        "title": {
+            "title_short": "Mission Python",
+            "subtitle": "A Programming Adventure in Space",
+            "description": "Program a graphical adventure game in this hands-on, beginner-friendly introduction to coding in the Python language. Launch into coding with Mission: Python, a space-themed guide to building a complete computer game in Python. You'll learn programming fundamentals like loops, strings, and lists as you build Escape!, an exciting game with a map to explore, items to collect, and tricky logic puzzles to solve. As you work through the book, you'll build exercises and mini-projects, like making a spacewalk simulator and creating an astronaut's safety checklist that will put your new Python skills to the test. You'll learn how to use Pygame Zero, a free resource that lets you add graphics and sound effects to your creations, and you'll get useful game-making tips, such as how to design fun puzzles and intriguing maps. Before you know it, you'll have a working, awesome game to stump your friends with (and some nifty coding skills, too!). You can follow this book using a Raspberry Pi or a Microsoft Windows PC, and the 3D graphics and sound effects you need are provided as a download.",
+            "title_long": "Mission Python: Code A Space Adventure Game!",
+            "synopsys": "A Space-themed Guide To Building A Complete Computer Game In Python. You'll Learn Programming Fundamentals Like Loops, Strings, And Lists As You Build Escape!, An Exciting Game With A Map To Explore, Items To Collect, And Tricky Logic Puzzles To Solve. As You Work Through The Book, You'll Build Exercises And Mini-projects, Like Making A Spacewalk Simulator And Creating An Astronaut's Safety Checklist That Will Put Your New Python Skills To The Test--",
+            "title": "Mission Python: Code A Space Adventure Game!"
+        },
+        "isbn": "1593278578",
+        "isbn13": "9781593278571",
+        "authors": [
+            "Sean McManus",
+            "Sean Mcmanus"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Python (computer Program Language)",
+            "Computer Games",
+            "Programming",
+            "Computer Programming",
+            "Juvenile Nonfiction / Computers / Programming",
+            "Juvenile Nonfiction / Computers / Entertainment & Games",
+            "Juvenile Nonfiction / Games & Activities / Video & Electronic Games",
+            "Computers / Programming / Games",
+            "Computers / Programming Languages / Python",
+            "Games & Activities / Video & Electronic",
+            "Juvenile Nonfiction"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/85/71/9781593278571.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=YIznswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YIznswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 29.95,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1593278578.jpg"
+    },
+    {
+        "asset": "math adventures with python",
+        "page_detail": {
+            "count": 304,
+            "delta": 0
+        },
+        "pages": 304,
+        "title": {
+            "title_short": "Math Adventures with Python",
+            "subtitle": "Fractals, Automata, 3D Graphics, and More!",
+            "description": "\"Teaches math concepts through programming. Begins with a crash course in basic programming concepts and how to use Python's built-in Turtle module, and then explores topics like writing programs to solve equations and matrices, drawing polygons and fractals, and using the Processing graphics library to create interactive 2D and 3D models\"--",
+            "title_long": "Math Adventures With Python: An Illustrated Guide To Exploring Math With Code",
+            "synopsys": "Teaches Math Concepts Through Programming. Begins With A Crash Course In Basic Programming Concepts And How To Use Python's Built-in Turtle Module, And Then Explores Topics Like Writing Programs To Solve Equations And Matrices, Drawing Polygons And Fractals, And Using The Processing Graphics Library To Create Interactive 2d And 3d Models--",
+            "title": "Math Adventures With Python: An Illustrated Guide To Exploring Math With Code"
+        },
+        "isbn": "1593278675",
+        "isbn13": "9781593278670",
+        "authors": [
+            "Peter Farrell"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Mathematics"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/86/70/9781593278670.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=d_s1tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=d_s1tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 29.95,
+        "publish_date": "2019",
+        "files": [],
+        "image": "1593278675.jpg"
+    },
+    {
+        "asset": "serious python",
+        "page_detail": {
+            "count": 218,
+            "delta": 22
+        },
+        "pages": "218 ~ 22",
+        "title": {
+            "title_short": "Serious Python",
+            "subtitle": "Black-belt Advice on Deployment, Scalability, Testing, and More",
+            "description": "The Hacker's Guide to Pythonwill teach you how to fine tune your Python code and give you a deeper understanding of how the language works under the hood. This essential guide distills years of Python experience into a handy collection of general advice and specific tips that will help you pick the right libraries, distribute your code correctly, build future-proof programs, and optimize your programs down to the bytecode. Author Julien Danjou, an OpenStack contributor (the largest open source project written in Python) covers a swath of important areas like scaling, testing, and porting your code. You'll also learn directly from Python experts and get real-world (and time-saving) advice on topics like unit testing, packaging code, performances and optimizations, and designing APIs. Elevate your code and get seriously good at Python with The Hacker's Guide to Python!",
+            "title_long": "Serious Python",
+            "synopsys": "Offers Experienced Coders Advice And Tips For Improving Knowledge Of Python Coding Language. Includes Interviews With Python Experts And Covers A Wide Range Of Common Topics, From Scaling And Testing Code To Designing Apis--",
+            "title": "Serious Python"
+        },
+        "isbn": "1593278780",
+        "isbn13": "9781593278786",
+        "authors": [
+            "Julien Danjou",
+            "Danjou, Julien, Author.",
+            "Danjou, Julien"
+        ],
+        "publisher": [
+            "No Starch Press",
+            "No Starch Press, Inc.,"
+        ],
+        "categories": [
+            "Python (computer Program Language)",
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/87/86/9781593278786.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=OtqttAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OtqttAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2019",
+        "files": [],
+        "image": "1593278780.jpg"
+    },
+    {
+        "asset": "impractical python projects",
+        "page_detail": {
+            "count": 424,
+            "delta": 0
+        },
+        "pages": 424,
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": "Impractical Python Projects: Playful Programming Activities To Make You Smarter",
+            "synopsys": "A Book Of Fun Coding Projects For Readers Who Know A Little Python Already And Want To Expand Their Skills. Simulate Volcanoes, Map Mars, And More, While Gaining Experience Using Free Modules Like Tkinter, Matplotlib, Cprofile, Pylint, Pygame, Pillow, And Python-docx--",
+            "title": "Impractical Python Projects: Playful Programming Activities To Make You Smarter"
+        },
+        "isbn": "159327890X",
+        "isbn13": "9781593278908",
+        "authors": [
+            "Lee Vaughan"
+        ],
+        "publisher": [
+            "No Starch Press"
+        ],
+        "categories": [
+            "Python (computer Program Language)"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/89/08/9781593278908.jpg"
+        },
+        "cost": 29.95,
+        "publish_date": "2019",
+        "files": [],
+        "image": "159327890X.jpg"
+    },
+    {
+        "asset": "Learning Robotics Using Python",
+        "page_detail": {
+            "count": 330,
+            "delta": 55
+        },
+        "pages": "330 ~ 55",
+        "title": {
+            "title_short": "Learning Robotics Using Python",
+            "subtitle": null,
+            "description": "If you are an engineer, a researcher, or a hobbyist, and you are interested in robotics and want to build your own robot, this book is for you. Readers are assumed to be new to robotics but should have experience with Python.",
+            "title_long": "Learning Robotics Using Python: Design, Simulate, Program, And Prototype An Interactive Autonomous Mobile Robot From Scratch With The Help Of Python, Ros, And Open-cv!",
+            "synopsys": "Lentin Joseph. Includes Index.",
+            "title": "Learning Robotics Using Python: Design, Simulate, Program, And Prototype An Interactive Autonomous Mobile Robot From Scratch With The Help Of Python, Ros, And Open-cv!"
+        },
+        "isbn": "1783287535",
+        "isbn13": "9781783287536",
+        "authors": [
+            "Lentin Joseph"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/75/36/9781783287536.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=mI3JsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mI3JsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2015",
+        "files": [],
+        "image": "1783287535.jpg"
+    },
+    {
+        "asset": "ROS Robotics Projects",
+        "page_detail": {
+            "count": 452,
+            "delta": 0
+        },
+        "pages": 452,
+        "title": {
+            "title_short": "ROS Robotics Projects",
+            "subtitle": "Build a Variety of Awesome Robots that Can See, Sense, Move, and Do a Lot More Using the Powerful Robot Operating System",
+            "description": "Build a variety of awesome robots that can see, sense, move, and do a lot more using the powerful Robot Operating SystemAbout This Book* Create and program cool robotic projects using powerful ROS libraries* Work through concrete examples that will help you build your own robotic systems of varying complexity levels* This book provides relevant and fun-filled examples so you can make your own robots that can run and workWho This Book Is ForThis book is for robotic enthusiasts and researchers who would like to build robot applications using ROS. If you are looking to explore advanced ROS features in your projects, then this book is for you. Basic knowledge of ROS, GNU/Linux, and programming concepts is assumed.What You Will Learn* Create your own self-driving car using ROS* Build an intelligent robotic application using deep learning and ROS* Master 3D object recognition* Control a robot using virtual reality and ROS* Build your own AI chatter-bot using ROS* Get to know all about the autonomous navigation of robots using ROS* Understand face detection and tracking using ROS* Get to grips with teleoperating robots using hand gestures* Build ROS-based applications using Matlab and Android* Build interactive applications using TurtleBotIn DetailRobot Operating System is one of the most widely used software frameworks for robotic research and for companies to model, simulate, and prototype robots. Applying your knowledge of ROS to actual robotics is much more difficult than people realize, but this title will give you what you need to create your own robotics in no time!This book is packed with over 14 ROS robotics projects that can be prototyped without requiring a lot of hardware. The book starts with an introduction of ROS and its installation procedure. After discussing the basics, you'll be taken through great projects, such as building a self-driving car, an autonomous mobile robot, and image recognition using deep learning and ROS. You can find ROS robotics applications for beginner, intermediate, and expert levels inside!This book will be the perfect companion for a robotics enthusiast who really wants to do something big in the field.Style and approachThis book is packed with fun-filled, end-to-end projects on mobile, armed, and flying robots, and describes the ROS implementation and execution of these models.",
+            "title_long": "Ros Robotics Projects: Make Your Robots See, Sense, And Interact With Cool And Engaging Projects With Robotic Operating System",
+            "synopsys": "Lentin Joseph.",
+            "title": "Ros Robotics Projects: Make Your Robots See, Sense, And Interact With Cool And Engaging Projects With Robotic Operating System"
+        },
+        "isbn": "1783554711",
+        "isbn13": "9781783554713",
+        "authors": [
+            "Lentin Joseph"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/47/13/9781783554713.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=8KESMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8KESMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 49.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1783554711.jpg"
+    },
+    {
+        "asset": "python machine learning",
+        "page_detail": {
+            "count": 454,
+            "delta": 0
+        },
+        "pages": 454,
+        "title": {
+            "title_short": "Python Machine Learning",
+            "subtitle": null,
+            "description": "Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analyticsAbout This Book- Leverage Python's most powerful open-source libraries for deep learning, data wrangling, and data visualization- Learn effective strategies and best practices to improve and optimize machine learning systems and algorithms- Ask - and answer - tough questions of your data with robust statistical models, built for a range of datasetsWho This Book Is ForIf you want to find out how to use Python to start answering critical questions of your data, pick up Python Machine Learning - whether you want to get started from scratch or want to extend your data science knowledge, this is an essential and unmissable resource.What You Will Learn- Explore how to use different machine learning models to ask different questions of your data- Learn how to build neural networks using Keras and Theano- Find out how to write clean and elegant Python code that will optimize the strength of your algorithms- Discover how to embed your machine learning model in a web application for increased accessibility- Predict continuous target outcomes using regression analysis- Uncover hidden patterns and structures in data with clustering- Organize data using effective pre-processing techniques- Get to grips with sentiment analysis to delve deeper into textual and social media dataIn DetailMachine learning and predictive analytics are transforming the way businesses and other organizations operate. Being able to understand trends and patterns in complex data is critical to success, becoming one of the key strategies for unlocking growth in a challenging contemporary marketplace. Python can help you deliver key insights into your data - its unique capabilities as a language let you build sophisticated algorithms and statistical models that can reveal new perspectives and answer key questions that are vital for success.Python Machine Learning gives you access to the world of predictive analytics and demonstrates why Python is one of the world's leading data science languages. If you want to ask better questions of data, or need to improve and extend the capabilities of your machine learning systems, this practical data science book is invaluable. Covering a wide range of powerful Python libraries, including scikit-learn, Theano, and Keras, and featuring guidance and tips on everything from sentiment analysis to neural networks, you'll soon be able to answer some of the most important questions facing you and your organization.Style and approachPython Machine Learning connects the fundamental theoretical principles behind machine learning to their practical application in a way that focuses you on asking and answering the right questions. It walks you through the key elements of Python and its powerful machine learning libraries, while demonstrating how to get to grips with a range of statistical models.",
+            "title_long": "Python Machine Learning, 1st Edition",
+            "synopsys": "Machine Learning And Predictive Analytics Are Transforming The Way Businesses And Other Organizations Operate. Being Able To Understand Trends And Patterns In Complex Data Is Critical To Success, Becoming One Of The Key Strategies For Unlocking Growth In A Challenging Contemporary Marketplace. Python Can Help You Deliver Key Insights Into Your Data \u2013 Its Unique Capabilities As A Language Let You Build Sophisticated Algorithms And Statistical Models That Can Reveal New Perspectives And Answer Key Questions That Are Vital For Success. Python Machine Learning Gives You Access To The World Of Predictive Analytics And Demonstrates Why Python Is One Of The World's Leading Data Science Languages. If You Want To Ask Better Questions Of Data, Or Need To Improve And Extend The Capabilities Of Your Machine Learning Systems, This Practical Data Science Book Is Invaluable. Covering A Wide Range Of Powerful Python Libraries, Including Scikit-learn, Theano, And Pylearn2, And Featuring Guidance And Tips On Everything From Sentiment Analysis To Neural Networks, You'll Soon Be Able To Answer Some Of The Most Important Questions Facing You And Your Organization. Giving Computers The Ability To Learn From Data -- Training Machine Learning Algorithms For Classification -- A Tour Of Machine Learning Classifiers Using Scikit-learn -- Building Good Training Sets : Data Preprocessing -- Compressing Data Via Dimensionality Reduction -- Learning Best Practices For Model Evaluation And Hyperparameter Tuning -- Combining Different Models For Ensemble Learning -- Applying Machine Learning To Sentiment Analysis -- Embedding A Machine Learning Model Into A Web Application -- Predicting Continuous Target Variables With Regression Analysis -- Working With Unlabeled Data : Clustering Analysis -- Training Artificial Neural Networks For Image Recognition -- Parallelizing Neural Network Training With Theano. Sebastian Raschka. Includes Index.",
+            "title": "Python Machine Learning, 1st Edition"
+        },
+        "isbn": "1783555130",
+        "isbn13": "9781783555130",
+        "authors": [
+            "Sebastian Raschka"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [
+            "COMPUTERS"
+        ],
+        "rating": 5.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/51/30/9781783555130.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=HuxuawEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HuxuawEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 44.99,
+        "publish_date": "2015",
+        "files": [],
+        "image": "1783555130.jpg"
+    },
+    {
+        "asset": "python data analysis cookbook",
+        "page_detail": {
+            "count": 462,
+            "delta": 0
+        },
+        "pages": 462,
+        "title": {
+            "title_short": "Python Data Analysis Cookbook",
+            "subtitle": null,
+            "description": null,
+            "title_long": "Python Data Analysis Cookbook",
+            "synopsys": null,
+            "title": "Python Data Analysis Cookbook"
+        },
+        "isbn": "178528228x",
+        "isbn13": "9781785282287",
+        "authors": [
+            "Ivan Idris"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/22/87/9781785282287.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=sy7djwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=sy7djwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 34.99,
+        "publish_date": "2016-07-22",
+        "files": [],
+        "image": "178528228x.jpg"
+    },
+    {
+        "asset": "mastering python",
+        "page_detail": {
+            "count": 486,
+            "delta": 0
+        },
+        "pages": 486,
+        "title": {
+            "title_short": "Mastering Python",
+            "subtitle": null,
+            "description": "Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offersAbout This Book- Become familiar with the most important and advanced parts of the Python code style- Learn the trickier aspects of Python and put it in a structured context for deeper understanding of the language- Offers an expert's-eye overview of how these advanced tasks fit together in Python as a whole along with practical examplesWho This Book Is ForAlmost anyone can learn to write working script and create high quality code but they might lack a structured understanding of what it means to be 'Pythonic'. If you are a Python programmer who wants to code efficiently by getting the syntax and usage of a few intricate Python techniques exactly right, this book is for you.What You Will Learn- Create a virtualenv and start a new project- Understand how and when to use the functional programming paradigm- Get familiar with the different ways the decorators can be written in- Understand the power of generators and coroutines without digressing into lambda calculus- Create metaclasses and how it makes working with Python far easier- Generate HTML documentation out of documents and code using Sphinx- Learn how to track and optimize application performance, both memory and cpu- Use the multiprocessing library, not just locally but also across multiple machines- Get a basic understanding of packaging and creating your own libraries/applicationsIn DetailPython is a dynamic programming language. It is known for its high readability and hence it is often the first language learned by new programmers. Python being multi-paradigm, it can be used to achieve the same thing in different ways and it is compatible across different platforms. Even if you find writing Python code easy, writing code that is efficient, easy to maintain, and reuse is not so straightforward.This book is an authoritative guide that will help you learn new advanced methods in a clear and contextualised way. It starts off by creating a project-specific environment using venv, introducing you to different Pythonic syntax and common pitfalls before moving on to cover the functional features in Python. It covers how to create different decorators, generators, and metaclasses. It also introduces you to functools.wraps and coroutines and how they work. Later on you will learn to use asyncio module for asynchronous clients and servers. You will also get familiar with different testing systems such as py.test, doctest, and unittest, and debugging tools such as Python debugger and faulthandler. You will learn to optimize application performance so that it works efficiently across multiple machines and Python versions. Finally, it will teach you how to access C functions with a simple Python call. By the end of the book, you will be able to write more advanced scripts and take on bigger challenges.Style and ApproachThis book is a comprehensive guide that covers advanced features of the Python language, and communicate them with an authoritative understanding of the underlying rationale for how, when, and why to use them.",
+            "title_long": "Mastering Python: Master The Art Of Writing Beautiful And Powerful Python By Using All Of The Features That Python 3.5 Offers",
+            "synopsys": null,
+            "title": "Mastering Python: Master The Art Of Writing Beautiful And Powerful Python By Using All Of The Features That Python 3.5 Offers"
+        },
+        "isbn": "1785289721",
+        "isbn13": "9781785289729",
+        "authors": [
+            "Igor Milovanovic",
+            "Rick Van Hattem",
+            "Rick van Hattem"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/97/29/9781785289729.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=ZbTHjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZbTHjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2016",
+        "files": [],
+        "image": "1785289721.jpg"
+    },
+    {
+        "asset": "python microservices development",
+        "page_detail": {
+            "count": 340,
+            "delta": 0
+        },
+        "pages": 340,
+        "title": {
+            "title_short": "Python Microservices Development",
+            "subtitle": null,
+            "description": "A practical approach to conquering the complexities of Microservices using the Python tooling ecosystemAbout This Book* A very useful guide for Python developers who are shifting to the new microservices-based development* A concise, up-to-date guide to building efficient and lightweight microservices in Python using Flask, Tox, and other tools* Learn to use Docker containers, CoreOS, and Amazon Web Services to deploy your servicesWho This Book Is ForThis book is for developers who have basic knowledge of Python, the command line, and HTTP-based application principles, and those who want to learn how to build, test, scale, and manage Python 3 microservices. No prior experience of writing microservices in Python is assumed.What You Will Learn* Explore what microservices are and how to design them* Use Python 3, Flask, Tox, and other tools to build your services using best practices* Learn how to use a TDD approach* Discover how to document your microservices* Configure and package your code in the best way* Interact with other services* Secure, monitor, and scale your services* Deploy your services in Docker containers, CoreOS, and Amazon Web ServicesIn DetailWe often deploy our web applications into the cloud, and our code needs to interact with many third-party services. An efficient way to build applications to do this is through microservices architecture. But, in practice, it's hard to get this right due to the complexity of all the pieces interacting with each other.This book will teach you how to overcome these issues and craft applications that are built as small standard units, using all the proven best practices and avoiding the usual traps. It's a practical book: you'll build everything using Python 3 and its amazing tooling ecosystem. You will understand the principles of TDD and apply them.You will use Flask, Tox, and other tools to build your services using best practices. You will learn how to secure connections between services, and how to script Nginx using Lua to build web application firewall features such as rate limiting. You will also familiarize yourself with Docker's role in microservices, and use Docker containers, CoreOS, and Amazon Web Services to deploy your services.This book will take you on a journey, ending with the creation of a complete Python application based on microservices. By the end of the book, you will be well versed with the fundamentals of building, designing, testing, and deploying your Python microservices.Style and approachThis book is an linear, easy-to-follow guide on how to best design, write, test, and deploy your microservices. It includes real-world examples that will help Python developers create their own Python microservice using the most efficient methods.",
+            "title_long": "Python Microservices Development: Build, Test, Deploy, And Scale Microservices In Python",
+            "synopsys": null,
+            "title": "Python Microservices Development: Build, Test, Deploy, And Scale Microservices In Python"
+        },
+        "isbn": "1785881116",
+        "isbn13": "9781785881114",
+        "authors": [
+            "Tarek Ziade"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Python (Computer program language)"
+        ],
+        "rating": 4.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/11/14/9781785881114.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=zzaltAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=zzaltAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 44.99,
+        "publish_date": "2017-07-24",
+        "files": [],
+        "image": "1785881116.jpg"
+    },
+    {
+        "asset": "webdevelopment with django cookbook",
+        "page_detail": {
+            "count": 384,
+            "delta": 0
+        },
+        "pages": 384,
+        "title": {
+            "title_short": "Web Development with Django Cookbook - Second Edition",
+            "subtitle": null,
+            "description": "Over 70 practical recipes to help you create scalable websites using the Django 1.8 frameworkAbout This Book- This is the latest book on the market that will help you take advantage of the new features added to Django 1.8- This book consists of recipes of varying complexities to help you create multilingual, responsive, and scalable websites with Django- This updated edition teaches you major Django functions and will help you improve your skills by developing models, forms, views, and templatesWho This Book Is ForThis book is for intermediate-level and professional Django users who need to build projects that are multilingual, functional on devices of different screen sizes, and that scale over a period of time. If you have created websites with Django but you want to sharpen your knowledge and learn some good approaches to different aspects of web development, you should definitely read this book.What You Will Learn- Get started with the basic configuration necessary to start any Django project- Build a database structure out of reusable model mixins- Manage forms and views and get to know some useful patterns that are used to create them- Create handy template filters and tags that you can reuse in every project- Integrate your own functionality into the Django CMS- Manage hierarchical structures with MPTT- Import data from local sources and external web services as well as exporting your data to third parties- Implement a multilingual search with Haystack- Test and deploy your project efficientlyIn DetailDjango is a web framework that was designed to strike a balance between rapid web development and high performance. It has the capacity to handle applications with high levels of user traffic and interaction, and can integrate with massive databases on the backend, constantly collecting and processing data in real time.Through this book, you'll discover that collecting data from different sources and providing it to others in different formats isn't as difficult as you thought. It follows a task-based approach to guide you through all the web development processes using the Django framework. We'll start by setting up the virtual environment for a Django project and configuring it. Then you'll learn to write reusable pieces of code for your models and find out how to manage database schema changes using South migrations. After that, we'll take you through working with forms and views to enter and list data. With practical examples on using templates and JavaScript together, you will discover how to create the best user experience. In the final chapters, you'll be introduced to some programming and debugging tricks and finally, you will be shown how to test and deploy the project to a remote dedicated server.By the end of this book, you will have a good understanding of the new features added to Django 1.8 and be an expert at web development processes.Style and approachEvery chapter consists of practical examples and a mix of basic and advanced recipes that will guide you through the entire web development process, starting from project configuration and taking you right through to deployment.",
+            "title_long": "Web Development With Django Cookbook - Second Edition",
+            "synopsys": "Aidas Bendoraitis. Includes Index.",
+            "title": "Web Development With Django Cookbook - Second Edition"
+        },
+        "isbn": "1785886770",
+        "isbn13": "9781785886775",
+        "authors": [
+            "Aidas Bendoraitis"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Web site development",
+            "TK5105.888",
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/67/75/9781785886775.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=04QhjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=04QhjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 49.99,
+        "publish_date": "2016-01-28",
+        "files": [],
+        "image": "1785886770.jpg"
+    },
+    {
+        "asset": "expert python programming",
+        "page_detail": {
+            "count": 536,
+            "delta": 0
+        },
+        "pages": 536,
+        "title": {
+            "title_short": "Expert Python Programming, Second Edition",
+            "subtitle": null,
+            "description": "Become an ace Python programmer by learning best coding practices and advance-level concepts with Python 3.5About This Book- Based on the latest stable version of Python (version 3.5)- Creating well manageable code that will run in various environments with different sets of dependencies- Packed with advanced concepts and best practices to write efficient Python codeWho This Book Is ForThe book would appeal to web developers and Python programmers who want to start using version 3.5 and write code efficiently. Basic knowledge of Python programming is expected.What You Will Learn- Conventions and best practices that are widely adopted in the python community- Package python code effectively for community and production use- Easy and lightweight ways to automate code deployment on remote systems- Improve your code's quality, reliability, and performance- Write concurrent code in python- Extend python with code written in different languagesIn DetailPython is a dynamic programming language, used in a wide range of domains by programmers who find it simple, yet powerful. Even if you find writing Python code easy, writing code that is efficient and easy to maintain and reuse is a challenge.The focus of the book is to familiarize you with common conventions, best practices, useful tools and standards used by python professionals on a daily basis when working with code.You will begin with knowing new features in Python 3.5 and quick tricks for improving productivity. Next, you will learn advanced and useful python syntax elements brought to this new version. Using advanced object-oriented concepts and mechanisms available in python, you will learn different approaches to implement metaprogramming. You will learn to choose good names, write packages, and create standalone executables easily.You will also be using some powerful tools such as buildout and vitualenv to release and deploy the code on remote servers for production use. Moving on, you will learn to effectively create Python extensions with C, C++, cython, and pyrex. The important factors while writing code such as code management tools, writing clear documentation, and test-driven development are also covered.You will now dive deeper to make your code efficient with general rules of optimization, strategies for finding bottlenecks, and selected tools for application optimization.By the end of the book, you will be an expert in writing efficient and maintainable code.Style and approach An easy-to-follow guide that covers industry followed best practices in Python programming",
+            "title_long": "Expert Python Programming - Second Edition",
+            "synopsys": null,
+            "title": "Expert Python Programming - Second Edition"
+        },
+        "isbn": "1785886851",
+        "isbn13": "9781785886850",
+        "authors": [
+            "Tarek Ziade",
+            "Michal Jaworski"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account",
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/68/50/9781785886850.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=_PG3DAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_PG3DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 34.99,
+        "publish_date": "2016",
+        "files": [],
+        "image": "1785886851.jpg"
+    },
+    {
+        "asset": "python data science essentials",
+        "page_detail": {
+            "count": 378,
+            "delta": 0
+        },
+        "pages": 378,
+        "title": {
+            "title_short": "Python Data Science Essentials - Second Edition",
+            "subtitle": null,
+            "description": "Become an efficient data science practitioner by understanding Python's key conceptsAbout This Book- Quickly get familiar with data science using Python 3.5- Save time (and effort) with all the essential tools explained- Create effective data science projects and avoid common pitfalls with the help of examples and hints dictated by experienceWho This Book Is ForIf you are an aspiring data scientist and you have at least a working knowledge of data analysis and Python, this book will get you started in data science. Data analysts with experience of R or MATLAB will also find the book to be a comprehensive reference to enhance their data manipulation and machine learning skills.What You Will Learn- Set up your data science toolbox using a Python scientific environment on Windows, Mac, and Linux- Get data ready for your data science project- Manipulate, fix, and explore data in order to solve data science problems- Set up an experimental pipeline to test your data science hypotheses- Choose the most effective and scalable learning algorithm for your data science tasks- Optimize your machine learning models to get the best performance- Explore and cluster graphs, taking advantage of interconnections and links in your dataIn DetailFully expanded and upgraded, the second edition of Python Data Science Essentials takes you through all you need to know to suceed in data science using Python. Get modern insight into the core of Python data, including the latest versions of Jupyter notebooks, NumPy, pandas and scikit-learn. Look beyond the fundamentals with beautiful data visualizations with Seaborn and ggplot, web development with Bottle, and even the new frontiers of deep learning with Theano and TensorFlow. Dive into building your essential Python 3.5 data science toolbox, using a single-source approach that will allow to to work with Python 2.7 as well. Get to grips fast with data munging and preprocessing, and all the techniques you need to load, analyse, and process your data. Finally, get a complete overview of principal machine learning algorithms, graph analysis techniques, and all the visualization and deployment instruments that make it easier to present your results to an audience of both data science experts and business users.Style and approachThe book is structured as a data science project. You will always benefit from clear code and simplified examples to help you understand the underlying mechanics and real-world datasets.",
+            "title_long": "Python Data Science Essentials - Second Edition: Become An Efficient Data Science Practitioner By Understanding Python's Key Concepts",
+            "synopsys": null,
+            "title": "Python Data Science Essentials - Second Edition: Become An Efficient Data Science Practitioner By Understanding Python's Key Concepts"
+        },
+        "isbn": "1786462133",
+        "isbn13": "9781786462138",
+        "authors": [
+            "Alberto Boschetti",
+            "Luca Massaron"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/21/38/9781786462138.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=8TCEvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8TCEvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 44.99,
+        "publish_date": "2016",
+        "files": [],
+        "image": "1786462133.jpg"
+    },
+    {
+        "asset": "building restful python webservices",
+        "page_detail": {
+            "count": 335,
+            "delta": 0
+        },
+        "pages": 335,
+        "title": {
+            "title_short": "Building RESTful Python Web Services",
+            "subtitle": null,
+            "description": "Create web services that are lightweight, maintainable, scalable, and secure using the best tools and techniques designed for PythonAbout This Book* Develop RESTful Web Services using the most popular frameworks in Python* Configure and fine-tune your APIs using the best tools and techniques available* This practical guide will help you to implement complete REST-based APIs from scratchWho This Book Is ForThe book takes a straightforward approach, not spending time getting you started with RESTful APIs and web services. It will give you the best use cases for each framework to build great web services in Python.What you will learn* Develop complex RESTful APIs from scratch with Python combined with and without data sources* Choose the most appropriate (micro) framework based on the specific requirements of a RESTful API / web service* Debug, test, and profile RESTful APIs with each of the frameworks* Develop a complex RESTful API that interacts with a PostgreSQL database* Add authentication and permissions to a RESTful API built in each of the frameworksIn DetailPython is the language of choice for millions of developers worldwide, due to its gentle learning curve as well as its vast applications in day-to-day programming. It serves the purpose of building great web services in the RESTful architecture, and this book will show you the best tools you can use to build your own web services.This book will show you how to develop RESTful APIs using the popular Python frameworks and all the necessary stacks with Python, Django, Flask, Pyramid, and Tornado, combined with related libraries and tools. We will dive deep into each of these frameworks to build various web services, and will provide use cases and best practices on when to use a particular framework to get the best results.We will show you everything required to successfully develop RESTful APIs with the four frameworks such as request handling, URL mapping, serialization, validation, authentication, authorization, versioning, ORMs, databases, custom code for models and views, and asynchronous callbacks. At the end of each framework, we will add authentication and security to the RESTful APIs and prepare tests for it.By the end of the book, you will have a deep understanding of the stacks needed to build RESTful web services.",
+            "title_long": "Building Restful Python Web Services",
+            "synopsys": null,
+            "title": "Building Restful Python Web Services"
+        },
+        "isbn": "1786462257",
+        "isbn13": "9781786462251",
+        "authors": [
+            "Gaston C. Hillar"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/22/51/9781786462251.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=cOclvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=cOclvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 49.99,
+        "publish_date": "2016-11-30",
+        "files": [],
+        "image": "1786462257.jpg"
+    },
+    {
+        "asset": "artificial intelligence with python",
+        "page_detail": {
+            "count": 521,
+            "delta": 0
+        },
+        "pages": 521,
+        "title": {
+            "title_short": "Artificial Intelligence with Python",
+            "subtitle": null,
+            "description": "Build real-world AI applications with Python to intelligently interact with your surroundingsAbout This Book* Step into the amazing world of intelligent apps using this comprehensive guide* Enter the world of AI, explore it, and become independent to create your own AI apps* Work through simple yet insightful examples that will get you up and running with artificial intelligence in no timeWho This Book Is ForThis book is for Python developers who want to build real-world AI applications. This book is friendly to Python beginners, but being familiar with Python would be useful to play around with the code. It will also be useful for experienced Python programmers who are looking to implement AI techniques in their existing technology stacks.What You Will Learn* Find out how to use different classification and regression techniques* Understand the concept of clustering and how to use it to automatically segment data* See how to build an intelligent recommender system* Understand logic programming and how to use it* Develop automatic speech recognition systems* Understand the basics of heuristic search and genetic programming* Develop an understanding of reinforcement learning* Discover how to build AI applications centered on images, text, and time series data* Understand how to use deep learning algorithms and build applications based on itIn DetailAI is becoming increasingly relevant in the modern world where the ecosystem is driven by technology and data. AI is used extensively across many fields such as robotics, computer vision, finance, and so on. We will explore various real-world scenarios in this book and you'll learn about various AI algorithms that can be used to build various applications.During the course of this book, you will find out how to make informed decisions about what algorithms to use in a given context. Starting from the basics of the AI concepts, you will learn how to develop the various building blocks of AI using different data mining techniques. You will see how to implement different algorithms to get the best possible results, and will understand how to apply them to real-world scenarios. If you want to add an intelligence layer to any application based on images, text, stock market, or some other form of data, this exciting book on AI will definitely guide you all the way!",
+            "title_long": "Artificial Intelligence With Python: Build Real-world Artificial Intelligence Applications With Python To Intelligently Interact With The World Around You",
+            "synopsys": "Prateek Joshi.",
+            "title": "Artificial Intelligence With Python: Build Real-world Artificial Intelligence Applications With Python To Intelligently Interact With The World Around You"
+        },
+        "isbn": "1786469677",
+        "isbn13": "9781786464392",
+        "authors": [
+            "Joshi, Prateek (author.)",
+            "Prateek Joshi"
+        ],
+        "publisher": [
+            "Packt Publishing,"
+        ],
+        "categories": [
+            "Python (Computer program language)",
+            "Artificial intelligence--Data processing",
+            "Application software--Development",
+            "QA76.73.P98"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/43/92/9781786464392.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=hbUgvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hbUgvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2017-04-28",
+        "files": [],
+        "image": "1786469677.jpg"
+    },
+    {
+        "asset": "python data structures and algorithms",
+        "page_detail": {
+            "count": 310,
+            "delta": 0
+        },
+        "pages": 310,
+        "title": {
+            "title_short": "Python Data Structures and Algorithm",
+            "subtitle": null,
+            "description": "Implement classic and functional data structures and algorithms using PythonAbout This Book* A step by step guide, which will provide you with a thorough discussion on the analysis and design of fundamental Python data structures.* Get a better understanding of advanced Python concepts such as big-o notation, dynamic programming, and functional data structures.* Explore illustrations to present data structures and algorithms, as well as their analysis, in a clear, visual manner.Who This Book Is ForThe book will appeal to Python developers. A basic knowledge of Python is expected.What You Will Learn* Gain a solid understanding of Python data structures.* Build sophisticated data applications.* Understand the common programming patterns and algorithms used in Python data science.* Write efficient robust code.In DetailData structures allow you to organize data in a particular way efficiently. They are critical to any problem, provide a complete solution, and act like reusable code. In this book, you will learn the essential Python data structures and the most common algorithms. With this easy-to-read book, you will be able to understand the power of linked lists, double linked lists, and circular linked lists. You will be able to create complex data structures such as graphs, stacks and queues. We will explore the application of binary searches and binary search trees. You will learn the common techniques and structures used in tasks such as preprocessing, modeling, and transforming data. We will also discuss how to organize your code in a manageable, consistent, and extendable way. The book will explore in detail sorting algorithms such as bubble sort, selection sort, insertion sort, and merge sort. By the end of the book, you will learn how to build components that are easy to understand, debug, and use in different applications.Style and approachThe easy-to-read book with its fast-paced nature will improve the productivity of Python programmers and improve the performance of Python applications.",
+            "title_long": "Python Data Structures And Algorithms: Improve Application Performance With Graphs, Stacks, And Queues",
+            "synopsys": null,
+            "title": "Python Data Structures And Algorithms: Improve Application Performance With Graphs, Stacks, And Queues"
+        },
+        "isbn": "1786467356",
+        "isbn13": "9781786467355",
+        "authors": [
+            "Benjamin Baka"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account",
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/73/55/9781786467355.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=aerzvQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aerzvQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 44.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1786467356.jpg"
+    },
+    {
+        "asset": "python programming with raspberrypi",
+        "page_detail": {
+            "count": 312,
+            "delta": 0
+        },
+        "pages": 312,
+        "title": {
+            "title_short": "Python Programming with Raspberry Pi",
+            "subtitle": null,
+            "description": "Become a master of Python programming using the small yet powerful Raspberry Pi ZeroAbout This Book* This is the first book on the market that teaches Python programming with Raspberry Pi Zero* Develop exciting applications such as a mobile robot and home automation controller using Python* This step-by-step guide helps you make the most out of Raspberry Pi Zero using Python programmingWho This Book Is ForThis book is aimed at hobbyists and programmers who want to learn Python programming and develop applications using the Pi Zero. They should have basic familiarity with electronics.What You Will Learn* Configure Raspberry Pi using Python* Control loops to blink an LED using simple arithmetic operations* Understand how interface sensors, actuators, and LED displays work* Get to grips with every aspect of Python programming using practical examples* Explore machine vision, data visualization, and scientific computations* Build a mobile robot using the Raspberry Pi as the controller* Build a voice-activated home automation controllerIn DetailRaspberry Pi Zero is a super-small and super-affordable product from Raspberry Pi that is packed with a plethora of features and has grabbed the notice of programmers, especially those who use Python.This step-by-step guide will get you developing practical applications in Python using a Raspberry Pi Zero. It will become a valuable resource as you learn the essential details of interfacing sensors and actuators to a Raspberry Pi, as well as acquiring and displaying data.You will get started by writing a Python program that blinks an LED at 1-second intervals. Then you will learn to write simple logic to execute tasks based upon sensor data (for example, to control a motor) and retrieve data from the web (such as to check e-mails to provide a visual alert). Finally, you will learn to build a home automation system with Python where different appliances are controlled using the Raspberry Pi.The examples discussed in each chapter of this book culminate in a project that help improve the quality of people's lives.Style and approachThis will be a learning, step-by-step guide to teach Python programming using the famous Raspberry Pi Zero. The book is packed with practical examples at every step along with tips and tricks for the Raspberry Pi fans",
+            "title_long": "Python Programming With Raspberry Pi",
+            "synopsys": null,
+            "title": "Python Programming With Raspberry Pi"
+        },
+        "isbn": "1786467577",
+        "isbn13": "9781786467577",
+        "authors": [
+            "Srihari Yamanoor",
+            "Sai Yamanoor"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [
+            "Computer input-output equipment"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/75/77/9781786467577.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=aOwEkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aOwEkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 34.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1786467577.jpg"
+    },
+    {
+        "asset": "software architecture with python",
+        "page_detail": {
+            "count": 556,
+            "delta": 0
+        },
+        "pages": 556,
+        "title": {
+            "title_short": "Software Architecture with Python",
+            "subtitle": null,
+            "description": "Architect and design highly scalable, robust, clean, and highly performant applications in PythonAbout This Book* Identify design issues and make the necessary adjustments to achieve improved performance* Understand practical architectural quality attributes from the perspective of a practicing engineer and architect using Python* Gain knowledge of architectural principles and how they can be used to provide accountability and rationale for architectural decisionsWho This Book Is ForThis book is for experienced Python developers who are aspiring to become the architects of enterprise-grade applications or software architects who would like to leverage Python to create effective blueprints of applications.What You Will Learn* Build programs with the right architectural attributes* Use Enterprise Architectural Patterns to solve scalable problems on the Web* Understand design patterns from a Python perspective* Optimize the performance testing tools in Python* Deploy code in remote environments or on the Cloud using Python* Secure architecture applications in PythonIn DetailThis book starts off by explaining how Python fits into an application architecture. As you move along, you will understand the architecturally significant demands and how to determine them. Later, you'll get a complete understanding of the different architectural quality requirements that help an architect to build a product that satisfies business needs, such as maintainability/reusability, testability, scalability, performance, usability, and security.You will use various techniques such as incorporating DevOps, Continuous Integration, and more to make your application robust. You will understand when and when not to use object orientation in your applications. You will be able to think of the future and design applications that can scale proportionally to the growing business.The focus is on building the business logic based on the business process documentation and which frameworks are to be used when. We also cover some important patterns that are to be taken into account while solving design problems as well as those in relatively new domains such as the Cloud.This book will help you understand the ins and outs of Python so that you can make those critical design decisions that not just live up to but also surpass the expectations of your clients.Style and approachFilled with examples and use cases, this guide takes a no-nonsense approach to help you with everything it takes to become a successful software architect.",
+            "title_long": "Software Architecture With Python",
+            "synopsys": "Anand Balachandran Pillai. Includes Index.",
+            "title": "Software Architecture With Python"
+        },
+        "isbn": "1786468522",
+        "isbn13": "9781786468529",
+        "authors": [
+            "Anand Balachandran Pillai"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [
+            "Python (Computer program language)",
+            "QA76.73.P98 .P555 2017",
+            "005.133",
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/85/29/9781786468529.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=_hjwvQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_hjwvQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 49.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1786468522.jpg"
+    },
+    {
+        "asset": "python gui programming cookbook",
+        "page_detail": {
+            "count": 322,
+            "delta": 122
+        },
+        "pages": "322 ~ 122",
+        "title": {
+            "title_short": "Python GUI Programming Cookbook - Second Edition",
+            "subtitle": null,
+            "description": "Over 80 object-oriented recipes to help you create amazing GUIs in PythonAbout This Book* Based on the latest version of Python, 3.6* Carefully organized instructions to solve problems efficiently* Solutions that can be applied to solve real-world problemsWho This Book Is ForThis book is for intermediate Python programmers who wish to enhance their Python skills by writing powerful GUIs in Python. As Python is such a great and easy to learn language, this book is also ideal for any developer with experience of other languages and enthusiasm to expand their horizon.What you will learn* Create the GUI Form and add widgets* Arrange the widgets using layout managers* Use object-oriented programming to create GUIs* Create Matplotlib charts* Use threads and talking to networks* Talk to a MySQL database via the GUI* Perform unit-testing and internationalizing the GUI* Extend the GUI with third-party graphical libraries* Get to know the best practices to create GUIsIn DetailExplore the beautiful world of GUI development using the Python programming language. You will learn how easy it is to get started and you might be surprised how advanced you can become in just a short time of coding. GUI development using Python is not a very well-known subject. The built-in tkinter GUI framework was limited, but with the latest versions of Python 3 and tkinter, all of this has dramatically changed.This book will guide you from the very basics of creating a fully functional GUI in Python with only a few lines of code. Each and every recipe adds more widgets to the GUIs we are creating. While the cookbook recipes all stand on their own, there is a common theme running through all of them. As our GUIs keep expanding, using more and more widgets, we start to talk to networks, databases, and graphical libraries that greatly enhance our GUI's functionality.",
+            "title_long": "Python Gui Programming Cookbook - Second Edition: Use Recipes To Develop Responsive And Powerful Guis Using Tkinter",
+            "synopsys": null,
+            "title": "Python Gui Programming Cookbook - Second Edition: Use Recipes To Develop Responsive And Powerful Guis Using Tkinter"
+        },
+        "isbn": "1787129454",
+        "isbn13": "9781787129450",
+        "authors": [
+            "Burkhard A. Meier"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [],
+        "rating": 5.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/94/50/9781787129450.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=4vZCMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4vZCMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 49.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1787129454.jpg"
+    },
+    {
+        "asset": "ESP8266 Home Automation Projects",
+        "page_detail": {
+            "count": 196,
+            "delta": 0
+        },
+        "pages": 196,
+        "title": {
+            "title_short": "ESP8266 Home Automation Projects",
+            "subtitle": null,
+            "description": "Unleash the power of the ESP8266 and build a complete home automation system with it.About This Book* Harness the power of the ESP8266 Wi-Fi chip to build an effective Home Automation System* Learn about the various ESP8266 modules* Configuring the ESP8266 and making interesting home automation projects* A step-by-step guide on the ESP8266 chip and how to convert your home into a smart home.Who This Book Is ForThis book is targeted at people who want to build connected and inexpensive home automation projects using the ESP8266 Wi-Fi chip, and to completely automate their homes. A basic understanding of the board would be an added advantageWhat You Will Learn* Get, compile, install, and configure an MQTT server* Use the Wi-Fi connectivity feature to control appliances remotely* Control several home appliances using the ESP8266 Wi-Fi chip* Control and monitor your home from the cloud using ESP8266 modules* Stream real-time data from the ESP8266 to a server over WebSockets* Create an Android mobile application for your projectIn DetailThe ESP8266 is a low-cost yet powerful Wi-Fi chip that is becoming more popular at an alarming rate, and people have adopted it to create interesting projects.With this book, you will learn to create and program home automation projects using the ESP8266 Wi-Fi chip. You will learn how to build a thermostat to measure and adjust the temperature accordingly and how to build a security system using the ESP8266. Furthermore, you will design a complete home automation system from sensor to your own cloud. You will touch base on data monitoring, controlling appliances, and security aspects.By the end of the book, you will understand how to completely control and monitor your home from the cloud and from a mobile application. You will be familiar with the capabilities of the ESP8266 and will have successfully designed a complete ready-to-sell home automated system.Style and approachA practical book that will cover independent home automation projects.",
+            "title_long": "Esp8266 Home Automation Projects: Leverage The Power Of This Tiny Wifi Chip To Build Exciting Smart Home Projects",
+            "synopsys": "Catalin Batrinu.",
+            "title": "Esp8266 Home Automation Projects: Leverage The Power Of This Tiny Wifi Chip To Build Exciting Smart Home Projects"
+        },
+        "isbn": "1787282627",
+        "isbn13": "9781787282629",
+        "authors": [
+            "Catalin Batrinu"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/26/29/9781787282629.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=SmpMtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=SmpMtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 34.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1787282627.jpg"
+    },
+    {
+        "asset": "python high performance",
+        "page_detail": {
+            "count": 270,
+            "delta": 0
+        },
+        "pages": 270,
+        "title": {
+            "title_short": "Python High Performance, Second Edition",
+            "subtitle": null,
+            "description": "Learn how to use Python to create efficient applicationsAbout This Book* Identify the bottlenecks in your applications and solve them using the best profiling techniques* Write efficient numerical code in NumPy, Cython, and Pandas* Adapt your programs to run on multiple processors and machines with parallel programmingWho This Book Is ForThe book is aimed at Python developers who want to improve the performance of their application. Basic knowledge of Python is expectedWhat You Will Learn* Write efficient numerical code with the NumPy and Pandas libraries* Use Cython and Numba to achieve native performance* Find bottlenecks in your Python code using profilers* Write asynchronous code using Asyncio and RxPy* Use Tensorflow and Theano for automatic parallelism in Python* Set up and run distributed algorithms on a cluster using Dask and PySparkIn DetailPython is a versatile language that has found applications in many industries. The clean syntax, rich standard library, and vast selection of third-party libraries make Python a wildly popular language.Python High Performance is a practical guide that shows how to leverage the power of both native and third-party Python libraries to build robust applications.The book explains how to use various profilers to find performance bottlenecks and apply the correct algorithm to fix them. The reader will learn how to effectively use NumPy and Cython to speed up numerical code. The book explains concepts of concurrent programming and how to implement robust and responsive applications using Reactive programming. Readers will learn how to write code for parallel architectures using Tensorflow and Theano, and use a cluster of computers for large-scale computations using technologies such as Dask and PySpark.By the end of the book, readers will have learned to achieve performance and scale from their Python applications.Style and approachA step-by-step practical guide filled with real-world use cases and examples",
+            "title_long": "Python High Performance: Build High-performing, Concurrent, And Distributed Applications, 2nd Edition",
+            "synopsys": null,
+            "title": "Python High Performance: Build High-performing, Concurrent, And Distributed Applications, 2nd Edition"
+        },
+        "isbn": "1787282899",
+        "isbn13": "9781787282896",
+        "authors": [
+            "Gabriele Lanaro"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/28/96/9781787282896.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=YFW2AQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YFW2AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 39.99,
+        "publish_date": "2017-05-24",
+        "files": [],
+        "image": "1787282899.jpg"
+    },
+    {
+        "asset": "learning concurrency in python",
+        "page_detail": {
+            "count": 360,
+            "delta": 0
+        },
+        "pages": 360,
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": "Learning Concurrency In Python: Build Highly Efficient, Robust, And Concurrent Applications",
+            "synopsys": null,
+            "title": "Learning Concurrency In Python: Build Highly Efficient, Robust, And Concurrent Applications"
+        },
+        "isbn": "1787285375",
+        "isbn13": "9781787285378",
+        "authors": [
+            "Elliot Forbes"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/53/78/9781787285378.jpg"
+        },
+        "cost": 44.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1787285375.jpg"
+    },
+    {
+        "asset": "MQTT Essentials - A Lightweight IoT Protocol",
+        "page_detail": {
+            "count": 280,
+            "delta": 0
+        },
+        "pages": 280,
+        "title": {
+            "title_short": "MQTT Essentials - a Lightweight IoT Protocol",
+            "subtitle": null,
+            "description": "Send and receive messages with the MQTT protocol for your IoT solutions.About This Book* Make your connected devices less prone to attackers by understanding practical security mechanisms* Dive deep into one of IoT's extremely lightweight machines to enable connectivity protocol with some real-world examples* Learn to take advantage of the features included in MQTT for IoT and Machine-to-Machine communications with complete real-life examplesWho This Book Is ForThis book is a great resource for developers who want to learn more about the MQTT protocol to apply it to their individual IoT projects. Prior knowledge of working with IoT devices is essential.What You Will Learn* Understand how MQTTv3.1 and v3.1.1 works in detail* Install and secure a Mosquitto MQTT broker by following best practices* Design and develop IoT solutions combined with mobile and web apps that use MQTT messages to communicate* Explore the features included in MQTT for IoT and Machine-to-Machine communications* Publish and receive MQTT messages with Python, Java, Swift, JavaScript, and Node.js* Implement the security best practices while setting up the MQTT Mosquitto brokerIn DetailThis step-by-step guide will help you gain a deep understanding of the lightweight MQTT protocol. We'll begin with the specific vocabulary of MQTT and its working modes, followed by installing a Mosquitto MQTT broker. Then, you will use best practices to secure the MQTT Mosquitto broker to ensure that only authorized clients are able to publish and receive messages. Once you have secured the broker with the appropriate configuration, you will develop a solution that controls a drone with Python.Further on, you will use Python on a Raspberry Pi 3 board to process commands and Python on Intel Boards (Joule, Edison and Galileo). You will then connect to the MQTT broker, subscribe to topics, send messages, and receive messages in Python. You will also develop a solution that interacts with sensors in Java by working with MQTT messages.Moving forward, you will work with an asynchronous API with callbacks to make the sensors interact with MQTT messages. Following the same process, you will develop an iOS app with Swift 3, build a website that uses WebSockets to connect to the MQTT broker, and control home automation devices with HTML5, JavaScript code, Node.js and MQTT messagesStyle and approachThis step-by-step guide describes the MQTT protocol for your IoT projects",
+            "title_long": "Mqtt Essentials - A Lightweight Iot Protocol",
+            "synopsys": null,
+            "title": "Mqtt Essentials - A Lightweight Iot Protocol"
+        },
+        "isbn": "1787287815",
+        "isbn13": "9781787287815",
+        "authors": [
+            "Gaston C. Hillar"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/78/15/9781787287815.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=SyG4tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=SyG4tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 39.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1787287815.jpg"
+    },
+    {
+        "asset": "Practical Internet of Things with JavaScript",
+        "page_detail": {
+            "count": 296,
+            "delta": 0
+        },
+        "pages": 296,
+        "title": {
+            "title_short": "Practical Internet of Things with JavaScript",
+            "subtitle": "Build Standalone Exciting IoT Projects with Raspberry Pi 3 and JavaScript (ES5/ES6)",
+            "description": "End to end solutions for IoT enthusiasts and web developers Key Features Leverage the capability of IoT with the combination of Raspberry Pi 3 and JavaScript (ES5/ES6) Develop a health monitoring device along with some cool projects like Smart Agriculture & Raspberry Pi 3 based surveillance. A practical book which will help you build Mobile/Web/Desktop apps that will show how to manage and monitor data from sensors and actuators in real time. Book Description In this world of technology upgrades, IoT is currently leading with its promise to make the world a more smarter and efficient place. This book will show you how to build simple IoT solutions that will help you to understand how this technology works. We would not only explore the IoT solution stack, but we will also see how to do it with the world's most misunderstood programming language - JavaScript. Using Raspberry Pi 3 and JavaScript (ES5/ES6) as the base to build all the projects, you will begin with learning about the fundamentals of IoT and then build a standard framework for developing all the applications covered in this book. You will then move on to build a weather station with temperature, humidity and moisture sensors and further integrate Alexa with it. Further, you will build a smart wearable for understanding the concept of fall detection. You will then extend it with the 'If This Then That' (IFTTT) rules engine to send an email on fall detection. Finally, you will be working with the Raspberry Pi 3 camera module and surveillance with a bit of facial detection using Amazon Rekognition platform. At the end of the book, you will not only be able to build standalone exciting IoT applications but also learn how you can extend your projects to another level. What you will learn Integrate sensors and actuators with the cloud and control them for your Smart Weather Station. Develop your very own Amazon Alexa integrating with your IoT solution Define custom rules and execute jobs on certain data events using IFTTT Build a simple surveillance solutions using Amazon Recognition & Raspberry Pi 3 Design a fall detection system and build a notification system for it. Use Amazon Rekognition for face detection and face recognition in your Surveillance project Who this book is for This book targets IoT enthusiasts and web developers who would like to build IoT-based applications with Raspberry Pi, Arduino and JavaScript. Some knowledge about electronics and familiarity with programming concepts (JavaScript - ES5/ES6) is expected.",
+            "title_long": "Practical Internet Of Things With Javascript: Build Standalone Exciting Iot Projects With Raspberry Pi 3 And Javascript (es5/es6)",
+            "synopsys": null,
+            "title": "Practical Internet Of Things With Javascript: Build Standalone Exciting Iot Projects With Raspberry Pi 3 And Javascript (es5/es6)"
+        },
+        "isbn": "1788292944",
+        "isbn13": "9781788292948",
+        "authors": [
+            "Arvind Ravulavaru"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/29/48/9781788292948.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=Vx-ltAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Vx-ltAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 34.99,
+        "publish_date": "2017-12-22",
+        "files": [],
+        "image": "1788292944.jpg"
+    },
+    {
+        "asset": "Hands-On Chatbots and Conversational UI Development",
+        "page_detail": {
+            "count": 392,
+            "delta": 0
+        },
+        "pages": 392,
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": "Hands-on Chatbots And Conversational Ui Development: Build Chatbots And Voice User Interfaces With Chatfuel, Dialogflow, Microsoft Bot Framework, Twilio, And Alexa Skills",
+            "synopsys": "Srini Janarthanam. Includes Bibliographical References.",
+            "title": "Hands-on Chatbots And Conversational Ui Development: Build Chatbots And Voice User Interfaces With Chatfuel, Dialogflow, Microsoft Bot Framework, Twilio, And Alexa Skills"
+        },
+        "isbn": "1788294661",
+        "isbn13": "9781788294669",
+        "authors": [
+            "Srini Janarthanam"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/46/69/9781788294669.jpg"
+        },
+        "cost": 39.99,
+        "publish_date": "2017",
+        "files": [],
+        "image": "1788294661.jpg"
+    },
+    {
+        "asset": "Fundamentals of IoT Security [Video]",
+        "page_detail": {
+            "count": -1,
+            "delta": 0
+        },
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": null,
+            "synopsys": null,
+            "title": null
+        },
+        "isbn": null,
+        "isbn13": null,
+        "authors": [],
+        "publisher": [],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": null
+        },
+        "cost": -1.0,
+        "publish_date": null,
+        "files": [],
+        "image": null
+    },
+    {
+        "asset": "Mastering Internet of Things",
+        "page_detail": {
+            "count": 410,
+            "delta": 0
+        },
+        "pages": 410,
+        "title": {
+            "title_short": "Mastering Internet of Things",
+            "subtitle": "Design and Create Your Own IoT Applications Using Raspberry Pi 3",
+            "description": "Augment your IoT skills with the help of engaging and enlightening tutorials designed for Raspberry Pi 3 Key Features Design and implement state-of-the-art solutions for the Internet of Things Build complex projects using motions detectors, controllers, sensors, and Raspberry Pi 3 A hands-on guide that provides interoperable solutions for sensors, actuators, and controllers Book Description The Internet of Things (IoT) is the fastest growing technology market. Industries are embracing IoT technologies to improve operational expenses, product life, and people's well-being. Mastering Internet of Things starts by presenting IoT fundamentals and the smart city. You will learn the important technologies and protocols that are used for the Internet of Things, their features, corresponding security implications, and practical examples on how to use them. This book focuses on creating applications and services for the Internet of Things. Further, you will learn to create applications and services for the Internet of Things. You will be discover various interesting projects and understand how to publish sensor data, control devices, and react to asynchronous events using the XMPP protocol. The book also introduces chat, to interact with your devices. You will learn how to automate your tasks by using Internet of Things Service Platforms as the base for an application. You will understand the subject of privacy, requirements they should be familiar with, and how to avoid violating any of the important new regulations being introduced. At the end of the book, you will have mastered creating open, interoperable and secure networks of things, protecting the privacy and integrity of your users and their information. What you will learn Create your own project, run and debug it Master different communication patterns using the MQTT, HTTP, CoAP, LWM2M and XMPP protocols Build trust-based as hoc networks for open, secure and interoperable communication Explore the IoT Service Platform Manage the entire product life cycle of devices Understand and set up the security and privacy features required for your system Master interoperability, and how it is solved in the realms of HTTP,CoAP, LWM2M and XMPP Who this book is for If you're a developer or electronic engineer and are curious about the Internet of Things, this is the book for you. With only a rudimentary understanding of electronics and Raspberry Pi 3, and some programming experience using managed code, such as C# or Java, you will be taught to develop state-of-the-art solutions for the Internet of Things.",
+            "title_long": "Mastering Internet Of Things: Design And Create Your Own Iot Applications Using Raspberry Pi 3",
+            "synopsys": null,
+            "title": "Mastering Internet Of Things: Design And Create Your Own Iot Applications Using Raspberry Pi 3"
+        },
+        "isbn": "1788397487",
+        "isbn13": "9781788397483",
+        "authors": [
+            "Peter",
+            "Peter Waher",
+            "Waher"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/74/83/9781788397483.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=ECLFtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ECLFtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1788397487.jpg"
+    },
+    {
+        "asset": "Embedded Linux Development Using Yocto Project Cookbook - Second Edition",
+        "page_detail": {
+            "count": 456,
+            "delta": 0
+        },
+        "pages": 456,
+        "title": {
+            "title_short": "Embedded Linux Development Using Yocto Project Cookbook",
+            "subtitle": null,
+            "description": "Over 79 hands-on recipes for professional embedded Linux developers to optimize and boost their Yocto Project know-how Key Features Optimize your Yocto setup to speed up development and debug build issues Use what is quickly becoming the standard embedded Linux product builder framework--the Yocto Project Recipe-based implementation of best practices to optimize your Linux system Book Description The Yocto Project has become the de facto distribution build framework for reliable and robust embedded systems with a reduced time to market. You'll get started by working on a build system where you set up Yocto, create a build directory, and learn how to debug it. Then, you'll explore everything about the BSP layer, from creating a custom layer to debugging device tree issues. In addition to this, you'll learn how to add a new software layer, packages, data, scripts, and configuration files to your system. You will then cover topics based on application development, such as using the Software Development Kit and how to use the Yocto project in various development environments. Toward the end, you will learn how to debug, trace, and profile a running system. This second edition has been updated to include new content based on the latest Yocto release. What you will learn Optimize your Yocto Project setup to speed up development and debug build issues Use Docker containers to build Yocto Project-based systems Take advantage of the user-friendly Toaster web interface to the Yocto Project build system Build and debug the Linux kernel and its device trees Customize your root filesystem with already-supported and new Yocto packages Optimize your production systems by reducing the size of both the Linux kernel and root filesystems Explore the mechanisms to increase the root filesystem security Understand the open source licensing requirements and how to comply with them when cohabiting with proprietary programs Create recipes, and build and run applications in C, C++, Python, Node.js, and Java Who this book is for If you are an embedded Linux developer with the basic knowledge of Yocto Project, this book is an ideal way to broaden your knowledge with recipes for embedded development.",
+            "title_long": "Embedded Linux Development Using Yocto Project Cookbook: Practical Recipes To Help You Leverage The Power Of Yocto To Build Exciting Linux-based Systems, 2nd Edition",
+            "synopsys": "Alex Gonza\ufffd\ufffdlez. Previous Edition Published: 2015. Includes Bibliographical References.",
+            "title": "Embedded Linux Development Using Yocto Project Cookbook: Practical Recipes To Help You Leverage The Power Of Yocto To Build Exciting Linux-based Systems, 2nd Edition"
+        },
+        "isbn": "1788399218",
+        "isbn13": "9781788399210",
+        "authors": [
+            "Alex Gonzalez",
+            "Alex Gonz\u00e1lez"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/92/10/9781788399210.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=eV3htAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=eV3htAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1788399218.jpg"
+    },
+    {
+        "asset": "Internet of Things for Architects",
+        "page_detail": {
+            "count": 524,
+            "delta": 0
+        },
+        "pages": 524,
+        "title": {
+            "title_short": "Internet of Things for Architects",
+            "subtitle": null,
+            "description": "Learn to design, implement and secure your IoT infrastructure Key Features Build a complete IoT system that is the best fit for your organization Learn about different concepts, technologies, and tradeoffs in the IoT architectural stack Understand the theory, concepts, and implementation of each element that comprises IoT design--from sensors to the cloud Implement best practices to ensure the reliability, scalability, robust communication systems, security, and data analysis in your IoT infrastructure Book Description The Internet of Things (IoT) is the fastest growing technology market. Industries are embracing IoT technologies to improve operational expenses, product life, and people's well-being. An architectural guide is necessary if you want to traverse the spectrum of technologies needed to build a successful IoT system, whether that's a single device or millions of devices. This book encompasses the entire spectrum of IoT solutions, from sensors to the cloud. We start by examining modern sensor systems and focus on their power and functionality. After that, we dive deep into communication theory, paying close attention to near-range PAN, including the new Bluetooth\ufffd 5.0 specification and mesh networks. Then, we explore IP-based communication in LAN and WAN, including 802.11ah, 5G LTE cellular, SigFox, and LoRaWAN. Next, we cover edge routing and gateways and their role in fog computing, as well as the messaging protocols of MQTT and CoAP. With the data now in internet form, you'll get an understanding of cloud and fog architectures, including the OpenFog standards. We wrap up the analytics portion of the book with the application of statistical analysis, complex event processing, and deep learning models. Finally, we conclude by providing a holistic view of the IoT security stack and the anatomical details of IoT exploits while countering them with software defined perimeters and blockchains. What you will learn Understand the role and scope of architecting a successful IoT deployment, from sensors to the cloud Scan the landscape of IoT technologies that span everything from sensors to the cloud and everything in between See the trade-offs in choices of protocols and communications in IoT deployments Build a repertoire of skills and the vernacular necessary to work in the IoT space Broaden your skills in multiple engineering domains necessary for the IoT architect Who this book is for This book is for architects, system designers, technologists, and technology managers who want to understand the IoT ecosphere, various technologies, and tradeoffs and develop a 50,000-foot view of IoT architecture.",
+            "title_long": "Internet Of Things For Architects: Architecting Iot Solutions By Implementing Sensors, Communication Infrastructure, Edge Computing, Analytics, And Security",
+            "synopsys": "Perry Lea.",
+            "title": "Internet Of Things For Architects: Architecting Iot Solutions By Implementing Sensors, Communication Infrastructure, Edge Computing, Analytics, And Security"
+        },
+        "isbn": "1788470591",
+        "isbn13": "9781788470599",
+        "authors": [
+            "Perry Lea"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/05/99/9781788470599.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=e6n1swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=e6n1swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 44.99,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1788470591.jpg"
+    },
+    {
+        "asset": "Building Smart LEGO MINDSTORMS EV3 Robots",
+        "page_detail": {
+            "count": 258,
+            "delta": 0
+        },
+        "pages": 258,
+        "title": {
+            "title_short": "Building Smart LEGO MINDSTORMS EV3 Robots",
+            "subtitle": "Leverage the LEGO MINDSTORMS EV3 Platform to Build and Program Intelligent Robots",
+            "description": "Build and program smart robots with the EV3. Key Features Efficiently build smart robots with the LEGO MINDSTORMS EV3 Discover building techniques and programming concepts that are used by engineers to prototype robots in the real world This project-based guide will teach you how to build exciting projects such as the objecta-tracking tank, ultimate all-terrain vehicle, remote control race car, or even a GPS-navigating autonomous vehicle Book Description Smart robots are an ever-increasing part of our daily lives. With LEGO MINDSTORMS EV3, you can now prototype your very own small-scale smart robot that uses specialized programming and hardware to complete a mission. EV3 is a robotics platform for enthusiasts of all ages and experience levels that makes prototyping robots accessible to all. This book will walk you through six different projects that range from intermediate to advanced level. The projects will show you building and programming techniques that are used by engineers in the real world, which will help you build your own smart robot. You'll see how to make the most of the EV3 robotics platform and build some awesome smart robots. The book starts by introducing some real-world examples of smart robots. Then, we'll walk you through six different projects and explain the features that allow these robots to make intelligent decisions. The book will guide you as you build your own object-tracking tank, a box-climbing robot, an interactive robotic shark, a quirky bipedal robot, a speedy remote control race car, and a GPS-navigating robot. By the end of this book, you'll have the skills necessary to build and program your own smart robots with EV3. What you will learn Understand the characteristics that make a robot smart Grasp proportional beacon following and use proximity sensors to track an object Discover how mechanisms such as rack-and-pinion and the worm gear work Program a custom GUI to make a robot more user friendly Make a fun and quirky interactive robot that has its own personality Get to know the principles of remote control and programming car-style steering Understand some of the mechanisms that enable a car to drive Navigate to a destination with a GPS receiver Who this book is for This book is for hobbyists, robotic engineers, and programmers who understand the basics of the EV3 programming language and are familiar with building with LEGO Technic and want to try some advanced projects. If you want to learn some new engineering techniques and take your experience with the EV3 to the next level, then this book is for you.",
+            "title_long": "Building Smart Lego Mindstorms Ev3 Robots: Leverage The Lego Mindstorms Ev3 Platform To Build And Program Intelligent Robots",
+            "synopsys": null,
+            "title": "Building Smart Lego Mindstorms Ev3 Robots: Leverage The Lego Mindstorms Ev3 Platform To Build And Program Intelligent Robots"
+        },
+        "isbn": "1788471563",
+        "isbn13": "9781788471565",
+        "authors": [
+            "Kyle Markland"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": 5.0,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/15/65/9781788471565.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=qQ3PtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=qQ3PtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 29.99,
+        "publish_date": "2018-04-03",
+        "files": [],
+        "image": "1788471563.jpg"
+    },
+    {
+        "asset": "Mastering IoT with Arduino [Video]",
+        "page_detail": {
+            "count": -1,
+            "delta": 0
+        },
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": null,
+            "synopsys": null,
+            "title": null
+        },
+        "isbn": null,
+        "isbn13": null,
+        "authors": [],
+        "publisher": [],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": null
+        },
+        "cost": -1.0,
+        "publish_date": null,
+        "files": [],
+        "image": null
+    },
+    {
+        "asset": "Internet of Things with Python and Raspberry Pi [Video]",
+        "page_detail": {
+            "count": -1,
+            "delta": 0
+        },
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": null,
+            "synopsys": null,
+            "title": null
+        },
+        "isbn": null,
+        "isbn13": null,
+        "authors": [],
+        "publisher": [],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": null
+        },
+        "cost": -1.0,
+        "publish_date": null,
+        "files": [],
+        "image": null
+    },
+    {
+        "asset": "Mastering ROS for Robotics Programming - Second Edition",
+        "page_detail": {
+            "count": 580,
+            "delta": 0
+        },
+        "pages": 580,
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": "Mastering Ros For Robotics Programming - Second Edition: Design, Build, And Simulate Complex Robots Using The Robot Operating System",
+            "synopsys": "Lentin Joseph, Jonathan Cacace.",
+            "title": "Mastering Ros For Robotics Programming - Second Edition: Design, Build, And Simulate Complex Robots Using The Robot Operating System"
+        },
+        "isbn": "1788478959",
+        "isbn13": "9781788478953",
+        "authors": [
+            "Lentin Joseph",
+            "Jonathan Cacace"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/89/53/9781788478953.jpg"
+        },
+        "cost": 0.0,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1788478959.jpg"
+    },
+    {
+        "asset": "Raspberry Pi 3 Cookbook for Python Programmers - Third Edition",
+        "page_detail": {
+            "count": 552,
+            "delta": 0
+        },
+        "pages": 552,
+        "title": {
+            "title_short": "Raspberry Pi 3 Cookbook for Python Programmers - Third Edition",
+            "subtitle": null,
+            "description": "A recipe-based guide to programming your Raspberry Pi 3 using Python Key Features Leverage the power of Raspberry Pi 3 using Python programming Create 3D games, build neural network modules, and interface with your own circuits Packed with clear, step-by-step recipes to walk you through the capabilities of Raspberry Pi Book Description Raspberry Pi 3 Cookbook for Python Programmers - Third Edition begins by guiding you through setting up Raspberry Pi 3, performing tasks using Python 3.6, and introducing the first steps to interface with electronics. As you work through each chapter, you will build your skills and apply them as you progress. You will learn how to build text classifiers, predict sentiments in words, develop applications using the popular Tkinter library, and create games by controlling graphics on your screen. You will harness the power of a built in graphics processor using Pi3D to generate your own high-quality 3D graphics and environments. You will understand how to connect Raspberry Pi's hardware pins directly to control electronics, from switching on LEDs and responding to push buttons to driving motors and servos. Get to grips with monitoring sensors to gather real-life data, using it to control other devices, and viewing the results over the internet. You will apply what you have learned by creating your own Pi-Rover or Pi-Hexipod robots. You will also learn about sentiment analysis, face recognition techniques, and building neural network modules for optical character recognition. Finally, you will learn to build movie recommendations system on Raspberry Pi 3. What you will learn Learn to set up and run Raspberry Pi 3 Build text classifiers and perform automation using Python Predict sentiments in words and create games and graphics Detect edges and contours in images Build human face detection and recognition system Use Python to drive hardware Sense and display real-world data Build a neural network module for optical character recognition Build movie recommendations system Who this book is for This book is for anyone who wants to master the skills of Python programming using Raspberry Pi 3. Prior knowledge of Python will be an added advantage.",
+            "title_long": "Raspberry Pi 3 Cookbook For Python Programmers: Unleash The Potential Of Raspberry Pi 3 With Over 100 Recipes, 3rd Edition",
+            "synopsys": null,
+            "title": "Raspberry Pi 3 Cookbook For Python Programmers: Unleash The Potential Of Raspberry Pi 3 With Over 100 Recipes, 3rd Edition"
+        },
+        "isbn": "1788629876",
+        "isbn13": "9781788629874",
+        "authors": [
+            "Tim Cox",
+            "Dr. Steven Lawrence Fernandes",
+            "Steven Lawrence"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/98/74/9781788629874.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=Tz-itQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Tz-itQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 34.99,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1788629876.jpg"
+    },
+    {
+        "asset": "Mastering Arduino",
+        "page_detail": {
+            "count": 372,
+            "delta": 0
+        },
+        "pages": 372,
+        "title": {
+            "title_short": "Mastering Arduino",
+            "subtitle": "A Project-Based Approach to Electronics, Circuits, and Programming",
+            "description": "Mastering Arduino is a practical, no-nonsense guide that will teach you the electronics and programming skills that you need to create advanced Arduino projects. Key Features Covers enough electronics and code for users at any level Includes complete circuit diagrams for all projects Final robot project combines knowledge from all the chapters Book Description Mastering Arduino is an all-in-one guide to getting the most out of your Arduino. This practical, no-nonsense guide teaches you all of the electronics and programming skills that you need to create advanced Arduino projects. This book is packed full of real-world projects for you to practice on, bringing all of the knowledge in the book together and giving you the skills to build your own robot from the examples in this book. The final two chapters discuss wireless technologies and how they can be used in your projects. The book begins with the basics of electronics, making sure that you understand components, circuits, and prototyping before moving on. It then performs the same function for code, getting you into the Arduino IDE and showing you how to connect the Arduino to a computer and run simple projects on your Arduino. Once the basics are out of the way, the next 10 chapters of the book focus on small projects centered around particular components, such as LCD displays, stepper motors, or voice synthesizers. Each of these chapters will get you familiar with the technology involved, how to build with it, how to program it, and how it can be used in your own projects. What you will learn Explains the basics of electronics and circuits along with the Arduino IDE and basic C operations Use sensors to build a mini weather station Control LEDs using code Power a robot arm using stepper motors Remotely control your Arduino using RF, Bluetooth LE, and Bluetooth Classic Make a sound tone generator with buttons Who this book is for Mastering Arduino is for anybody who wants to experiment with an Arduino board and build simple projects. No prior knowledge is required, as the fundamentals of electronics and coding are covered in this book as well as advance projects.",
+            "title_long": "Mastering Arduino: A Project-based Approach To Electronics, Circuits, And Programming",
+            "synopsys": null,
+            "title": "Mastering Arduino: A Project-based Approach To Electronics, Circuits, And Programming"
+        },
+        "isbn": "178883058x",
+        "isbn13": "9781788830584",
+        "authors": [
+            "Jon Hoffman"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/05/84/9781788830584.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=ZUittQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZUittQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 39.99,
+        "publish_date": "2018",
+        "files": [],
+        "image": "178883058x.jpg"
+    },
+    {
+        "asset": "Introduction to Internet of Things [Video]",
+        "page_detail": {
+            "count": -1,
+            "delta": 0
+        },
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": null,
+            "synopsys": null,
+            "title": null
+        },
+        "isbn": null,
+        "isbn13": null,
+        "authors": [],
+        "publisher": [],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": null
+        },
+        "cost": -1.0,
+        "publish_date": null,
+        "files": [],
+        "image": null
+    },
+    {
+        "asset": "Python Robotics Projects",
+        "page_detail": {
+            "count": 340,
+            "delta": 0
+        },
+        "pages": 340,
+        "title": {
+            "title_short": "Python Robotics Projects",
+            "subtitle": null,
+            "description": "Leverage the power of Python to build DIY robotic projects Key Features Design, build, and stimulate collaborative robots Build high-end robotics projects such as a customized personal Jarvis Leverage the power of Python and ROS for DIY robotic projects Book Description Robotics is a fast-growing industry. Multiple surveys state that investment in the field has increased tenfold in the last 6 years, and is set to become a $100-billion sector by 2020. Robots are prevalent throughout all industries, and they are all set to be a part of our domestic lives. This book starts with the installation and basic steps in configuring a robotic controller. You'll then move on to setting up your environment to use Python with the robotic controller. You'll dive deep into building simple robotic projects, such as a pet-feeding robot, and more complicated projects, such as machine learning enabled home automation system (Jarvis), vision processing based robots and a self-driven robotic vehicle using Python. By the end of this book, you'll know how to build smart robots using Python. What you will learn Get to know the basics of robotics and its functions Walk through interface components with microcontrollers Integrate robotics with the IoT environment Build projects using machine learning Implement path planning and vision processing Interface your robots with Bluetooth Who this book is for If building robots is your dream, then this book is made for you. Prior knowledge of Python would be an added advantage.",
+            "title_long": "Python Robotics Projects: Build Smart And Collaborative Robots Using Python",
+            "synopsys": null,
+            "title": "Python Robotics Projects: Build Smart And Collaborative Robots Using Python"
+        },
+        "isbn": "1788832922",
+        "isbn13": "9781788832922",
+        "authors": [
+            "Diwakar Vaish",
+            "Prof. Diwakar Vaish"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/29/22/9781788832922.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=ZJDBtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZJDBtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 44.99,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1788832922.jpg"
+    },
+    {
+        "asset": "Artificial Intelligence for Robotics",
+        "page_detail": {
+            "count": 344,
+            "delta": 100
+        },
+        "pages": "344 ~ 100",
+        "title": {
+            "title_short": "Artificial Intelligence for Robotics",
+            "subtitle": null,
+            "description": "Bring a new degree of interconnectivity to your world by building your own intelligent robots Key Features Leverage fundamentals of AI and robotics Work through use cases to implement various machine learning algorithms Explore Natural Language Processing (NLP) concepts for efficient decision making in robots Book Description Artificial Intelligence for Robotics starts with an introduction to Robot Operating Systems (ROS), Python, robotic fundamentals, and the software and tools that are required to start out with robotics. You will learn robotics concepts that will be useful for making decisions, along with basic navigation skills. As you make your way through the chapters, you will learn about object recognition and genetic algorithms, which will teach your robot to identify and pick up an irregular object. With plenty of use cases throughout, you will explore natural language processing (NLP) and machine learning techniques to further enhance your robot. In the concluding chapters, you will learn about path planning and goal-oriented programming, which will help your robot prioritize tasks. By the end of this book, you will have learned to give your robot an artificial personality using simulated intelligence. What you will learn Get started with robotics and artificial intelligence Apply simulation techniques to give your robot an artificial personality Understand object recognition using neural networks and supervised learning techniques Pick up objects using genetic algorithms for manipulation Teach your robot to listen using NLP via an expert system Use machine learning and computer vision to teach your robot how to avoid obstacles Understand path planning, decision trees, and search algorithms in order to enhance your robot Who this book is for If you have basic knowledge about robotics and want to build or enhance your existing robot's intelligence, then Artificial Intelligence for Robotics is for you. This book is also for enthusiasts who want to gain knowledge of AI and robotics.",
+            "title_long": "Artificial Intelligence For Robotics: Build Intelligent Robots That Perform Human Tasks Using Ai Techniques",
+            "synopsys": null,
+            "title": "Artificial Intelligence For Robotics: Build Intelligent Robots That Perform Human Tasks Using Ai Techniques"
+        },
+        "isbn": "1788835441",
+        "isbn13": "9781788835442",
+        "authors": [
+            "Francis X. Govers"
+        ],
+        "publisher": [
+            "Packt Publishing - Ebooks Account"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/54/42/9781788835442.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=Bs3LtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Bs3LtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1788835441.jpg"
+    },
+    {
+        "asset": "Hands-On IoT Solutions with Blockchain",
+        "page_detail": {
+            "count": -1,
+            "delta": 0
+        },
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": "Hands-on Iot Solutions With Blockchain: Discover How Converging Iot And Blockchain Can Help You Build Effective Solutions",
+            "synopsys": null,
+            "title": "Hands-on Iot Solutions With Blockchain: Discover How Converging Iot And Blockchain Can Help You Build Effective Solutions"
+        },
+        "isbn": "178913224X",
+        "isbn13": "9781789132243",
+        "authors": [
+            "Maximiliano Santos",
+            "Enio Moura"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/22/43/9781789132243.jpg"
+        },
+        "cost": 0.0,
+        "publish_date": "2019",
+        "files": [],
+        "image": "178913224X.jpg"
+    },
+    {
+        "asset": "Internet of Things Programming Projects",
+        "page_detail": {
+            "count": 436,
+            "delta": 0
+        },
+        "pages": 436,
+        "title": {
+            "title_short": "Internet of Things Programming Projects",
+            "subtitle": null,
+            "description": "A practical project-based guide to help you build and control your IoT projects Key Features Leverage the full potential of IoT with the combination of Raspberry Pi 3 and Python Build complex Python-based applications with IoT Work on various IoT projects and understand the basics of electronics Book Description The Internet of Things (IOT) has managed to attract the attention of researchers and tech enthusiasts, since it powerfully combines classical networks with instruments and devices. In Internet of Things Programming Projects, we unleash the power of Raspberry Pi and Python to create engaging projects. In the first part of the book, you'll be introduced to the Raspberry Pi, learn how to set it up, and then jump right into Python programming. Then, you'll dive into real-world computing by creating a\"Hello World\" app using flash LEDs. As you make your way through the chapters, you'll go back to an age when analog needle meters ruled the world of data display. You'll learn to retrieve weather data from a web service and display it on an analog needle meter, and build a home security system using the Raspberry Pi. The next project has a modern twist, where we employ the Raspberry Pi to send a signal to a web service that will send you a text when someone is at the door. In the final project, you take what you've learned from the previous two projects and create an IoT robot car that you can use to monitor what your pets are up to when you are away. By the end of this book, you will be well versed in almost every possible way to make your IoT projects stand out. What you will learn Install and set up a Raspberry Pi for IoT development Learn how to use a servo motor as an analog needle meter to read data Build a home security dashboard using an infrared motion detector Communicate with a web service that sends you a message when the doorbell rings Receive data and display it with an actuator connected to the Raspberry Pi Build an IoT robot car that is controlled through the internet Who this book is for Internet of Things Programming Projects is for Python developers and programmers who are interested in building their own IoT applications and IoT-based projects. It is also targeted at IoT programmers and developers who are looking to build exciting projects with Python.",
+            "title_long": "Internet Of Things Programming Projects: Build Modern Iot Solutions With The Raspberry Pi 3 And Python",
+            "synopsys": null,
+            "title": "Internet Of Things Programming Projects: Build Modern Iot Solutions With The Raspberry Pi 3 And Python"
+        },
+        "isbn": "1789134803",
+        "isbn13": "9781789134803",
+        "authors": [
+            "Colin Dow"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computer programming"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/48/03/9781789134803.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=9eHmuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9eHmuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 39.99,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1789134803.jpg"
+    },
+    {
+        "asset": "mastering python networking",
+        "page_detail": {
+            "count": 466,
+            "delta": 0
+        },
+        "pages": 466,
+        "title": {
+            "title_short": "Mastering Python Networking",
+            "subtitle": "Your One-Stop Solution to Using Python for Network Automation, DevOps, and Test-Driven Development, 2nd Edition",
+            "description": "Master the art of using Python for a diverse range of network engineering tasks Key Features Explore the power of Python libraries to tackle difficult network problems efficiently and effectively Use Python for network device automation, DevOps, and software-defined networking Become an expert in implementing advanced network-related tasks with Python Book Description Networks in your infrastructure set the foundation for how your application can be deployed, maintained, and serviced. Python is the ideal language for network engineers to explore tools that were previously available to systems engineers and application developers. In this second edition of Mastering Python Networking, you'll embark on a Python-based journey to transition from traditional network engineers to network developers ready for the next-generation of networks. This book begins by reviewing the basics of Python and teaches you how Python can interact with both legacy and API-enabled network devices. As you make your way through the chapters, you will then learn to leverage high-level Python packages and frameworks to perform network engineering tasks for automation, monitoring, management, and enhanced security. In the concluding chapters, you will use Jenkins for continuous network integration as well as testing tools to verify your network. By the end of this book, you will be able to perform all networking tasks with ease using Python. What you will learn Use Python libraries to interact with your network Integrate Ansible 2.5 using Python to control Cisco, Juniper, and Arista eAPI network devices Leverage existing frameworks to construct high-level APIs Learn how to build virtual networks in the AWS Cloud Understand how Jenkins can be used to automatically deploy changes in your network Use PyTest and Unittest for Test-Driven Network Development Who this book is for Mastering Python Networking is for network engineers and programmers who want to use Python for networking. Basic familiarity with Python programming and networking-related concepts such as Transmission Control Protocol/Internet Protocol (TCP/IP) will be useful.",
+            "title_long": "Mastering Python Networking: Your One-stop Solution To Using Python For Network Automation, Devops, And Test-driven Development, 2nd Edition",
+            "synopsys": null,
+            "title": "Mastering Python Networking: Your One-stop Solution To Using Python For Network Automation, Devops, And Test-driven Development, 2nd Edition"
+        },
+        "isbn": "1789135990",
+        "isbn13": "9781789135992",
+        "authors": [
+            "Eric Chou"
+        ],
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/59/92/9781789135992.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=gu3iuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gu3iuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1789135990.jpg"
+    },
+    {
+        "asset": "Learn Robotics Programming",
+        "page_detail": {
+            "count": 472,
+            "delta": 0
+        },
+        "pages": 472,
+        "title": {
+            "title_short": "Learn Robotics Programming",
+            "subtitle": null,
+            "description": "Gain experience of building a next-generation collaboration robot Key Features Get up and running with the fundamentals of robotic programming Program a robot using Python and the Raspberry Pi 3 Learn to build a smart robot with interactive and AI-enabled behaviors Book Description We live in an age where the most difficult human tasks are now automated. Smart and intelligent robots, which will perform different tasks precisely and efficiently, are the requirement of the hour. A combination of Raspberry Pi and Python works perfectly when making these kinds of robots. Learn Robotics Programming starts by introducing you to the basic structure of a robot, along with how to plan, build, and program it. As you make your way through the book, you will gradually progress to adding different outputs and sensors, learning new building skills, and writing code for interesting behaviors with sensors. You'll also be able to update your robot, and set up web, phone, and Wi-Fi connectivity in order to control it. By the end of the book, you will have built a clever robot that can perform basic artificial intelligence (AI) operations. What you will learn Configure a Raspberry Pi for use in a robot Interface motors and sensors with a Raspberry Pi Implement code to make interesting and intelligent robot behaviors Understand the first steps in AI behavior such as speech recognition visual processing Control AI robots using Wi-Fi Plan the budget for requirements of robots while choosing parts Who this book is for Learn Robotics Programming is for programmers, developers, and enthusiasts interested in robotics and developing a fully functional robot. No major experience required just some programming knowledge would be sufficient.",
+            "title_long": "Learn Robotics Programming",
+            "synopsys": null,
+            "title": "Learn Robotics Programming"
+        },
+        "isbn": "1789340748",
+        "isbn13": "9781789340747",
+        "authors": [
+            "Danny",
+            "Staple",
+            "Danny Staple"
+        ],
+        "publisher": [
+            "Packt Publishing 2018-11-30"
+        ],
+        "categories": [
+            "Computers"
+        ],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": "https://images.isbndb.com/covers/07/47/9781789340747.jpg",
+            "smallThumbnail": "http://books.google.com/books/content?id=zHH_uQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=zHH_uQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "cost": 0.0,
+        "publish_date": "2018",
+        "files": [],
+        "image": "1789340748.jpg"
+    },
+    {
+        "asset": "Learn Raspberry Pi [Video]",
+        "page_detail": {
+            "count": -1,
+            "delta": 0
+        },
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": null,
+            "synopsys": null,
+            "title": null
+        },
+        "isbn": null,
+        "isbn13": null,
+        "authors": [],
+        "publisher": [],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": null
+        },
+        "cost": -1.0,
+        "publish_date": null,
+        "files": [],
+        "image": null
+    },
+    {
+        "asset": "The Internet of Things Using Augmented Reality in Unity IoTAR [Video]",
+        "page_detail": {
+            "count": -1,
+            "delta": 0
+        },
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": null,
+            "synopsys": null,
+            "title": null
+        },
+        "isbn": null,
+        "isbn13": null,
+        "authors": [],
+        "publisher": [],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": null
+        },
+        "cost": -1.0,
+        "publish_date": null,
+        "files": [],
+        "image": null
+    },
+    {
+        "asset": "Build and Program Smart LEGO Mindstorm EV3 Robot [Video]",
+        "page_detail": {
+            "count": -1,
+            "delta": 0
+        },
+        "title": {
+            "title_short": null,
+            "subtitle": null,
+            "description": null,
+            "title_long": null,
+            "synopsys": null,
+            "title": null
+        },
+        "isbn": null,
+        "isbn13": null,
+        "authors": [],
+        "publisher": [],
+        "categories": [],
+        "rating": -1,
+        "rating_count": -1,
+        "images": {
+            "image": null
+        },
+        "cost": -1.0,
+        "publish_date": null,
+        "files": [],
+        "image": null
+    }
+]

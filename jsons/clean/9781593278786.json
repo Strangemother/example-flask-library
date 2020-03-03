@@ -1,0 +1,42 @@
+{
+    "asset": "serious python",
+    "page_detail": {
+        "count": 218,
+        "delta": 22
+    },
+    "pages": "218 ~ 22",
+    "title": {
+        "title_short": "Serious Python",
+        "subtitle": "Black-belt Advice on Deployment, Scalability, Testing, and More",
+        "description": "The Hacker's Guide to Pythonwill teach you how to fine tune your Python code and give you a deeper understanding of how the language works under the hood. This essential guide distills years of Python experience into a handy collection of general advice and specific tips that will help you pick the right libraries, distribute your code correctly, build future-proof programs, and optimize your programs down to the bytecode. Author Julien Danjou, an OpenStack contributor (the largest open source project written in Python) covers a swath of important areas like scaling, testing, and porting your code. You'll also learn directly from Python experts and get real-world (and time-saving) advice on topics like unit testing, packaging code, performances and optimizations, and designing APIs. Elevate your code and get seriously good at Python with The Hacker's Guide to Python!",
+        "title_long": "Serious Python",
+        "synopsys": "Offers Experienced Coders Advice And Tips For Improving Knowledge Of Python Coding Language. Includes Interviews With Python Experts And Covers A Wide Range Of Common Topics, From Scaling And Testing Code To Designing Apis--",
+        "title": "Serious Python"
+    },
+    "isbn": "1593278780",
+    "isbn13": "9781593278786",
+    "authors": [
+        "Julien Danjou",
+        "Danjou, Julien, Author.",
+        "Danjou, Julien"
+    ],
+    "publisher": [
+        "No Starch Press",
+        "No Starch Press, Inc.,"
+    ],
+    "categories": [
+        "Python (computer Program Language)",
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/87/86/9781593278786.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=OtqttAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=OtqttAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2019",
+    "files": [],
+    "image": "1593278780.jpg"
+}

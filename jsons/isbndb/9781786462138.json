@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "image": "https://images.isbndb.com/covers/21/38/9781786462138.jpg",
+        "title_long": "Python Data Science Essentials - Second Edition: Become An Efficient Data Science Practitioner By Understanding Python's Key Concepts",
+        "edition": "2",
+        "pages": 378,
+        "date_published": "2016",
+        "authors": [
+            "Alberto Boschetti",
+            "Luca Massaron"
+        ],
+        "title": "Python Data Science Essentials - Second Edition: Become An Efficient Data Science Practitioner By Understanding Python's Key Concepts",
+        "isbn13": "9781786462138",
+        "msrp": "44.99",
+        "binding": "Paperback",
+        "publish_date": "2016",
+        "isbn": "1786462133"
+    }
+}

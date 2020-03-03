@@ -1,0 +1,17 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "image": "https://images.isbndb.com/covers/22/51/9781786462251.jpg",
+        "title_long": "Building Restful Python Web Services",
+        "pages": 335,
+        "date_published": "2016-10-27",
+        "authors": [
+            "Gaston C. Hillar"
+        ],
+        "title": "Building Restful Python Web Services",
+        "isbn13": "9781786462251",
+        "msrp": "49.99",
+        "binding": "Paperback",
+        "isbn": "1786462257"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "asset": "expert python programming",
+    "page_detail": {
+        "count": 536,
+        "delta": 0
+    },
+    "pages": 536,
+    "title": {
+        "title_short": "Expert Python Programming, Second Edition",
+        "subtitle": null,
+        "description": "Become an ace Python programmer by learning best coding practices and advance-level concepts with Python 3.5About This Book- Based on the latest stable version of Python (version 3.5)- Creating well manageable code that will run in various environments with different sets of dependencies- Packed with advanced concepts and best practices to write efficient Python codeWho This Book Is ForThe book would appeal to web developers and Python programmers who want to start using version 3.5 and write code efficiently. Basic knowledge of Python programming is expected.What You Will Learn- Conventions and best practices that are widely adopted in the python community- Package python code effectively for community and production use- Easy and lightweight ways to automate code deployment on remote systems- Improve your code's quality, reliability, and performance- Write concurrent code in python- Extend python with code written in different languagesIn DetailPython is a dynamic programming language, used in a wide range of domains by programmers who find it simple, yet powerful. Even if you find writing Python code easy, writing code that is efficient and easy to maintain and reuse is a challenge.The focus of the book is to familiarize you with common conventions, best practices, useful tools and standards used by python professionals on a daily basis when working with code.You will begin with knowing new features in Python 3.5 and quick tricks for improving productivity. Next, you will learn advanced and useful python syntax elements brought to this new version. Using advanced object-oriented concepts and mechanisms available in python, you will learn different approaches to implement metaprogramming. You will learn to choose good names, write packages, and create standalone executables easily.You will also be using some powerful tools such as buildout and vitualenv to release and deploy the code on remote servers for production use. Moving on, you will learn to effectively create Python extensions with C, C++, cython, and pyrex. The important factors while writing code such as code management tools, writing clear documentation, and test-driven development are also covered.You will now dive deeper to make your code efficient with general rules of optimization, strategies for finding bottlenecks, and selected tools for application optimization.By the end of the book, you will be an expert in writing efficient and maintainable code.Style and approach An easy-to-follow guide that covers industry followed best practices in Python programming",
+        "title_long": "Expert Python Programming - Second Edition",
+        "synopsys": null,
+        "title": "Expert Python Programming - Second Edition"
+    },
+    "isbn": "1785886851",
+    "isbn13": "9781785886850",
+    "authors": [
+        "Tarek Ziade",
+        "Michal Jaworski"
+    ],
+    "publisher": [
+        "Packt Publishing - Ebooks Account",
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/68/50/9781785886850.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=_PG3DAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=_PG3DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 34.99,
+    "publish_date": "2016",
+    "files": [],
+    "image": "1785886851.jpg"
+}

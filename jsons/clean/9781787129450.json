@@ -1,0 +1,36 @@
+{
+    "asset": "python gui programming cookbook",
+    "page_detail": {
+        "count": 322,
+        "delta": 122
+    },
+    "pages": "322 ~ 122",
+    "title": {
+        "title_short": "Python GUI Programming Cookbook - Second Edition",
+        "subtitle": null,
+        "description": "Over 80 object-oriented recipes to help you create amazing GUIs in PythonAbout This Book* Based on the latest version of Python, 3.6* Carefully organized instructions to solve problems efficiently* Solutions that can be applied to solve real-world problemsWho This Book Is ForThis book is for intermediate Python programmers who wish to enhance their Python skills by writing powerful GUIs in Python. As Python is such a great and easy to learn language, this book is also ideal for any developer with experience of other languages and enthusiasm to expand their horizon.What you will learn* Create the GUI Form and add widgets* Arrange the widgets using layout managers* Use object-oriented programming to create GUIs* Create Matplotlib charts* Use threads and talking to networks* Talk to a MySQL database via the GUI* Perform unit-testing and internationalizing the GUI* Extend the GUI with third-party graphical libraries* Get to know the best practices to create GUIsIn DetailExplore the beautiful world of GUI development using the Python programming language. You will learn how easy it is to get started and you might be surprised how advanced you can become in just a short time of coding. GUI development using Python is not a very well-known subject. The built-in tkinter GUI framework was limited, but with the latest versions of Python 3 and tkinter, all of this has dramatically changed.This book will guide you from the very basics of creating a fully functional GUI in Python with only a few lines of code. Each and every recipe adds more widgets to the GUIs we are creating. While the cookbook recipes all stand on their own, there is a common theme running through all of them. As our GUIs keep expanding, using more and more widgets, we start to talk to networks, databases, and graphical libraries that greatly enhance our GUI's functionality.",
+        "title_long": "Python Gui Programming Cookbook - Second Edition: Use Recipes To Develop Responsive And Powerful Guis Using Tkinter",
+        "synopsys": null,
+        "title": "Python Gui Programming Cookbook - Second Edition: Use Recipes To Develop Responsive And Powerful Guis Using Tkinter"
+    },
+    "isbn": "1787129454",
+    "isbn13": "9781787129450",
+    "authors": [
+        "Burkhard A. Meier"
+    ],
+    "publisher": [
+        "Packt Publishing - Ebooks Account"
+    ],
+    "categories": [],
+    "rating": 5.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/94/50/9781787129450.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=4vZCMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=4vZCMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 49.99,
+    "publish_date": "2017",
+    "files": [],
+    "image": "1787129454.jpg"
+}

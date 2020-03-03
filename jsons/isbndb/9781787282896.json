@@ -1,0 +1,18 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/28/96/9781787282896.jpg",
+        "title_long": "Python High Performance: Build High-performing, Concurrent, And Distributed Applications, 2nd Edition",
+        "edition": "2",
+        "pages": 270,
+        "date_published": "2017-05-24",
+        "authors": [
+            "Gabriele Lanaro"
+        ],
+        "title": "Python High Performance: Build High-performing, Concurrent, And Distributed Applications, 2nd Edition",
+        "isbn13": "9781787282896",
+        "msrp": "39.99",
+        "binding": "Paperback",
+        "isbn": "1787282899"
+    }
+}

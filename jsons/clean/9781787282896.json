@@ -1,0 +1,38 @@
+{
+    "asset": "python high performance",
+    "page_detail": {
+        "count": 270,
+        "delta": 0
+    },
+    "pages": 270,
+    "title": {
+        "title_short": "Python High Performance, Second Edition",
+        "subtitle": null,
+        "description": "Learn how to use Python to create efficient applicationsAbout This Book* Identify the bottlenecks in your applications and solve them using the best profiling techniques* Write efficient numerical code in NumPy, Cython, and Pandas* Adapt your programs to run on multiple processors and machines with parallel programmingWho This Book Is ForThe book is aimed at Python developers who want to improve the performance of their application. Basic knowledge of Python is expectedWhat You Will Learn* Write efficient numerical code with the NumPy and Pandas libraries* Use Cython and Numba to achieve native performance* Find bottlenecks in your Python code using profilers* Write asynchronous code using Asyncio and RxPy* Use Tensorflow and Theano for automatic parallelism in Python* Set up and run distributed algorithms on a cluster using Dask and PySparkIn DetailPython is a versatile language that has found applications in many industries. The clean syntax, rich standard library, and vast selection of third-party libraries make Python a wildly popular language.Python High Performance is a practical guide that shows how to leverage the power of both native and third-party Python libraries to build robust applications.The book explains how to use various profilers to find performance bottlenecks and apply the correct algorithm to fix them. The reader will learn how to effectively use NumPy and Cython to speed up numerical code. The book explains concepts of concurrent programming and how to implement robust and responsive applications using Reactive programming. Readers will learn how to write code for parallel architectures using Tensorflow and Theano, and use a cluster of computers for large-scale computations using technologies such as Dask and PySpark.By the end of the book, readers will have learned to achieve performance and scale from their Python applications.Style and approachA step-by-step practical guide filled with real-world use cases and examples",
+        "title_long": "Python High Performance: Build High-performing, Concurrent, And Distributed Applications, 2nd Edition",
+        "synopsys": null,
+        "title": "Python High Performance: Build High-performing, Concurrent, And Distributed Applications, 2nd Edition"
+    },
+    "isbn": "1787282899",
+    "isbn13": "9781787282896",
+    "authors": [
+        "Gabriele Lanaro"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/28/96/9781787282896.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=YFW2AQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YFW2AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 39.99,
+    "publish_date": "2017-05-24",
+    "files": [],
+    "image": "1787282899.jpg"
+}

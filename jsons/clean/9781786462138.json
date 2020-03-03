@@ -1,0 +1,37 @@
+{
+    "asset": "python data science essentials",
+    "page_detail": {
+        "count": 378,
+        "delta": 0
+    },
+    "pages": 378,
+    "title": {
+        "title_short": "Python Data Science Essentials - Second Edition",
+        "subtitle": null,
+        "description": "Become an efficient data science practitioner by understanding Python's key conceptsAbout This Book- Quickly get familiar with data science using Python 3.5- Save time (and effort) with all the essential tools explained- Create effective data science projects and avoid common pitfalls with the help of examples and hints dictated by experienceWho This Book Is ForIf you are an aspiring data scientist and you have at least a working knowledge of data analysis and Python, this book will get you started in data science. Data analysts with experience of R or MATLAB will also find the book to be a comprehensive reference to enhance their data manipulation and machine learning skills.What You Will Learn- Set up your data science toolbox using a Python scientific environment on Windows, Mac, and Linux- Get data ready for your data science project- Manipulate, fix, and explore data in order to solve data science problems- Set up an experimental pipeline to test your data science hypotheses- Choose the most effective and scalable learning algorithm for your data science tasks- Optimize your machine learning models to get the best performance- Explore and cluster graphs, taking advantage of interconnections and links in your dataIn DetailFully expanded and upgraded, the second edition of Python Data Science Essentials takes you through all you need to know to suceed in data science using Python. Get modern insight into the core of Python data, including the latest versions of Jupyter notebooks, NumPy, pandas and scikit-learn. Look beyond the fundamentals with beautiful data visualizations with Seaborn and ggplot, web development with Bottle, and even the new frontiers of deep learning with Theano and TensorFlow. Dive into building your essential Python 3.5 data science toolbox, using a single-source approach that will allow to to work with Python 2.7 as well. Get to grips fast with data munging and preprocessing, and all the techniques you need to load, analyse, and process your data. Finally, get a complete overview of principal machine learning algorithms, graph analysis techniques, and all the visualization and deployment instruments that make it easier to present your results to an audience of both data science experts and business users.Style and approachThe book is structured as a data science project. You will always benefit from clear code and simplified examples to help you understand the underlying mechanics and real-world datasets.",
+        "title_long": "Python Data Science Essentials - Second Edition: Become An Efficient Data Science Practitioner By Understanding Python's Key Concepts",
+        "synopsys": null,
+        "title": "Python Data Science Essentials - Second Edition: Become An Efficient Data Science Practitioner By Understanding Python's Key Concepts"
+    },
+    "isbn": "1786462133",
+    "isbn13": "9781786462138",
+    "authors": [
+        "Alberto Boschetti",
+        "Luca Massaron"
+    ],
+    "publisher": [
+        "Packt Publishing - Ebooks Account"
+    ],
+    "categories": [],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/21/38/9781786462138.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=8TCEvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=8TCEvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 44.99,
+    "publish_date": "2016",
+    "files": [],
+    "image": "1786462133.jpg"
+}

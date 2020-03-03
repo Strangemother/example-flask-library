@@ -1,0 +1,73 @@
+{
+    "kind": "books#volume",
+    "id": "aerzvQAACAAJ",
+    "etag": "9+homPk5XXg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/aerzvQAACAAJ",
+    "volumeInfo": {
+        "title": "Python Data Structures and Algorithm",
+        "authors": [
+            "Benjamin Baka"
+        ],
+        "publisher": "Packt Publishing",
+        "publishedDate": "2017-05-30",
+        "description": "Implement classic and functional data structures and algorithms using PythonAbout This Book* A step by step guide, which will provide you with a thorough discussion on the analysis and design of fundamental Python data structures.* Get a better understanding of advanced Python concepts such as big-o notation, dynamic programming, and functional data structures.* Explore illustrations to present data structures and algorithms, as well as their analysis, in a clear, visual manner.Who This Book Is ForThe book will appeal to Python developers. A basic knowledge of Python is expected.What You Will Learn* Gain a solid understanding of Python data structures.* Build sophisticated data applications.* Understand the common programming patterns and algorithms used in Python data science.* Write efficient robust code.In DetailData structures allow you to organize data in a particular way efficiently. They are critical to any problem, provide a complete solution, and act like reusable code. In this book, you will learn the essential Python data structures and the most common algorithms. With this easy-to-read book, you will be able to understand the power of linked lists, double linked lists, and circular linked lists. You will be able to create complex data structures such as graphs, stacks and queues. We will explore the application of binary searches and binary search trees. You will learn the common techniques and structures used in tasks such as preprocessing, modeling, and transforming data. We will also discuss how to organize your code in a manageable, consistent, and extendable way. The book will explore in detail sorting algorithms such as bubble sort, selection sort, insertion sort, and merge sort. By the end of the book, you will learn how to build components that are easy to understand, debug, and use in different applications.Style and approachThe easy-to-read book with its fast-paced nature will improve the productivity of Python programmers and improve the performance of Python applications.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1786467356"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781786467355"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=aerzvQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aerzvQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aerzvQAACAAJ&dq=isbn:9781786467355&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aerzvQAACAAJ&dq=isbn:9781786467355&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Data_Structures_and_Algorithm.html?hl=&id=aerzvQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aerzvQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Implement classic and functional data structures and algorithms using PythonAbout This Book* A step by step guide, which will provide you with a thorough discussion on the analysis and design of fundamental Python data structures.* Get a ..."
+    }
+}

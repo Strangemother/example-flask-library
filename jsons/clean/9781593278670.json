@@ -1,0 +1,38 @@
+{
+    "asset": "math adventures with python",
+    "page_detail": {
+        "count": 304,
+        "delta": 0
+    },
+    "pages": 304,
+    "title": {
+        "title_short": "Math Adventures with Python",
+        "subtitle": "Fractals, Automata, 3D Graphics, and More!",
+        "description": "\"Teaches math concepts through programming. Begins with a crash course in basic programming concepts and how to use Python's built-in Turtle module, and then explores topics like writing programs to solve equations and matrices, drawing polygons and fractals, and using the Processing graphics library to create interactive 2D and 3D models\"--",
+        "title_long": "Math Adventures With Python: An Illustrated Guide To Exploring Math With Code",
+        "synopsys": "Teaches Math Concepts Through Programming. Begins With A Crash Course In Basic Programming Concepts And How To Use Python's Built-in Turtle Module, And Then Explores Topics Like Writing Programs To Solve Equations And Matrices, Drawing Polygons And Fractals, And Using The Processing Graphics Library To Create Interactive 2d And 3d Models--",
+        "title": "Math Adventures With Python: An Illustrated Guide To Exploring Math With Code"
+    },
+    "isbn": "1593278675",
+    "isbn13": "9781593278670",
+    "authors": [
+        "Peter Farrell"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Mathematics"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/86/70/9781593278670.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=d_s1tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=d_s1tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 29.95,
+    "publish_date": "2019",
+    "files": [],
+    "image": "1593278675.jpg"
+}

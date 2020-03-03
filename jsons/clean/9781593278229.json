@@ -1,0 +1,38 @@
+{
+    "asset": "cracking codes with python",
+    "page_detail": {
+        "count": 416,
+        "delta": 0
+    },
+    "pages": 416,
+    "title": {
+        "title_short": "Cracking Codes with Python",
+        "subtitle": "An Introduction to Building and Breaking Ciphers",
+        "description": "Cracking Secret Codes with Python is a hands-on introduction to Python that teaches readers how to make and hack cipher programs, which are used to encrypt secret messages. It covers ciphers like the Caesar cipher, transposition cipher, and the RSA cipher, and teaches readers how to test and hack them. For every program, Sweigart provides the full source code and then walks readers through it, explaining how every line works. Along the way, readers will learn Python fundamentals - and by the book's end, they'll have a solid foundation in Python and some fun programs under their belt.",
+        "title_long": "Cracking Codes With Python: An Introduction To Building And Breaking Ciphers",
+        "synopsys": "Presents A Crash Course In Python Programming, Followed By Instructions For Making, Testing, And Hacking Classic Cipher Programs, From The Caesar Cipher To Public Key Cryptography And The Rsa Cipher--",
+        "title": "Cracking Codes With Python: An Introduction To Building And Breaking Ciphers"
+    },
+    "isbn": "1593278225",
+    "isbn13": "9781593278229",
+    "authors": [
+        "Al Sweigart"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/82/29/9781593278229.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=fQIWuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=fQIWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 29.95,
+    "publish_date": "2018",
+    "files": [],
+    "image": "1593278225.jpg"
+}

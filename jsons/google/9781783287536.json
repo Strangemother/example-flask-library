@@ -1,0 +1,72 @@
+{
+    "kind": "books#volume",
+    "id": "mI3JsgEACAAJ",
+    "etag": "sv6xJ7EsXYA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/mI3JsgEACAAJ",
+    "volumeInfo": {
+        "title": "Learning Robotics Using Python",
+        "authors": [
+            "Lentin Joseph"
+        ],
+        "publishedDate": "2015",
+        "description": "If you are an engineer, a researcher, or a hobbyist, and you are interested in robotics and want to build your own robot, this book is for you. Readers are assumed to be new to robotics but should have experience with Python.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1783287535"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781783287536"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=mI3JsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mI3JsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=mI3JsgEACAAJ&dq=isbn:9781783287536&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=mI3JsgEACAAJ&dq=isbn:9781783287536&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_Robotics_Using_Python.html?hl=&id=mI3JsgEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mI3JsgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "If you are an engineer, a researcher, or a hobbyist, and you are interested in robotics and want to build your own robot, this book is for you. Readers are assumed to be new to robotics but should have experience with Python."
+    }
+}

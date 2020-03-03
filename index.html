@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Library</title>
+    <link rel="stylesheet" href="static/css/main.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Library</h1>
+    </header>
+    <section>
+        <p>My personal collection of useful coding books</p>
+    </section>
+    <section id="actions">
+        <ul class="styles">
+            <li class="style-item" v-for='value in items'>
+                <label @click='select'>
+                    <input type="checkbox" :value='value' v-model='selected'>
+                    <span class="value">{{ value }}</span>
+                </label>
+            </li>
+        </ul>
+    </section>
+    <section id='books'>
+        <ul class='books'>
+            <li class='book'
+                v-for='book in items'
+                :id='book.name'>
+                <div class="image">
+                    <div class="img-container sticky">
+                        <img :src="'jsons/images/' + book.image" :alt="book.alt_title">
+                    </div>
+                </div>
+                <div class="content">
+                    <h2>{{ book.title.title }}</h2>
+                    <p class="caption">{{ book.caption }}</p>
+                    <div class="meta">
+                        <div class="isbn">{{ book.isbn }}</div>
+                        <a :href="book.url" class="external">Website</a>
+                        <div class="files">
+                            <div class="count">{{ book.files.length }}</div>
+                            <ul class="files">
+                                <li class="file"
+                                    v-for='file in book.files'>
+                                    <a :href="file">
+                                        <i class="material-icons">picture_as_pdf</i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="supplement">
+                            <ul class="supplements">
+                                <li class="supplement"
+                                    v-for='name in book.supplement'>
+                                        <ul class="supplement-files">
+                                            <li class="supplement-file"><a href="#">{{ name }}</a></li>
+                                        </ul>
+                                    </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="desc">
+                        <p>{{ book.desc }}</p>
+                    </div>
+                </div>
+
+            </li>
+        </ul>
+    </section>
+
+    <script src="static/js/jquery-2.1.1.min.js"></script>
+    <script src="static/js/vue.js"></script>
+    <script src="static/js/index.js"></script>
+</body>
+</html>

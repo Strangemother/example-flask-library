@@ -1,0 +1,70 @@
+{
+    "kind": "books#volume",
+    "id": "ZbTHjwEACAAJ",
+    "etag": "4Tj/NxtFqfg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZbTHjwEACAAJ",
+    "volumeInfo": {
+        "title": "Mastering Python",
+        "authors": [
+            "Rick van Hattem",
+            "Igor Milovanovic"
+        ],
+        "publishedDate": "2016-04-29",
+        "description": "Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offersAbout This Book- Become familiar with the most important and advanced parts of the Python code style- Learn the trickier aspects of Python and put it in a structured context for deeper understanding of the language- Offers an expert's-eye overview of how these advanced tasks fit together in Python as a whole along with practical examplesWho This Book Is ForAlmost anyone can learn to write working script and create high quality code but they might lack a structured understanding of what it means to be 'Pythonic'. If you are a Python programmer who wants to code efficiently by getting the syntax and usage of a few intricate Python techniques exactly right, this book is for you.What You Will Learn- Create a virtualenv and start a new project- Understand how and when to use the functional programming paradigm- Get familiar with the different ways the decorators can be written in- Understand the power of generators and coroutines without digressing into lambda calculus- Create metaclasses and how it makes working with Python far easier- Generate HTML documentation out of documents and code using Sphinx- Learn how to track and optimize application performance, both memory and cpu- Use the multiprocessing library, not just locally but also across multiple machines- Get a basic understanding of packaging and creating your own libraries/applicationsIn DetailPython is a dynamic programming language. It is known for its high readability and hence it is often the first language learned by new programmers. Python being multi-paradigm, it can be used to achieve the same thing in different ways and it is compatible across different platforms. Even if you find writing Python code easy, writing code that is efficient, easy to maintain, and reuse is not so straightforward.This book is an authoritative guide that will help you learn new advanced methods in a clear and contextualised way. It starts off by creating a project-specific environment using venv, introducing you to different Pythonic syntax and common pitfalls before moving on to cover the functional features in Python. It covers how to create different decorators, generators, and metaclasses. It also introduces you to functools.wraps and coroutines and how they work. Later on you will learn to use asyncio module for asynchronous clients and servers. You will also get familiar with different testing systems such as py.test, doctest, and unittest, and debugging tools such as Python debugger and faulthandler. You will learn to optimize application performance so that it works efficiently across multiple machines and Python versions. Finally, it will teach you how to access C functions with a simple Python call. By the end of the book, you will be able to write more advanced scripts and take on bigger challenges.Style and ApproachThis book is a comprehensive guide that covers advanced features of the Python language, and communicate them with an authoritative understanding of the underlying rationale for how, when, and why to use them.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1785289721"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781785289729"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 486,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ZbTHjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZbTHjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZbTHjwEACAAJ&dq=isbn:9781785289729&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZbTHjwEACAAJ&dq=isbn:9781785289729&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Python.html?hl=&id=ZbTHjwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZbTHjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Master the art of writing beautiful and powerful Python by using all of the features that Python 3.5 offersAbout This Book- Become familiar with the most important and advanced parts of the Python code style- Learn the trickier aspects of ..."
+    }
+}

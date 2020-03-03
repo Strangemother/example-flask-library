@@ -1,0 +1,19 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/59/92/9781789135992.jpg",
+        "title_long": "Mastering Python Networking: Your One-stop Solution To Using Python For Network Automation, Devops, And Test-driven Development, 2nd Edition",
+        "edition": "2",
+        "pages": 466,
+        "date_published": "2018",
+        "authors": [
+            "Eric Chou"
+        ],
+        "title": "Mastering Python Networking: Your One-stop Solution To Using Python For Network Automation, Devops, And Test-driven Development, 2nd Edition",
+        "isbn13": "9781789135992",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2018",
+        "isbn": "1789135990"
+    }
+}

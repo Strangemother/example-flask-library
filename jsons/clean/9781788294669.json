@@ -1,0 +1,34 @@
+{
+    "asset": "Hands-On Chatbots and Conversational UI Development",
+    "page_detail": {
+        "count": 392,
+        "delta": 0
+    },
+    "pages": 392,
+    "title": {
+        "title_short": null,
+        "subtitle": null,
+        "description": null,
+        "title_long": "Hands-on Chatbots And Conversational Ui Development: Build Chatbots And Voice User Interfaces With Chatfuel, Dialogflow, Microsoft Bot Framework, Twilio, And Alexa Skills",
+        "synopsys": "Srini Janarthanam. Includes Bibliographical References.",
+        "title": "Hands-on Chatbots And Conversational Ui Development: Build Chatbots And Voice User Interfaces With Chatfuel, Dialogflow, Microsoft Bot Framework, Twilio, And Alexa Skills"
+    },
+    "isbn": "1788294661",
+    "isbn13": "9781788294669",
+    "authors": [
+        "Srini Janarthanam"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/46/69/9781788294669.jpg"
+    },
+    "cost": 39.99,
+    "publish_date": "2017",
+    "files": [],
+    "image": "1788294661.jpg"
+}

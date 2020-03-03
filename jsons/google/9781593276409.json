@@ -1,0 +1,74 @@
+{
+    "kind": "books#volume",
+    "id": "EvWbCgAAQBAJ",
+    "etag": "hrurBRzIsng",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/EvWbCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Doing Math with Python",
+        "subtitle": "Use Programming to Explore Algebra, Statistics, Calculus, and More!",
+        "authors": [
+            "Amit Saha"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2015",
+        "description": "Doing Math with Python shows you how to use Python to delve into high school\u2013level math topics like statistics, geometry, probability, and calculus. You\u2019ll start with simple projects, like a factoring program and a quadratic-equation solver, and then create more complex projects once you\u2019ve gotten the hang of things. Along the way, you\u2019ll discover new ways to explore math and gain valuable programming skills that you\u2019ll use throughout your study of math and computer science. Learn how to: -Describe your data with statistics, and visualize it with line graphs, bar charts, and scatter plots -Explore set theory and probability with programs for coin flips, dicing, and other games of chance -Solve algebra problems using Python\u2019s symbolic math functions -Draw geometric shapes and explore fractals like the Barnsley fern, the Sierpinski triangle, and the Mandelbrot set -Write programs to find derivatives and integrate functions Creative coding challenges and applied examples help you see how you can put your new math and coding skills into practice. You\u2019ll write an inequality solver, plot gravity\u2019s effect on how far a bullet will travel, shuffle a deck of cards, estimate the area of a circle by throwing 100,000 \u201cdarts\u201d at a board, explore the relationship between the Fibonacci sequence and the golden ratio, and more. Whether you\u2019re interested in math but have yet to dip into programming or you\u2019re a teacher looking to bring programming into the classroom, you\u2019ll find that Python makes programming easy and practical. Let Python handle the grunt work while you focus on the math.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593276409"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593276400"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=EvWbCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EvWbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=EvWbCgAAQBAJ&printsec=frontcover&dq=isbn:9781593276409&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=EvWbCgAAQBAJ&dq=isbn:9781593276409&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Doing_Math_with_Python.html?hl=&id=EvWbCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EvWbCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Let Python handle the grunt work while you focus on the math."
+    }
+}

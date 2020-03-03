@@ -1,0 +1,47 @@
++ Code Craft: The Practice Of Writing Excellent Code
++ Gray Hat Python: Python Programming For Hackers And Reverse Engineers
++ Python For Kids: A Playful Introduction To Programming
++ Black Hat Python: Python Programming For Hackers And Pentesters
++ Automate The Boring Stuff With Python: Practical Programming For Total Beginners
++ Python Playground: Geeky Projects For The Curious Programmer
++ Teach Your Kids To Code: A Parent-friendly Guide To Python Programming
++ Doing Math With Python: Use Programming To Explore Algebra, Statistics, Calculus, And More!
++ Invent Your Own Computer Games With Python, 4e
++ Cracking Codes With Python: An Introduction To Building And Breaking Ciphers
++ Mission Python: Code A Space Adventure Game!
++ Math Adventures With Python: An Illustrated Guide To Exploring Math With Code
++ Serious Python
++ Impractical Python Projects: Playful Programming Activities To Make You Smarter
++ Learning Robotics Using Python: Design, Simulate, Program, And Prototy...
++ Ros Robotics Projects: Make Your Robots See, Sense, And Interact With Cool And Engaging Projects With Robotic Operating System
++ Python Machine Learning, 1st Edition
++ Python Data Analysis Cookbook
++ Mastering Python: Master The Art Of Writing Beautiful And Powerful Python By Using All Of The Features That Python 3.5 Offers
++ Python Microservices Development: Build, Test, Deploy, And Scale Microservices In Python
++ Web Development With Django Cookbook - Second Edition
++ Expert Python Programming - Second Edition
++ Python Data Science Essentials - Second Edition: Become An Efficient Data Science Practitioner By Understanding Python's Key Concepts
++ Building Restful Python Web Services
++ Artificial Intelligence With Python
++ Python Data Structures And Algorithms: Improve Application Performance With Graphs, Stacks, And Queues
++ Python Programming With Raspberry Pi
++ Software Architecture With Python
++ Python Gui Programming Cookbook - Second Edition: Use Recipes To Develop Responsive And Powerful Guis Using Tkinter
++ Esp8266 Home Automation Projects: Leverage The Power Of This Tiny Wifi Chip To Build Exciting Smart Home Projects
++ Python High Performance: Build High-performing, Concurrent, And Distributed Applications, 2nd Edition
++ Learning Concurrency In Python: Build Highly Efficient, Robust, And Concurrent Applications
++ Mqtt Essentials - A Lightweight Iot Protocol
++ Practical Internet Of Things With Javascript: Build Standalone Exciting Iot Projects With Raspberry Pi 3 And Javascript (es5/es6)
++ Hands-on Chatbots And Conversational Ui Development
++ Mastering Internet Of Things: Design And Create Your Own Iot Applications Using Raspberry Pi
++ Embedded Linux Development Using Yocto Project Cookbook: Practical Recipes To Help You Leverage The Power Of Yocto To Build Exciting Linux-based + Systems, 2nd Edition
++ Internet Of Things For Architects: Architecting Iot Solutions By Implementing Sensors, Communication Infrastructure, Edge Computing, Analytics, And + Security
++ Building Smart Lego Mindstorms Ev3 Robots: Leverage The Lego Mindstorms Ev3 Platform To Build And Program Intelligent Robots1
++ Mastering Ros For Robotics Programming - Second Edition: Design, Build, And Simulate Complex Robots Using The Robot Operating System
++ Raspberry Pi 3 Cookbook For Python Programmers: Unleash The Potential Of Raspberry Pi 3 With Over 100 Recipes, 3rd Edition
++ Mastering Arduino: A Project-based Approach To Electronics, Circuits, And Programming
++ Python Robotics Projects: Build Smart And Collaborative Robots Using Python
++ Artificial Intelligence For Robotics: Build Intelligent Robots That Perform Human Tasks Using Ai Techniques
++ Hands-on Iot Solutions With Blockchain: Discover How Converging Iot And Blockchain Can Help You Build Effective Solutions
++ Internet Of Things Programming Projects: Build Modern Iot Solutions With The Raspberry Pi 3 And Python
++ Mastering Python Networking: Your One-stop Solution To Using Python For Network Automation, Devops, And Test-driven Development, 2nd Edition

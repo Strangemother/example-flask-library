@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "Teaches Math Concepts Through Programming. Begins With A Crash Course In Basic Programming Concepts And How To Use Python's Built-in Turtle Module, And Then Explores Topics Like Writing Programs To Solve Equations And Matrices, Drawing Polygons And Fractals, And Using The Processing Graphics Library To Create Interactive 2d And 3d Models--",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/86/70/9781593278670.jpg",
+        "title_long": "Math Adventures With Python: An Illustrated Guide To Exploring Math With Code",
+        "pages": 304,
+        "date_published": "2019",
+        "authors": [
+            "Peter Farrell"
+        ],
+        "title": "Math Adventures With Python: An Illustrated Guide To Exploring Math With Code",
+        "isbn13": "9781593278670",
+        "msrp": "29.95",
+        "binding": "Paperback",
+        "publish_date": "2019",
+        "isbn": "1593278675"
+    }
+}

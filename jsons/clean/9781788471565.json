@@ -1,0 +1,38 @@
+{
+    "asset": "Building Smart LEGO MINDSTORMS EV3 Robots",
+    "page_detail": {
+        "count": 258,
+        "delta": 0
+    },
+    "pages": 258,
+    "title": {
+        "title_short": "Building Smart LEGO MINDSTORMS EV3 Robots",
+        "subtitle": "Leverage the LEGO MINDSTORMS EV3 Platform to Build and Program Intelligent Robots",
+        "description": "Build and program smart robots with the EV3. Key Features Efficiently build smart robots with the LEGO MINDSTORMS EV3 Discover building techniques and programming concepts that are used by engineers to prototype robots in the real world This project-based guide will teach you how to build exciting projects such as the objecta-tracking tank, ultimate all-terrain vehicle, remote control race car, or even a GPS-navigating autonomous vehicle Book Description Smart robots are an ever-increasing part of our daily lives. With LEGO MINDSTORMS EV3, you can now prototype your very own small-scale smart robot that uses specialized programming and hardware to complete a mission. EV3 is a robotics platform for enthusiasts of all ages and experience levels that makes prototyping robots accessible to all. This book will walk you through six different projects that range from intermediate to advanced level. The projects will show you building and programming techniques that are used by engineers in the real world, which will help you build your own smart robot. You'll see how to make the most of the EV3 robotics platform and build some awesome smart robots. The book starts by introducing some real-world examples of smart robots. Then, we'll walk you through six different projects and explain the features that allow these robots to make intelligent decisions. The book will guide you as you build your own object-tracking tank, a box-climbing robot, an interactive robotic shark, a quirky bipedal robot, a speedy remote control race car, and a GPS-navigating robot. By the end of this book, you'll have the skills necessary to build and program your own smart robots with EV3. What you will learn Understand the characteristics that make a robot smart Grasp proportional beacon following and use proximity sensors to track an object Discover how mechanisms such as rack-and-pinion and the worm gear work Program a custom GUI to make a robot more user friendly Make a fun and quirky interactive robot that has its own personality Get to know the principles of remote control and programming car-style steering Understand some of the mechanisms that enable a car to drive Navigate to a destination with a GPS receiver Who this book is for This book is for hobbyists, robotic engineers, and programmers who understand the basics of the EV3 programming language and are familiar with building with LEGO Technic and want to try some advanced projects. If you want to learn some new engineering techniques and take your experience with the EV3 to the next level, then this book is for you.",
+        "title_long": "Building Smart Lego Mindstorms Ev3 Robots: Leverage The Lego Mindstorms Ev3 Platform To Build And Program Intelligent Robots",
+        "synopsys": null,
+        "title": "Building Smart Lego Mindstorms Ev3 Robots: Leverage The Lego Mindstorms Ev3 Platform To Build And Program Intelligent Robots"
+    },
+    "isbn": "1788471563",
+    "isbn13": "9781788471565",
+    "authors": [
+        "Kyle Markland"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": 5.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/15/65/9781788471565.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=qQ3PtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=qQ3PtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 29.99,
+    "publish_date": "2018-04-03",
+    "files": [],
+    "image": "1788471563.jpg"
+}

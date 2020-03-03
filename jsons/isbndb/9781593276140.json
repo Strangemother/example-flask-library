@@ -1,0 +1,21 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "A Guide To Teaching Basic Programming Skills For Parents And Teachers, With Step-by-step Explanations, Visual Examples, And Exercises. Covers Programming Concepts Including Loops, Lists, Functions, And Variables, And How To Build Games And Applications--",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/61/40/9781593276140.jpg",
+        "title_long": "Teach Your Kids To Code: A Parent-friendly Guide To Python Programming",
+        "edition": "1",
+        "pages": 336,
+        "date_published": "2015",
+        "authors": [
+            "Bryson Payne"
+        ],
+        "title": "Teach Your Kids To Code: A Parent-friendly Guide To Python Programming",
+        "isbn13": "9781593276140",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2015",
+        "isbn": "1593276141"
+    }
+}

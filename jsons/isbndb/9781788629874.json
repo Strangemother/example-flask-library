@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/98/74/9781788629874.jpg",
+        "title_long": "Raspberry Pi 3 Cookbook For Python Programmers: Unleash The Potential Of Raspberry Pi 3 With Over 100 Recipes, 3rd Edition",
+        "edition": "3",
+        "pages": 552,
+        "date_published": "2018",
+        "authors": [
+            "Tim Cox",
+            "Dr. Steven Lawrence Fernandes"
+        ],
+        "title": "Raspberry Pi 3 Cookbook For Python Programmers: Unleash The Potential Of Raspberry Pi 3 With Over 100 Recipes, 3rd Edition",
+        "isbn13": "9781788629874",
+        "msrp": "34.99",
+        "binding": "Paperback",
+        "publish_date": "2018",
+        "isbn": "1788629876"
+    }
+}

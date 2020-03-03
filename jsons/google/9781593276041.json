@@ -1,0 +1,76 @@
+{
+    "kind": "books#volume",
+    "id": "YRHSCgAAQBAJ",
+    "etag": "feZE4jOxogk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YRHSCgAAQBAJ",
+    "volumeInfo": {
+        "title": "Python Playground",
+        "subtitle": "Geeky Projects for the Curious Programmer",
+        "authors": [
+            "Mahesh Venkitachalam"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2015-10-01",
+        "description": "Python is a powerful programming language that\u2019s easy to learn and fun to play with. But once you\u2019ve gotten a handle on the basics, what do you do next? Python Playground is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi. You\u2019ll learn to use common Python tools and libraries like numpy, matplotlib, and pygame to do things like: *Generate Spirograph-like patterns using parametric equations and the turtle module *Create music on your computer by simulating frequency overtones *Translate graphical images into ASCII art *Write an autostereogram program that produces 3D images hidden beneath random patterns *Make realistic animations with OpenGL shaders by exploring particle systems, transparency, and billboarding techniques *Construct 3D visualizations using data from CT and MRI scans *Build a laser show that responds to music by hooking up your computer to an Arduino Programming shouldn\u2019t be a chore. Have some solid, geeky fun with Python Playground. The projects in this book are compatible with both Python 2 and 3.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593276041"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593276044"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=YRHSCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YRHSCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YRHSCgAAQBAJ&pg=PP1&dq=isbn:9781593276041&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YRHSCgAAQBAJ&dq=isbn:9781593276041&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Playground.html?hl=&id=YRHSCgAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YRHSCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Have some solid, geeky fun with Python Playground. The projects in this book are compatible with both Python 2 and 3."
+    }
+}

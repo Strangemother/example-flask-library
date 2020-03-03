@@ -1,0 +1,21 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "Python Is The High-level Language Of Choice For Hackers And Software Security Analysts Because It Makes It Easy To Write Powerful And Effective Security Tools. A Follow-up To The Perennial Best-seller Gray Hat Python (2011), The All-new Black Hat Python Explores The Darker Side Of Python's Capabilities - Writing Network Sniffers, Manipulating Packets, Web Hacking, Infecting Virtual Machines, Creating Stealthy Trojans, Extending The Popular Web Hacking Tool Burp Suite, And More. By Showing How Carefully Crafted Code Can Be Used To Disrupt And Disable A System, Black Hat Python Will Help You Test Your Systems And Improve Your Security Posture. Insider Techniques And Creative Challenges Show You How To Extend The Hacks, And Are Sure To Make Black Hat Python Irresistible To Anyone Interested In Offensive Security.",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/59/07/9781593275907.jpg",
+        "title_long": "Black Hat Python: Python Programming For Hackers And Pentesters",
+        "edition": "1",
+        "pages": 192,
+        "date_published": "2015",
+        "authors": [
+            "Justin Seitz"
+        ],
+        "title": "Black Hat Python: Python Programming For Hackers And Pentesters",
+        "isbn13": "9781593275907",
+        "msrp": "34.95",
+        "binding": "Paperback",
+        "publish_date": "2015",
+        "isbn": "1593275900"
+    }
+}

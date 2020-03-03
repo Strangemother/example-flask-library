@@ -1,0 +1,38 @@
+{
+    "asset": "blackhat python",
+    "page_detail": {
+        "count": 192,
+        "delta": 0
+    },
+    "pages": 192,
+    "title": {
+        "title_short": "Black Hat Python",
+        "subtitle": "Python Programming for Hackers and Pentesters",
+        "description": "In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you\u2019ll explore the darker side of Python\u2019s capabilities\u2014writing network sniffers, manipulating packets, infecting virtual machines, creating stealthy trojans, and more. You\u2019ll learn how to: Create a trojan command-and-control using GitHubDetect sandboxing and automate com\u00admon malware tasks, like keylogging and screenshottingEscalate Windows privileges with creative process controlUse offensive memory forensics tricks to retrieve password hashes and inject shellcode into a virtual machineExtend the popular Burp Suite web-hacking toolAbuse Windows COM automation to perform a man-in-the-browser attackExfiltrate data from a network most sneakily Insider techniques and creative challenges throughout show you how to extend the hacks and how to write your own exploits. When it comes to offensive security, your ability to create powerful tools on the fly is indispensable. Learn how in Black Hat Python.",
+        "title_long": "Black Hat Python: Python Programming For Hackers And Pentesters",
+        "synopsys": "Python Is The High-level Language Of Choice For Hackers And Software Security Analysts Because It Makes It Easy To Write Powerful And Effective Security Tools. A Follow-up To The Perennial Best-seller Gray Hat Python (2011), The All-new Black Hat Python Explores The Darker Side Of Python's Capabilities - Writing Network Sniffers, Manipulating Packets, Web Hacking, Infecting Virtual Machines, Creating Stealthy Trojans, Extending The Popular Web Hacking Tool Burp Suite, And More. By Showing How Carefully Crafted Code Can Be Used To Disrupt And Disable A System, Black Hat Python Will Help You Test Your Systems And Improve Your Security Posture. Insider Techniques And Creative Challenges Show You How To Extend The Hacks, And Are Sure To Make Black Hat Python Irresistible To Anyone Interested In Offensive Security.",
+        "title": "Black Hat Python: Python Programming For Hackers And Pentesters"
+    },
+    "isbn": "1593275900",
+    "isbn13": "9781593275907",
+    "authors": [
+        "Justin Seitz"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/59/07/9781593275907.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=9MS9BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=9MS9BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "cost": 34.95,
+    "publish_date": "2015",
+    "files": [],
+    "image": "1593275900.jpg"
+}

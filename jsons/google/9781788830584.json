@@ -1,0 +1,73 @@
+{
+    "kind": "books#volume",
+    "id": "ZUittQEACAAJ",
+    "etag": "o5CjAqAYu3U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUittQEACAAJ",
+    "volumeInfo": {
+        "title": "Mastering Arduino",
+        "subtitle": "A Project-Based Approach to Electronics, Circuits, and Programming",
+        "authors": [
+            "Jon Hoffman"
+        ],
+        "publishedDate": "2018-09-28",
+        "description": "Mastering Arduino is a practical, no-nonsense guide that will teach you the electronics and programming skills that you need to create advanced Arduino projects. Key Features Covers enough electronics and code for users at any level Includes complete circuit diagrams for all projects Final robot project combines knowledge from all the chapters Book Description Mastering Arduino is an all-in-one guide to getting the most out of your Arduino. This practical, no-nonsense guide teaches you all of the electronics and programming skills that you need to create advanced Arduino projects. This book is packed full of real-world projects for you to practice on, bringing all of the knowledge in the book together and giving you the skills to build your own robot from the examples in this book. The final two chapters discuss wireless technologies and how they can be used in your projects. The book begins with the basics of electronics, making sure that you understand components, circuits, and prototyping before moving on. It then performs the same function for code, getting you into the Arduino IDE and showing you how to connect the Arduino to a computer and run simple projects on your Arduino. Once the basics are out of the way, the next 10 chapters of the book focus on small projects centered around particular components, such as LCD displays, stepper motors, or voice synthesizers. Each of these chapters will get you familiar with the technology involved, how to build with it, how to program it, and how it can be used in your own projects. What you will learn Explains the basics of electronics and circuits along with the Arduino IDE and basic C operations Use sensors to build a mini weather station Control LEDs using code Power a robot arm using stepper motors Remotely control your Arduino using RF, Bluetooth LE, and Bluetooth Classic Make a sound tone generator with buttons Who this book is for Mastering Arduino is for anybody who wants to experiment with an Arduino board and build simple projects. No prior knowledge is required, as the fundamentals of electronics and coding are covered in this book as well as advance projects.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "178883058X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781788830584"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ZUittQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZUittQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZUittQEACAAJ&dq=isbn:9781788830584&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZUittQEACAAJ&dq=isbn:9781788830584&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Arduino.html?hl=&id=ZUittQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZUittQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "What you will learn Explains the basics of electronics and circuits along with the Arduino IDE and basic C operations Use sensors to build a mini weather station Control LEDs using code Power a robot arm using stepper motors Remotely ..."
+    }
+}

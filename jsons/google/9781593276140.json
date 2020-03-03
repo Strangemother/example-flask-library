@@ -1,0 +1,76 @@
+{
+    "kind": "books#volume",
+    "id": "tki0CAAAQBAJ",
+    "etag": "lpQvKGgHbOQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/tki0CAAAQBAJ",
+    "volumeInfo": {
+        "title": "Teach Your Kids to Code",
+        "subtitle": "A Parent-Friendly Guide to Python Programming",
+        "authors": [
+            "Bryson Payne"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2015-04-01",
+        "description": "Teach Your Kids to Code is a parent's and teacher's guide to teaching kids basic programming and problem solving using Python, the powerful language used in college courses and by tech companies like Google and IBM. Step-by-step explanations will have kids learning computational thinking right away, while visual and game-oriented examples hold their attention. Friendly introductions to fundamental programming concepts such as variables, loops, and functions will help even the youngest programmers build the skills they need to make their own cool games and applications. Whether you've been coding for years or have never programmed anything at all, Teach Your Kids to Code will help you show your young programmer how to: Explore geometry by drawing colorful shapes with Turtle graphicsWrite programs to encode and decode messages, play Rock-Paper-Scissors, and calculate how tall someone is in Ping-Pong ballsCreate fun, playable games like War, Yahtzee, and PongAdd interactivity, animation, and sound to their apps Teach Your Kids to Code is the perfect companion to any introductory programming class or after-school meet-up, or simply your educational efforts at home. Spend some fun, productive afternoons at the computer with your kids\u2014you can all learn something!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593276140"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593276141"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=tki0CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=tki0CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=tki0CAAAQBAJ&printsec=frontcover&dq=isbn:9781593276140&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=tki0CAAAQBAJ&dq=isbn:9781593276140&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Teach_Your_Kids_to_Code.html?hl=&id=tki0CAAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tki0CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Teach Your Kids to Code is a parent&#39;s and teacher&#39;s guide to teaching kids basic programming and problem solving using Python, the powerful language used in college courses and by tech companies like Google and IBM."
+    }
+}

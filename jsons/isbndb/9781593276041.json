@@ -1,0 +1,29 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "Mahesh Venkitachalam. Includes Bibliographical References And Index.",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/60/41/9781593276041.jpg",
+        "title_long": "Python Playground: Geeky Projects For The Curious Programmer",
+        "edition": "1",
+        "pages": 352,
+        "date_published": "2016",
+        "subjects": [
+            "Python (computer Program Language)",
+            "Electronic Apparatus And Appliances",
+            "Automatic Control",
+            "Arduino (programmable Controller)",
+            "Programming",
+            "Raspberry Pi (computer)"
+        ],
+        "authors": [
+            "Mahesh Venkitachalam"
+        ],
+        "title": "Python Playground: Geeky Projects For The Curious Programmer",
+        "isbn13": "9781593276041",
+        "msrp": "29.95",
+        "binding": "Paperback",
+        "publish_date": "2016",
+        "isbn": "1593276044"
+    }
+}

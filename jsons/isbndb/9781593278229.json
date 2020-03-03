@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "Presents A Crash Course In Python Programming, Followed By Instructions For Making, Testing, And Hacking Classic Cipher Programs, From The Caesar Cipher To Public Key Cryptography And The Rsa Cipher--",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/82/29/9781593278229.jpg",
+        "title_long": "Cracking Codes With Python: An Introduction To Building And Breaking Ciphers",
+        "pages": 416,
+        "date_published": "2018",
+        "authors": [
+            "Al Sweigart"
+        ],
+        "title": "Cracking Codes With Python: An Introduction To Building And Breaking Ciphers",
+        "isbn13": "9781593278229",
+        "msrp": "29.95",
+        "binding": "Paperback",
+        "publish_date": "2018",
+        "isbn": "1593278225"
+    }
+}

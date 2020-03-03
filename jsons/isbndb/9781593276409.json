@@ -1,0 +1,21 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "Doing Math With Python Shows You How To Use Python To Delve Into High School\u2013level Math Topics Like Statistics, Geometry, Probability, And Calculus. You\u2019ll Start With Simple Projects, Like A Factoring Program And A Quadratic-equation Solver, And Then Create More Complex Projects Once You\u2019ve Gotten The Hang Of Things. Along The Way, You\u2019ll Discover New Ways To Explore Math And Gain Valuable Programming Skills That You\u2019ll Use Throughout Your Study Of Math And Computer Science. Learn How To: -describe Your Data With Statistics, And Visualize It With Line Graphs, Bar Charts, And Scatter Plots -explore Set Theory And Probability With Programs For Coin Flips, Dicing, And Other Games Of Chance -solve Algebra Problems Using Python\u2019s Symbolic Math Functions -draw Geometric Shapes And Explore Fractals Like The Barnsley Fern, The Sierpinski Triangle, And The Mandelbrot Set -write Programs To Find Derivatives And Integrate Functions Creative Coding Challenges And Applied Examples Help You See How You Can Put Your New Math And Coding Skills Into Practice. You\u2019ll Write An Inequality Solver, Plot Gravity\u2019s Effect On How Far A Bullet Will Travel, Shuffle A Deck Of Cards, Estimate The Area Of A Circle By Throwing 100,000 \u201cdarts\u201d At A Board, Explore The Relationship Between The Fibonacci Sequence And The Golden Ratio, And More. Whether You\u2019re Interested In Math But Have Yet To Dip Into Programming Or You\u2019re A Teacher Looking To Bring Programming Into The Classroom, You\u2019ll Find That Python Makes Programming Easy And Practical. Let Python Handle The Grunt Work While You Focus On The Math.",
+        "language": "En",
+        "image": "https://images.isbndb.com/covers/64/09/9781593276409.jpg",
+        "title_long": "Doing Math With Python: Use Programming To Explore Algebra, Statistics, Calculus, And More!",
+        "edition": "1",
+        "pages": 264,
+        "date_published": "2015",
+        "authors": [
+            "Amit Saha"
+        ],
+        "title": "Doing Math With Python: Use Programming To Explore Algebra, Statistics, Calculus, And More!",
+        "isbn13": "9781593276409",
+        "msrp": "29.95",
+        "binding": "Paperback",
+        "publish_date": "2015",
+        "isbn": "1593276400"
+    }
+}

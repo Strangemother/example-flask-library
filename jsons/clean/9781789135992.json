@@ -1,0 +1,38 @@
+{
+    "asset": "mastering python networking",
+    "page_detail": {
+        "count": 466,
+        "delta": 0
+    },
+    "pages": 466,
+    "title": {
+        "title_short": "Mastering Python Networking",
+        "subtitle": "Your One-Stop Solution to Using Python for Network Automation, DevOps, and Test-Driven Development, 2nd Edition",
+        "description": "Master the art of using Python for a diverse range of network engineering tasks Key Features Explore the power of Python libraries to tackle difficult network problems efficiently and effectively Use Python for network device automation, DevOps, and software-defined networking Become an expert in implementing advanced network-related tasks with Python Book Description Networks in your infrastructure set the foundation for how your application can be deployed, maintained, and serviced. Python is the ideal language for network engineers to explore tools that were previously available to systems engineers and application developers. In this second edition of Mastering Python Networking, you'll embark on a Python-based journey to transition from traditional network engineers to network developers ready for the next-generation of networks. This book begins by reviewing the basics of Python and teaches you how Python can interact with both legacy and API-enabled network devices. As you make your way through the chapters, you will then learn to leverage high-level Python packages and frameworks to perform network engineering tasks for automation, monitoring, management, and enhanced security. In the concluding chapters, you will use Jenkins for continuous network integration as well as testing tools to verify your network. By the end of this book, you will be able to perform all networking tasks with ease using Python. What you will learn Use Python libraries to interact with your network Integrate Ansible 2.5 using Python to control Cisco, Juniper, and Arista eAPI network devices Leverage existing frameworks to construct high-level APIs Learn how to build virtual networks in the AWS Cloud Understand how Jenkins can be used to automatically deploy changes in your network Use PyTest and Unittest for Test-Driven Network Development Who this book is for Mastering Python Networking is for network engineers and programmers who want to use Python for networking. Basic familiarity with Python programming and networking-related concepts such as Transmission Control Protocol/Internet Protocol (TCP/IP) will be useful.",
+        "title_long": "Mastering Python Networking: Your One-stop Solution To Using Python For Network Automation, Devops, And Test-driven Development, 2nd Edition",
+        "synopsys": null,
+        "title": "Mastering Python Networking: Your One-stop Solution To Using Python For Network Automation, Devops, And Test-driven Development, 2nd Edition"
+    },
+    "isbn": "1789135990",
+    "isbn13": "9781789135992",
+    "authors": [
+        "Eric Chou"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/59/92/9781789135992.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=gu3iuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=gu3iuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2018",
+    "files": [],
+    "image": "1789135990.jpg"
+}

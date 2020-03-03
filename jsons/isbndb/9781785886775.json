@@ -1,0 +1,26 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "synopsys": "Aidas Bendoraitis. Includes Index.",
+        "language": "Eng English",
+        "format": "1 online resource (1 volume) : illustrations.",
+        "image": "https://images.isbndb.com/covers/67/75/9781785886775.jpg",
+        "title_long": "Web Development With Django Cookbook - Second Edition",
+        "edition": "2",
+        "dimensions": "computer",
+        "pages": 384,
+        "date_published": "2016-01-28",
+        "subjects": [
+            "Web site development",
+            "TK5105.888"
+        ],
+        "authors": [
+            "Aidas Bendoraitis"
+        ],
+        "title": "Web Development With Django Cookbook - Second Edition",
+        "isbn13": "9781785886775",
+        "msrp": "49.99",
+        "binding": "Paperback",
+        "isbn": "1785886770"
+    }
+}

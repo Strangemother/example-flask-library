@@ -1,0 +1,75 @@
+{
+    "kind": "books#volume",
+    "id": "ZPneDQAAQBAJ",
+    "etag": "eMT6xcbCBOQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZPneDQAAQBAJ",
+    "volumeInfo": {
+        "title": "Invent Your Own Computer Games with Python, 4th Edition",
+        "authors": [
+            "Al Sweigart"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2017-01-10",
+        "description": "Invent Your Own Computer Games with Python will teach you how to make computer games using the popular Python programming language\u2014even if you\u2019ve never programmed before! Begin by building classic games like Hangman, Guess the Number, and Tic-Tac-Toe, and then work your way up to more advanced games, like a text-based treasure hunting game and an animated collision-dodging game with sound effects. Along the way, you\u2019ll learn key programming and math concepts that will help you take your game programming to the next level. Learn how to: *Combine loops, variables, and flow control statements into real working programs *Choose the right data structures for the job, such as lists, dictionaries, and tuples *Add graphics and animation to your games with the pygame module *Handle keyboard and mouse input *Program simple artificial intelligence so you can play against the computer *Use cryptography to convert text messages into secret code *Debug your programs and find common errors As you work through each game, you\u2019ll build a solid foundation in Python and an understanding of computer science fundamentals. What new game will you create with the power of Python? The projects in this book are compatible with Python 3.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593277956"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593277954"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 3.0,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ZPneDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZPneDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZPneDQAAQBAJ&printsec=frontcover&dq=isbn:9781593277956&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZPneDQAAQBAJ&dq=isbn:9781593277956&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Invent_Your_Own_Computer_Games_with_Pyth.html?hl=&id=ZPneDQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZPneDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "What new game will you create with the power of Python? The projects in this book are compatible with Python 3."
+    }
+}

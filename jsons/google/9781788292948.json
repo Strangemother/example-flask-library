@@ -1,0 +1,73 @@
+{
+    "kind": "books#volume",
+    "id": "Vx-ltAEACAAJ",
+    "etag": "fdw1ZM3GzOc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Vx-ltAEACAAJ",
+    "volumeInfo": {
+        "title": "Practical Internet of Things with JavaScript",
+        "subtitle": "Build Standalone Exciting IoT Projects with Raspberry Pi 3 and JavaScript (ES5/ES6)",
+        "authors": [
+            "Arvind Ravulavaru"
+        ],
+        "publishedDate": "2017-12-22",
+        "description": "End to end solutions for IoT enthusiasts and web developers Key Features Leverage the capability of IoT with the combination of Raspberry Pi 3 and JavaScript (ES5/ES6) Develop a health monitoring device along with some cool projects like Smart Agriculture & Raspberry Pi 3 based surveillance. A practical book which will help you build Mobile/Web/Desktop apps that will show how to manage and monitor data from sensors and actuators in real time. Book Description In this world of technology upgrades, IoT is currently leading with its promise to make the world a more smarter and efficient place. This book will show you how to build simple IoT solutions that will help you to understand how this technology works. We would not only explore the IoT solution stack, but we will also see how to do it with the world's most misunderstood programming language - JavaScript. Using Raspberry Pi 3 and JavaScript (ES5/ES6) as the base to build all the projects, you will begin with learning about the fundamentals of IoT and then build a standard framework for developing all the applications covered in this book. You will then move on to build a weather station with temperature, humidity and moisture sensors and further integrate Alexa with it. Further, you will build a smart wearable for understanding the concept of fall detection. You will then extend it with the 'If This Then That' (IFTTT) rules engine to send an email on fall detection. Finally, you will be working with the Raspberry Pi 3 camera module and surveillance with a bit of facial detection using Amazon Rekognition platform. At the end of the book, you will not only be able to build standalone exciting IoT applications but also learn how you can extend your projects to another level. What you will learn Integrate sensors and actuators with the cloud and control them for your Smart Weather Station. Develop your very own Amazon Alexa integrating with your IoT solution Define custom rules and execute jobs on certain data events using IFTTT Build a simple surveillance solutions using Amazon Recognition & Raspberry Pi 3 Design a fall detection system and build a notification system for it. Use Amazon Rekognition for face detection and face recognition in your Surveillance project Who this book is for This book targets IoT enthusiasts and web developers who would like to build IoT-based applications with Raspberry Pi, Arduino and JavaScript. Some knowledge about electronics and familiarity with programming concepts (JavaScript - ES5/ES6) is expected.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1788292944"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781788292948"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Vx-ltAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Vx-ltAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Vx-ltAEACAAJ&dq=isbn:9781788292948&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Vx-ltAEACAAJ&dq=isbn:9781788292948&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Practical_Internet_of_Things_with_JavaSc.html?hl=&id=Vx-ltAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vx-ltAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book will show you how to build simple IoT solutions that will help you to understand how this technology works."
+    }
+}

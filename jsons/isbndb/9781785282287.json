@@ -1,0 +1,17 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "image": "https://images.isbndb.com/covers/22/87/9781785282287.jpg",
+        "title_long": "Python Data Analysis Cookbook",
+        "pages": 462,
+        "date_published": "2016-07-22",
+        "authors": [
+            "Ivan Idris"
+        ],
+        "title": "Python Data Analysis Cookbook",
+        "isbn13": "9781785282287",
+        "msrp": "34.99",
+        "binding": "Paperback",
+        "isbn": "178528228x"
+    }
+}

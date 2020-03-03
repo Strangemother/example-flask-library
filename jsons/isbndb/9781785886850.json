@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "image": "https://images.isbndb.com/covers/68/50/9781785886850.jpg",
+        "title_long": "Expert Python Programming - Second Edition",
+        "edition": "2",
+        "pages": 536,
+        "date_published": "2016",
+        "authors": [
+            "Michal Jaworski",
+            "Tarek Ziade"
+        ],
+        "title": "Expert Python Programming - Second Edition",
+        "isbn13": "9781785886850",
+        "msrp": "34.99",
+        "binding": "Paperback",
+        "publish_date": "2016",
+        "isbn": "1785886851"
+    }
+}

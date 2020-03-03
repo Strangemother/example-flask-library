@@ -1,0 +1,19 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/74/83/9781788397483.jpg",
+        "title_long": "Mastering Internet Of Things: Design And Create Your Own Iot Applications Using Raspberry Pi 3",
+        "pages": 410,
+        "date_published": "2018",
+        "authors": [
+            "Waher",
+            "Peter"
+        ],
+        "title": "Mastering Internet Of Things: Design And Create Your Own Iot Applications Using Raspberry Pi 3",
+        "isbn13": "9781788397483",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2018",
+        "isbn": "1788397487"
+    }
+}

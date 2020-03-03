@@ -1,0 +1,17 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/29/48/9781788292948.jpg",
+        "title_long": "Practical Internet Of Things With Javascript: Build Standalone Exciting Iot Projects With Raspberry Pi 3 And Javascript (es5/es6)",
+        "pages": 296,
+        "date_published": "2017-12-22",
+        "authors": [
+            "Arvind Ravulavaru"
+        ],
+        "title": "Practical Internet Of Things With Javascript: Build Standalone Exciting Iot Projects With Raspberry Pi 3 And Javascript (es5/es6)",
+        "isbn13": "9781788292948",
+        "msrp": "34.99",
+        "binding": "Paperback",
+        "isbn": "1788292944"
+    }
+}

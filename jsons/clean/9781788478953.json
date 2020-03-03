@@ -1,0 +1,35 @@
+{
+    "asset": "Mastering ROS for Robotics Programming - Second Edition",
+    "page_detail": {
+        "count": 580,
+        "delta": 0
+    },
+    "pages": 580,
+    "title": {
+        "title_short": null,
+        "subtitle": null,
+        "description": null,
+        "title_long": "Mastering Ros For Robotics Programming - Second Edition: Design, Build, And Simulate Complex Robots Using The Robot Operating System",
+        "synopsys": "Lentin Joseph, Jonathan Cacace.",
+        "title": "Mastering Ros For Robotics Programming - Second Edition: Design, Build, And Simulate Complex Robots Using The Robot Operating System"
+    },
+    "isbn": "1788478959",
+    "isbn13": "9781788478953",
+    "authors": [
+        "Lentin Joseph",
+        "Jonathan Cacace"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/89/53/9781788478953.jpg"
+    },
+    "cost": 0.0,
+    "publish_date": "2018",
+    "files": [],
+    "image": "1788478959.jpg"
+}

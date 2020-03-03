@@ -1,0 +1,19 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "image": "https://images.isbndb.com/covers/75/77/9781786467577.jpg",
+        "title_long": "Python Programming With Raspberry Pi",
+        "pages": 312,
+        "date_published": "2017",
+        "authors": [
+            "Sai Yamanoor",
+            "Srihari Yamanoor"
+        ],
+        "title": "Python Programming With Raspberry Pi",
+        "isbn13": "9781786467577",
+        "msrp": "34.99",
+        "binding": "Paperback",
+        "publish_date": "2017",
+        "isbn": "1786467577"
+    }
+}

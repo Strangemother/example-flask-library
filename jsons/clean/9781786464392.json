@@ -1,0 +1,42 @@
+{
+    "asset": "artificial intelligence with python",
+    "page_detail": {
+        "count": 521,
+        "delta": 0
+    },
+    "pages": 521,
+    "title": {
+        "title_short": "Artificial Intelligence with Python",
+        "subtitle": null,
+        "description": "Build real-world AI applications with Python to intelligently interact with your surroundingsAbout This Book* Step into the amazing world of intelligent apps using this comprehensive guide* Enter the world of AI, explore it, and become independent to create your own AI apps* Work through simple yet insightful examples that will get you up and running with artificial intelligence in no timeWho This Book Is ForThis book is for Python developers who want to build real-world AI applications. This book is friendly to Python beginners, but being familiar with Python would be useful to play around with the code. It will also be useful for experienced Python programmers who are looking to implement AI techniques in their existing technology stacks.What You Will Learn* Find out how to use different classification and regression techniques* Understand the concept of clustering and how to use it to automatically segment data* See how to build an intelligent recommender system* Understand logic programming and how to use it* Develop automatic speech recognition systems* Understand the basics of heuristic search and genetic programming* Develop an understanding of reinforcement learning* Discover how to build AI applications centered on images, text, and time series data* Understand how to use deep learning algorithms and build applications based on itIn DetailAI is becoming increasingly relevant in the modern world where the ecosystem is driven by technology and data. AI is used extensively across many fields such as robotics, computer vision, finance, and so on. We will explore various real-world scenarios in this book and you'll learn about various AI algorithms that can be used to build various applications.During the course of this book, you will find out how to make informed decisions about what algorithms to use in a given context. Starting from the basics of the AI concepts, you will learn how to develop the various building blocks of AI using different data mining techniques. You will see how to implement different algorithms to get the best possible results, and will understand how to apply them to real-world scenarios. If you want to add an intelligence layer to any application based on images, text, stock market, or some other form of data, this exciting book on AI will definitely guide you all the way!",
+        "title_long": "Artificial Intelligence With Python: Build Real-world Artificial Intelligence Applications With Python To Intelligently Interact With The World Around You",
+        "synopsys": "Prateek Joshi.",
+        "title": "Artificial Intelligence With Python: Build Real-world Artificial Intelligence Applications With Python To Intelligently Interact With The World Around You"
+    },
+    "isbn": "1786469677",
+    "isbn13": "9781786464392",
+    "authors": [
+        "Joshi, Prateek (author.)",
+        "Prateek Joshi"
+    ],
+    "publisher": [
+        "Packt Publishing,"
+    ],
+    "categories": [
+        "Python (Computer program language)",
+        "Artificial intelligence--Data processing",
+        "Application software--Development",
+        "QA76.73.P98"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/43/92/9781786464392.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=hbUgvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=hbUgvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2017-04-28",
+    "files": [],
+    "image": "1786469677.jpg"
+}

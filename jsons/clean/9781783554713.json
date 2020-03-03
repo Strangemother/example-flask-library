@@ -1,0 +1,38 @@
+{
+    "asset": "ROS Robotics Projects",
+    "page_detail": {
+        "count": 452,
+        "delta": 0
+    },
+    "pages": 452,
+    "title": {
+        "title_short": "ROS Robotics Projects",
+        "subtitle": "Build a Variety of Awesome Robots that Can See, Sense, Move, and Do a Lot More Using the Powerful Robot Operating System",
+        "description": "Build a variety of awesome robots that can see, sense, move, and do a lot more using the powerful Robot Operating SystemAbout This Book* Create and program cool robotic projects using powerful ROS libraries* Work through concrete examples that will help you build your own robotic systems of varying complexity levels* This book provides relevant and fun-filled examples so you can make your own robots that can run and workWho This Book Is ForThis book is for robotic enthusiasts and researchers who would like to build robot applications using ROS. If you are looking to explore advanced ROS features in your projects, then this book is for you. Basic knowledge of ROS, GNU/Linux, and programming concepts is assumed.What You Will Learn* Create your own self-driving car using ROS* Build an intelligent robotic application using deep learning and ROS* Master 3D object recognition* Control a robot using virtual reality and ROS* Build your own AI chatter-bot using ROS* Get to know all about the autonomous navigation of robots using ROS* Understand face detection and tracking using ROS* Get to grips with teleoperating robots using hand gestures* Build ROS-based applications using Matlab and Android* Build interactive applications using TurtleBotIn DetailRobot Operating System is one of the most widely used software frameworks for robotic research and for companies to model, simulate, and prototype robots. Applying your knowledge of ROS to actual robotics is much more difficult than people realize, but this title will give you what you need to create your own robotics in no time!This book is packed with over 14 ROS robotics projects that can be prototyped without requiring a lot of hardware. The book starts with an introduction of ROS and its installation procedure. After discussing the basics, you'll be taken through great projects, such as building a self-driving car, an autonomous mobile robot, and image recognition using deep learning and ROS. You can find ROS robotics applications for beginner, intermediate, and expert levels inside!This book will be the perfect companion for a robotics enthusiast who really wants to do something big in the field.Style and approachThis book is packed with fun-filled, end-to-end projects on mobile, armed, and flying robots, and describes the ROS implementation and execution of these models.",
+        "title_long": "Ros Robotics Projects: Make Your Robots See, Sense, And Interact With Cool And Engaging Projects With Robotic Operating System",
+        "synopsys": "Lentin Joseph.",
+        "title": "Ros Robotics Projects: Make Your Robots See, Sense, And Interact With Cool And Engaging Projects With Robotic Operating System"
+    },
+    "isbn": "1783554711",
+    "isbn13": "9781783554713",
+    "authors": [
+        "Lentin Joseph"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/47/13/9781783554713.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=8KESMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=8KESMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 49.99,
+    "publish_date": "2017",
+    "files": [],
+    "image": "1783554711.jpg"
+}

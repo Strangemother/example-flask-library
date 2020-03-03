@@ -1,0 +1,72 @@
+{
+    "kind": "books#volume",
+    "id": "ZJDBtQEACAAJ",
+    "etag": "2T5lwC0w9kY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZJDBtQEACAAJ",
+    "volumeInfo": {
+        "title": "Python Robotics Projects",
+        "authors": [
+            "Diwakar Vaish"
+        ],
+        "publishedDate": "2018-05-25",
+        "description": "Leverage the power of Python to build DIY robotic projects Key Features Design, build, and stimulate collaborative robots Build high-end robotics projects such as a customized personal Jarvis Leverage the power of Python and ROS for DIY robotic projects Book Description Robotics is a fast-growing industry. Multiple surveys state that investment in the field has increased tenfold in the last 6 years, and is set to become a $100-billion sector by 2020. Robots are prevalent throughout all industries, and they are all set to be a part of our domestic lives. This book starts with the installation and basic steps in configuring a robotic controller. You'll then move on to setting up your environment to use Python with the robotic controller. You'll dive deep into building simple robotic projects, such as a pet-feeding robot, and more complicated projects, such as machine learning enabled home automation system (Jarvis), vision processing based robots and a self-driven robotic vehicle using Python. By the end of this book, you'll know how to build smart robots using Python. What you will learn Get to know the basics of robotics and its functions Walk through interface components with microcontrollers Integrate robotics with the IoT environment Build projects using machine learning Implement path planning and vision processing Interface your robots with Bluetooth Who this book is for If building robots is your dream, then this book is made for you. Prior knowledge of Python would be an added advantage.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1788832922"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781788832922"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ZJDBtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZJDBtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ZJDBtQEACAAJ&dq=isbn:9781788832922&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=ZJDBtQEACAAJ&dq=isbn:9781788832922&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Robotics_Projects.html?hl=&id=ZJDBtQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZJDBtQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Robots are prevalent throughout all industries, and they are all set to be a part of our domestic lives. This book starts with the installation and basic steps in configuring a robotic controller."
+    }
+}

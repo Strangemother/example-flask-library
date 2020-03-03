@@ -1,0 +1,73 @@
+{
+    "kind": "books#volume",
+    "id": "aOwEkAEACAAJ",
+    "etag": "pj7McyOUDQg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/aOwEkAEACAAJ",
+    "volumeInfo": {
+        "title": "Python Programming with Raspberry Pi",
+        "authors": [
+            "Sai Yamanoor",
+            "Srihari Yamanoor"
+        ],
+        "publishedDate": "2017-04-28",
+        "description": "Become a master of Python programming using the small yet powerful Raspberry Pi ZeroAbout This Book* This is the first book on the market that teaches Python programming with Raspberry Pi Zero* Develop exciting applications such as a mobile robot and home automation controller using Python* This step-by-step guide helps you make the most out of Raspberry Pi Zero using Python programmingWho This Book Is ForThis book is aimed at hobbyists and programmers who want to learn Python programming and develop applications using the Pi Zero. They should have basic familiarity with electronics.What You Will Learn* Configure Raspberry Pi using Python* Control loops to blink an LED using simple arithmetic operations* Understand how interface sensors, actuators, and LED displays work* Get to grips with every aspect of Python programming using practical examples* Explore machine vision, data visualization, and scientific computations* Build a mobile robot using the Raspberry Pi as the controller* Build a voice-activated home automation controllerIn DetailRaspberry Pi Zero is a super-small and super-affordable product from Raspberry Pi that is packed with a plethora of features and has grabbed the notice of programmers, especially those who use Python.This step-by-step guide will get you developing practical applications in Python using a Raspberry Pi Zero. It will become a valuable resource as you learn the essential details of interfacing sensors and actuators to a Raspberry Pi, as well as acquiring and displaying data.You will get started by writing a Python program that blinks an LED at 1-second intervals. Then you will learn to write simple logic to execute tasks based upon sensor data (for example, to control a motor) and retrieve data from the web (such as to check e-mails to provide a visual alert). Finally, you will learn to build a home automation system with Python where different appliances are controlled using the Raspberry Pi.The examples discussed in each chapter of this book culminate in a project that help improve the quality of people's lives.Style and approachThis will be a learning, step-by-step guide to teach Python programming using the famous Raspberry Pi Zero. The book is packed with practical examples at every step along with tips and tricks for the Raspberry Pi fans",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1786467577"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781786467577"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+            "Computer input-output equipment"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=aOwEkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aOwEkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=aOwEkAEACAAJ&dq=isbn:9781786467577&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=aOwEkAEACAAJ&dq=isbn:9781786467577&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Programming_with_Raspberry_Pi.html?hl=&id=aOwEkAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aOwEkAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Become a master of Python programming using the small yet powerful Raspberry Pi ZeroAbout This Book* This is the first book on the market that teaches Python programming with Raspberry Pi Zero* Develop exciting applications such as a mobile ..."
+    }
+}

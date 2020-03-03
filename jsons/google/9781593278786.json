@@ -1,0 +1,74 @@
+{
+    "kind": "books#volume",
+    "id": "OtqttAEACAAJ",
+    "etag": "V/xAKAB/Emo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/OtqttAEACAAJ",
+    "volumeInfo": {
+        "title": "Serious Python",
+        "subtitle": "Black-belt Advice on Deployment, Scalability, Testing, and More",
+        "authors": [
+            "Julien Danjou"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2018-12-27",
+        "description": "The Hacker's Guide to Pythonwill teach you how to fine tune your Python code and give you a deeper understanding of how the language works under the hood. This essential guide distills years of Python experience into a handy collection of general advice and specific tips that will help you pick the right libraries, distribute your code correctly, build future-proof programs, and optimize your programs down to the bytecode. Author Julien Danjou, an OpenStack contributor (the largest open source project written in Python) covers a swath of important areas like scaling, testing, and porting your code. You'll also learn directly from Python experts and get real-world (and time-saving) advice on topics like unit testing, packaging code, performances and optimizations, and designing APIs. Elevate your code and get seriously good at Python with The Hacker's Guide to Python!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1593278780"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593278786"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=OtqttAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OtqttAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=OtqttAEACAAJ&dq=isbn:9781593278786&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=OtqttAEACAAJ&dq=isbn:9781593278786&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Serious_Python.html?hl=&id=OtqttAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OtqttAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This essential guide distils years of Python experience into a handy collection of general advice and specific tips that will help you pick the right libraries, distribute your code correctly, build future-proof programs, and optimise your ..."
+    }
+}

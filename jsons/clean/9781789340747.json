@@ -1,0 +1,40 @@
+{
+    "asset": "Learn Robotics Programming",
+    "page_detail": {
+        "count": 472,
+        "delta": 0
+    },
+    "pages": 472,
+    "title": {
+        "title_short": "Learn Robotics Programming",
+        "subtitle": null,
+        "description": "Gain experience of building a next-generation collaboration robot Key Features Get up and running with the fundamentals of robotic programming Program a robot using Python and the Raspberry Pi 3 Learn to build a smart robot with interactive and AI-enabled behaviors Book Description We live in an age where the most difficult human tasks are now automated. Smart and intelligent robots, which will perform different tasks precisely and efficiently, are the requirement of the hour. A combination of Raspberry Pi and Python works perfectly when making these kinds of robots. Learn Robotics Programming starts by introducing you to the basic structure of a robot, along with how to plan, build, and program it. As you make your way through the book, you will gradually progress to adding different outputs and sensors, learning new building skills, and writing code for interesting behaviors with sensors. You'll also be able to update your robot, and set up web, phone, and Wi-Fi connectivity in order to control it. By the end of the book, you will have built a clever robot that can perform basic artificial intelligence (AI) operations. What you will learn Configure a Raspberry Pi for use in a robot Interface motors and sensors with a Raspberry Pi Implement code to make interesting and intelligent robot behaviors Understand the first steps in AI behavior such as speech recognition visual processing Control AI robots using Wi-Fi Plan the budget for requirements of robots while choosing parts Who this book is for Learn Robotics Programming is for programmers, developers, and enthusiasts interested in robotics and developing a fully functional robot. No major experience required just some programming knowledge would be sufficient.",
+        "title_long": "Learn Robotics Programming",
+        "synopsys": null,
+        "title": "Learn Robotics Programming"
+    },
+    "isbn": "1789340748",
+    "isbn13": "9781789340747",
+    "authors": [
+        "Danny",
+        "Staple",
+        "Danny Staple"
+    ],
+    "publisher": [
+        "Packt Publishing 2018-11-30"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/07/47/9781789340747.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=zHH_uQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=zHH_uQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2018",
+    "files": [],
+    "image": "1789340748.jpg"
+}

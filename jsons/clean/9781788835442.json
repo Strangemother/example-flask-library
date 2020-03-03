@@ -1,0 +1,38 @@
+{
+    "asset": "Artificial Intelligence for Robotics",
+    "page_detail": {
+        "count": 344,
+        "delta": 100
+    },
+    "pages": "344 ~ 100",
+    "title": {
+        "title_short": "Artificial Intelligence for Robotics",
+        "subtitle": null,
+        "description": "Bring a new degree of interconnectivity to your world by building your own intelligent robots Key Features Leverage fundamentals of AI and robotics Work through use cases to implement various machine learning algorithms Explore Natural Language Processing (NLP) concepts for efficient decision making in robots Book Description Artificial Intelligence for Robotics starts with an introduction to Robot Operating Systems (ROS), Python, robotic fundamentals, and the software and tools that are required to start out with robotics. You will learn robotics concepts that will be useful for making decisions, along with basic navigation skills. As you make your way through the chapters, you will learn about object recognition and genetic algorithms, which will teach your robot to identify and pick up an irregular object. With plenty of use cases throughout, you will explore natural language processing (NLP) and machine learning techniques to further enhance your robot. In the concluding chapters, you will learn about path planning and goal-oriented programming, which will help your robot prioritize tasks. By the end of this book, you will have learned to give your robot an artificial personality using simulated intelligence. What you will learn Get started with robotics and artificial intelligence Apply simulation techniques to give your robot an artificial personality Understand object recognition using neural networks and supervised learning techniques Pick up objects using genetic algorithms for manipulation Teach your robot to listen using NLP via an expert system Use machine learning and computer vision to teach your robot how to avoid obstacles Understand path planning, decision trees, and search algorithms in order to enhance your robot Who this book is for If you have basic knowledge about robotics and want to build or enhance your existing robot's intelligence, then Artificial Intelligence for Robotics is for you. This book is also for enthusiasts who want to gain knowledge of AI and robotics.",
+        "title_long": "Artificial Intelligence For Robotics: Build Intelligent Robots That Perform Human Tasks Using Ai Techniques",
+        "synopsys": null,
+        "title": "Artificial Intelligence For Robotics: Build Intelligent Robots That Perform Human Tasks Using Ai Techniques"
+    },
+    "isbn": "1788835441",
+    "isbn13": "9781788835442",
+    "authors": [
+        "Francis X. Govers"
+    ],
+    "publisher": [
+        "Packt Publishing - Ebooks Account"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/54/42/9781788835442.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=Bs3LtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Bs3LtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2018",
+    "files": [],
+    "image": "1788835441.jpg"
+}

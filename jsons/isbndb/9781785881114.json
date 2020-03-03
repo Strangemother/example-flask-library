@@ -1,0 +1,17 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/11/14/9781785881114.jpg",
+        "title_long": "Python Microservices Development: Build, Test, Deploy, And Scale Microservices In Python",
+        "pages": 340,
+        "date_published": "2017-07-25",
+        "authors": [
+            "Tarek Ziade"
+        ],
+        "title": "Python Microservices Development: Build, Test, Deploy, And Scale Microservices In Python",
+        "isbn13": "9781785881114",
+        "msrp": "44.99",
+        "binding": "Paperback",
+        "isbn": "1785881116"
+    }
+}

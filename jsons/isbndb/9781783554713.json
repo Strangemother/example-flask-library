@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "synopsys": "Lentin Joseph.",
+        "language": "Eng English",
+        "image": "https://images.isbndb.com/covers/47/13/9781783554713.jpg",
+        "title_long": "Ros Robotics Projects: Make Your Robots See, Sense, And Interact With Cool And Engaging Projects With Robotic Operating System",
+        "pages": 452,
+        "date_published": "2017",
+        "authors": [
+            "Lentin Joseph"
+        ],
+        "title": "Ros Robotics Projects: Make Your Robots See, Sense, And Interact With Cool And Engaging Projects With Robotic Operating System",
+        "isbn13": "9781783554713",
+        "msrp": "49.99",
+        "binding": "Paperback",
+        "publish_date": "2017",
+        "isbn": "1783554711"
+    }
+}

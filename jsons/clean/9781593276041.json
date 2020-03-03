@@ -1,0 +1,44 @@
+{
+    "asset": "python playground_geeky projects for the curious programmer",
+    "page_detail": {
+        "count": 352,
+        "delta": 0
+    },
+    "pages": 352,
+    "title": {
+        "title_short": "Python Playground",
+        "subtitle": "Geeky Projects for the Curious Programmer",
+        "description": "Python is a powerful programming language that\u2019s easy to learn and fun to play with. But once you\u2019ve gotten a handle on the basics, what do you do next? Python Playground is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi. You\u2019ll learn to use common Python tools and libraries like numpy, matplotlib, and pygame to do things like: *Generate Spirograph-like patterns using parametric equations and the turtle module *Create music on your computer by simulating frequency overtones *Translate graphical images into ASCII art *Write an autostereogram program that produces 3D images hidden beneath random patterns *Make realistic animations with OpenGL shaders by exploring particle systems, transparency, and billboarding techniques *Construct 3D visualizations using data from CT and MRI scans *Build a laser show that responds to music by hooking up your computer to an Arduino Programming shouldn\u2019t be a chore. Have some solid, geeky fun with Python Playground. The projects in this book are compatible with both Python 2 and 3.",
+        "title_long": "Python Playground: Geeky Projects For The Curious Programmer",
+        "synopsys": "Mahesh Venkitachalam. Includes Bibliographical References And Index.",
+        "title": "Python Playground: Geeky Projects For The Curious Programmer"
+    },
+    "isbn": "1593276044",
+    "isbn13": "9781593276041",
+    "authors": [
+        "Mahesh Venkitachalam"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Python (computer Program Language)",
+        "Electronic Apparatus And Appliances",
+        "Automatic Control",
+        "Arduino (programmable Controller)",
+        "Programming",
+        "Raspberry Pi (computer)",
+        "Computers"
+    ],
+    "rating": 5.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/60/41/9781593276041.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=YRHSCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YRHSCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "cost": 29.95,
+    "publish_date": "2016",
+    "files": [],
+    "image": "1593276044.jpg"
+}

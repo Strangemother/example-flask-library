@@ -1,0 +1,18 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/48/03/9781789134803.jpg",
+        "title_long": "Internet Of Things Programming Projects: Build Modern Iot Solutions With The Raspberry Pi 3 And Python",
+        "pages": 436,
+        "date_published": "2018",
+        "authors": [
+            "Colin Dow"
+        ],
+        "title": "Internet Of Things Programming Projects: Build Modern Iot Solutions With The Raspberry Pi 3 And Python",
+        "isbn13": "9781789134803",
+        "msrp": "39.99",
+        "binding": "Paperback",
+        "publish_date": "2018",
+        "isbn": "1789134803"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "book": {
+        "publisher": "Packt Publishing",
+        "image": "https://images.isbndb.com/covers/05/84/9781788830584.jpg",
+        "title_long": "Mastering Arduino: A Project-based Approach To Electronics, Circuits, And Programming",
+        "pages": 372,
+        "date_published": "2018",
+        "authors": [
+            "Jon Hoffman"
+        ],
+        "title": "Mastering Arduino: A Project-based Approach To Electronics, Circuits, And Programming",
+        "isbn13": "9781788830584",
+        "msrp": "39.99",
+        "binding": "Paperback",
+        "publish_date": "2018",
+        "isbn": "178883058x"
+    }
+}

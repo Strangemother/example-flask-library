@@ -1,0 +1,74 @@
+{
+    "kind": "books#volume",
+    "id": "YIznswEACAAJ",
+    "etag": "yIZ0CJgd7xw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YIznswEACAAJ",
+    "volumeInfo": {
+        "title": "Mission Python",
+        "subtitle": "A Programming Adventure in Space",
+        "authors": [
+            "Sean McManus"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2018-08-15",
+        "description": "Program a graphical adventure game in this hands-on, beginner-friendly introduction to coding in the Python language. Launch into coding with Mission: Python, a space-themed guide to building a complete computer game in Python. You'll learn programming fundamentals like loops, strings, and lists as you build Escape!, an exciting game with a map to explore, items to collect, and tricky logic puzzles to solve. As you work through the book, you'll build exercises and mini-projects, like making a spacewalk simulator and creating an astronaut's safety checklist that will put your new Python skills to the test. You'll learn how to use Pygame Zero, a free resource that lets you add graphics and sound effects to your creations, and you'll get useful game-making tips, such as how to design fun puzzles and intriguing maps. Before you know it, you'll have a working, awesome game to stump your friends with (and some nifty coding skills, too!). You can follow this book using a Raspberry Pi or a Microsoft Windows PC, and the 3D graphics and sound effects you need are provided as a download.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1593278578"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593278571"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+            "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=YIznswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=YIznswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=YIznswEACAAJ&dq=isbn:9781593278571&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=YIznswEACAAJ&dq=isbn:9781593278571&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mission_Python.html?hl=&id=YIznswEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YIznswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "You can follow this book using a Raspberry Pi or a Microsoft Windows PC, and the 3D graphics and sound effects you need are provided as a download."
+    }
+}

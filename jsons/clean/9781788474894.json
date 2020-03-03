@@ -1,0 +1,28 @@
+{
+    "asset": "Mastering IoT with Arduino [Video]",
+    "page_detail": {
+        "count": -1,
+        "delta": 0
+    },
+    "title": {
+        "title_short": null,
+        "subtitle": null,
+        "description": null,
+        "title_long": null,
+        "synopsys": null,
+        "title": null
+    },
+    "isbn": null,
+    "isbn13": null,
+    "authors": [],
+    "publisher": [],
+    "categories": [],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": null
+    },
+    "cost": -1.0,
+    "publish_date": null,
+    "files": []
+}

@@ -1,0 +1,34 @@
+{
+    "asset": "learning concurrency in python",
+    "page_detail": {
+        "count": 360,
+        "delta": 0
+    },
+    "pages": 360,
+    "title": {
+        "title_short": null,
+        "subtitle": null,
+        "description": null,
+        "title_long": "Learning Concurrency In Python: Build Highly Efficient, Robust, And Concurrent Applications",
+        "synopsys": null,
+        "title": "Learning Concurrency In Python: Build Highly Efficient, Robust, And Concurrent Applications"
+    },
+    "isbn": "1787285375",
+    "isbn13": "9781787285378",
+    "authors": [
+        "Elliot Forbes"
+    ],
+    "publisher": [
+        "Packt Publishing - Ebooks Account"
+    ],
+    "categories": [],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/53/78/9781787285378.jpg"
+    },
+    "cost": 44.99,
+    "publish_date": "2017",
+    "files": [],
+    "image": "1787285375.jpg"
+}

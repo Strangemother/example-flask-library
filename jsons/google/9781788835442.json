@@ -1,0 +1,72 @@
+{
+    "kind": "books#volume",
+    "id": "Bs3LtwEACAAJ",
+    "etag": "MPe3CID0P8E",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Bs3LtwEACAAJ",
+    "volumeInfo": {
+        "title": "Artificial Intelligence for Robotics",
+        "authors": [
+            "Francis X. Govers"
+        ],
+        "publishedDate": "2018-08-30",
+        "description": "Bring a new degree of interconnectivity to your world by building your own intelligent robots Key Features Leverage fundamentals of AI and robotics Work through use cases to implement various machine learning algorithms Explore Natural Language Processing (NLP) concepts for efficient decision making in robots Book Description Artificial Intelligence for Robotics starts with an introduction to Robot Operating Systems (ROS), Python, robotic fundamentals, and the software and tools that are required to start out with robotics. You will learn robotics concepts that will be useful for making decisions, along with basic navigation skills. As you make your way through the chapters, you will learn about object recognition and genetic algorithms, which will teach your robot to identify and pick up an irregular object. With plenty of use cases throughout, you will explore natural language processing (NLP) and machine learning techniques to further enhance your robot. In the concluding chapters, you will learn about path planning and goal-oriented programming, which will help your robot prioritize tasks. By the end of this book, you will have learned to give your robot an artificial personality using simulated intelligence. What you will learn Get started with robotics and artificial intelligence Apply simulation techniques to give your robot an artificial personality Understand object recognition using neural networks and supervised learning techniques Pick up objects using genetic algorithms for manipulation Teach your robot to listen using NLP via an expert system Use machine learning and computer vision to teach your robot how to avoid obstacles Understand path planning, decision trees, and search algorithms in order to enhance your robot Who this book is for If you have basic knowledge about robotics and want to build or enhance your existing robot's intelligence, then Artificial Intelligence for Robotics is for you. This book is also for enthusiasts who want to gain knowledge of AI and robotics.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1788835441"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781788835442"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Bs3LtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Bs3LtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Bs3LtwEACAAJ&dq=isbn:9781788835442&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Bs3LtwEACAAJ&dq=isbn:9781788835442&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Artificial_Intelligence_for_Robotics.html?hl=&id=Bs3LtwEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bs3LtwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book is also for enthusiasts who want to gain knowledge of AI and robotics."
+    }
+}

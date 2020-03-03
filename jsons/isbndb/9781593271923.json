@@ -1,0 +1,28 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "Setting Up Your Development Environment -- Debuggers And Debugger Design -- Building A Windows Debugger -- Pydbg : A Pure Python Windows Debugger -- Immunity Debugger : The Best Of Both Worlds -- Hooking -- Dll And Code Injection -- Fuzzing -- Sulley -- Fuzzing Windows Drivers -- Dapython---scripting Ida Pro -- Pyemu---the Scriptable Emulator. By Justin Seitz. Includes Bibliographical References And Index.",
+        "language": "Eng English",
+        "format": "print",
+        "image": "https://images.isbndb.com/covers/19/23/9781593271923.jpg",
+        "title_long": "Gray Hat Python: Python Programming For Hackers And Reverse Engineers",
+        "edition": "1",
+        "dimensions": "xx, 189 p. : ill. ; 24 cm.",
+        "pages": 232,
+        "date_published": "2009",
+        "subjects": [
+            "Computer security",
+            "Python (Computer program language)",
+            "QA76.9.A25 S457 2009"
+        ],
+        "authors": [
+            "Seitz, Justin."
+        ],
+        "title": "Gray Hat Python: Python Programming For Hackers And Reverse Engineers",
+        "isbn13": "9781593271923",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2009",
+        "isbn": "1593271921"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "A Book Of Fun Coding Projects For Readers Who Know A Little Python Already And Want To Expand Their Skills. Simulate Volcanoes, Map Mars, And More, While Gaining Experience Using Free Modules Like Tkinter, Matplotlib, Cprofile, Pylint, Pygame, Pillow, And Python-docx--",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/89/08/9781593278908.jpg",
+        "title_long": "Impractical Python Projects: Playful Programming Activities To Make You Smarter",
+        "edition": "1",
+        "pages": 424,
+        "date_published": "2019",
+        "subjects": [
+            "Python (computer Program Language)"
+        ],
+        "authors": [
+            "Lee Vaughan"
+        ],
+        "title": "Impractical Python Projects: Playful Programming Activities To Make You Smarter",
+        "isbn13": "9781593278908",
+        "msrp": "29.95",
+        "binding": "Paperback",
+        "publish_date": "2019",
+        "isbn": "159327890X"
+    }
+}

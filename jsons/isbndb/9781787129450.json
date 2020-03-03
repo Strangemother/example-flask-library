@@ -1,0 +1,19 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "image": "https://images.isbndb.com/covers/94/50/9781787129450.jpg",
+        "title_long": "Python Gui Programming Cookbook - Second Edition: Use Recipes To Develop Responsive And Powerful Guis Using Tkinter",
+        "edition": "2",
+        "pages": 444,
+        "date_published": "2017",
+        "authors": [
+            "Burkhard A. Meier"
+        ],
+        "title": "Python Gui Programming Cookbook - Second Edition: Use Recipes To Develop Responsive And Powerful Guis Using Tkinter",
+        "isbn13": "9781787129450",
+        "msrp": "49.99",
+        "binding": "Paperback",
+        "publish_date": "2017",
+        "isbn": "1787129454"
+    }
+}

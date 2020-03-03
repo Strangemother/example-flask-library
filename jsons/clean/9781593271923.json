@@ -1,0 +1,42 @@
+{
+    "asset": "grayhat python",
+    "page_detail": {
+        "count": 216,
+        "delta": 16
+    },
+    "pages": "216 ~ 16",
+    "title": {
+        "title_short": "Gray Hat Python",
+        "subtitle": "Python Programming for Hackers and Reverse Engineers",
+        "description": "\"Gray Hat Python,\" the first Python book written for advanced security analysts, explains the intricacies of using Python to assist in a range of security analysis tasks.",
+        "title_long": "Gray Hat Python: Python Programming For Hackers And Reverse Engineers",
+        "synopsys": "Setting Up Your Development Environment -- Debuggers And Debugger Design -- Building A Windows Debugger -- Pydbg : A Pure Python Windows Debugger -- Immunity Debugger : The Best Of Both Worlds -- Hooking -- Dll And Code Injection -- Fuzzing -- Sulley -- Fuzzing Windows Drivers -- Dapython---scripting Ida Pro -- Pyemu---the Scriptable Emulator. By Justin Seitz. Includes Bibliographical References And Index.",
+        "title": "Gray Hat Python: Python Programming For Hackers And Reverse Engineers"
+    },
+    "isbn": "1593271921",
+    "isbn13": "9781593271923",
+    "authors": [
+        "Seitz, Justin.",
+        "Justin Seitz"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Computer security",
+        "Python (Computer program language)",
+        "QA76.9.A25 S457 2009",
+        "Computers"
+    ],
+    "rating": 2.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/19/23/9781593271923.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=EVuk7eqhWiwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=EVuk7eqhWiwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2009",
+    "files": [],
+    "image": "1593271921.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "image": "https://images.isbndb.com/covers/73/55/9781786467355.jpg",
+        "title_long": "Python Data Structures And Algorithms: Improve Application Performance With Graphs, Stacks, And Queues",
+        "pages": 310,
+        "date_published": "2017",
+        "authors": [
+            "Benjamin Baka"
+        ],
+        "title": "Python Data Structures And Algorithms: Improve Application Performance With Graphs, Stacks, And Queues",
+        "isbn13": "9781786467355",
+        "msrp": "44.99",
+        "binding": "Paperback",
+        "publish_date": "2017",
+        "isbn": "1786467356"
+    }
+}

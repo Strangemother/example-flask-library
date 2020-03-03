@@ -1,0 +1,40 @@
+{
+    "asset": "webdevelopment with django cookbook",
+    "page_detail": {
+        "count": 384,
+        "delta": 0
+    },
+    "pages": 384,
+    "title": {
+        "title_short": "Web Development with Django Cookbook - Second Edition",
+        "subtitle": null,
+        "description": "Over 70 practical recipes to help you create scalable websites using the Django 1.8 frameworkAbout This Book- This is the latest book on the market that will help you take advantage of the new features added to Django 1.8- This book consists of recipes of varying complexities to help you create multilingual, responsive, and scalable websites with Django- This updated edition teaches you major Django functions and will help you improve your skills by developing models, forms, views, and templatesWho This Book Is ForThis book is for intermediate-level and professional Django users who need to build projects that are multilingual, functional on devices of different screen sizes, and that scale over a period of time. If you have created websites with Django but you want to sharpen your knowledge and learn some good approaches to different aspects of web development, you should definitely read this book.What You Will Learn- Get started with the basic configuration necessary to start any Django project- Build a database structure out of reusable model mixins- Manage forms and views and get to know some useful patterns that are used to create them- Create handy template filters and tags that you can reuse in every project- Integrate your own functionality into the Django CMS- Manage hierarchical structures with MPTT- Import data from local sources and external web services as well as exporting your data to third parties- Implement a multilingual search with Haystack- Test and deploy your project efficientlyIn DetailDjango is a web framework that was designed to strike a balance between rapid web development and high performance. It has the capacity to handle applications with high levels of user traffic and interaction, and can integrate with massive databases on the backend, constantly collecting and processing data in real time.Through this book, you'll discover that collecting data from different sources and providing it to others in different formats isn't as difficult as you thought. It follows a task-based approach to guide you through all the web development processes using the Django framework. We'll start by setting up the virtual environment for a Django project and configuring it. Then you'll learn to write reusable pieces of code for your models and find out how to manage database schema changes using South migrations. After that, we'll take you through working with forms and views to enter and list data. With practical examples on using templates and JavaScript together, you will discover how to create the best user experience. In the final chapters, you'll be introduced to some programming and debugging tricks and finally, you will be shown how to test and deploy the project to a remote dedicated server.By the end of this book, you will have a good understanding of the new features added to Django 1.8 and be an expert at web development processes.Style and approachEvery chapter consists of practical examples and a mix of basic and advanced recipes that will guide you through the entire web development process, starting from project configuration and taking you right through to deployment.",
+        "title_long": "Web Development With Django Cookbook - Second Edition",
+        "synopsys": "Aidas Bendoraitis. Includes Index.",
+        "title": "Web Development With Django Cookbook - Second Edition"
+    },
+    "isbn": "1785886770",
+    "isbn13": "9781785886775",
+    "authors": [
+        "Aidas Bendoraitis"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Web site development",
+        "TK5105.888",
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/67/75/9781785886775.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=04QhjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=04QhjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 49.99,
+    "publish_date": "2016-01-28",
+    "files": [],
+    "image": "1785886770.jpg"
+}

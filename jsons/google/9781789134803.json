@@ -1,0 +1,72 @@
+{
+    "kind": "books#volume",
+    "id": "9eHmuQEACAAJ",
+    "etag": "IQ7QiAEbmxs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9eHmuQEACAAJ",
+    "volumeInfo": {
+        "title": "Internet of Things Programming Projects",
+        "authors": [
+            "Colin Dow"
+        ],
+        "publishedDate": "2018-10-30",
+        "description": "A practical project-based guide to help you build and control your IoT projects Key Features Leverage the full potential of IoT with the combination of Raspberry Pi 3 and Python Build complex Python-based applications with IoT Work on various IoT projects and understand the basics of electronics Book Description The Internet of Things (IOT) has managed to attract the attention of researchers and tech enthusiasts, since it powerfully combines classical networks with instruments and devices. In Internet of Things Programming Projects, we unleash the power of Raspberry Pi and Python to create engaging projects. In the first part of the book, you'll be introduced to the Raspberry Pi, learn how to set it up, and then jump right into Python programming. Then, you'll dive into real-world computing by creating a\"Hello World\" app using flash LEDs. As you make your way through the chapters, you'll go back to an age when analog needle meters ruled the world of data display. You'll learn to retrieve weather data from a web service and display it on an analog needle meter, and build a home security system using the Raspberry Pi. The next project has a modern twist, where we employ the Raspberry Pi to send a signal to a web service that will send you a text when someone is at the door. In the final project, you take what you've learned from the previous two projects and create an IoT robot car that you can use to monitor what your pets are up to when you are away. By the end of this book, you will be well versed in almost every possible way to make your IoT projects stand out. What you will learn Install and set up a Raspberry Pi for IoT development Learn how to use a servo motor as an analog needle meter to read data Build a home security dashboard using an infrared motion detector Communicate with a web service that sends you a message when the doorbell rings Receive data and display it with an actuator connected to the Raspberry Pi Build an IoT robot car that is controlled through the internet Who this book is for Internet of Things Programming Projects is for Python developers and programmers who are interested in building their own IoT applications and IoT-based projects. It is also targeted at IoT programmers and developers who are looking to build exciting projects with Python.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1789134803"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781789134803"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": [
+            "Computer programming"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9eHmuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9eHmuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9eHmuQEACAAJ&dq=isbn:9781789134803&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9eHmuQEACAAJ&dq=isbn:9781789134803&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Internet_of_Things_Programming_Projects.html?hl=&id=9eHmuQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9eHmuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "What you will learn Install and set up a Raspberry Pi for IoT development Learn how to use a servo motor as an analog needle meter to read data Build a home security dashboard using an infrared motion detector Communicate with a web service ..."
+    }
+}

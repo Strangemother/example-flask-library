@@ -1,0 +1,72 @@
+{
+    "kind": "books#volume",
+    "id": "SyG4tAEACAAJ",
+    "etag": "7bP8yvKS58Q",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/SyG4tAEACAAJ",
+    "volumeInfo": {
+        "title": "MQTT Essentials - a Lightweight IoT Protocol",
+        "authors": [
+            "Gaston C. Hillar"
+        ],
+        "publishedDate": "2017-04-12",
+        "description": "Send and receive messages with the MQTT protocol for your IoT solutions.About This Book* Make your connected devices less prone to attackers by understanding practical security mechanisms* Dive deep into one of IoT's extremely lightweight machines to enable connectivity protocol with some real-world examples* Learn to take advantage of the features included in MQTT for IoT and Machine-to-Machine communications with complete real-life examplesWho This Book Is ForThis book is a great resource for developers who want to learn more about the MQTT protocol to apply it to their individual IoT projects. Prior knowledge of working with IoT devices is essential.What You Will Learn* Understand how MQTTv3.1 and v3.1.1 works in detail* Install and secure a Mosquitto MQTT broker by following best practices* Design and develop IoT solutions combined with mobile and web apps that use MQTT messages to communicate* Explore the features included in MQTT for IoT and Machine-to-Machine communications* Publish and receive MQTT messages with Python, Java, Swift, JavaScript, and Node.js* Implement the security best practices while setting up the MQTT Mosquitto brokerIn DetailThis step-by-step guide will help you gain a deep understanding of the lightweight MQTT protocol. We'll begin with the specific vocabulary of MQTT and its working modes, followed by installing a Mosquitto MQTT broker. Then, you will use best practices to secure the MQTT Mosquitto broker to ensure that only authorized clients are able to publish and receive messages. Once you have secured the broker with the appropriate configuration, you will develop a solution that controls a drone with Python.Further on, you will use Python on a Raspberry Pi 3 board to process commands and Python on Intel Boards (Joule, Edison and Galileo). You will then connect to the MQTT broker, subscribe to topics, send messages, and receive messages in Python. You will also develop a solution that interacts with sensors in Java by working with MQTT messages.Moving forward, you will work with an asynchronous API with callbacks to make the sensors interact with MQTT messages. Following the same process, you will develop an iOS app with Swift 3, build a website that uses WebSockets to connect to the MQTT broker, and control home automation devices with HTML5, JavaScript code, Node.js and MQTT messagesStyle and approachThis step-by-step guide describes the MQTT protocol for your IoT projects",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1787287815"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781787287815"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=SyG4tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=SyG4tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=SyG4tAEACAAJ&dq=isbn:9781787287815&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=SyG4tAEACAAJ&dq=isbn:9781787287815&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/MQTT_Essentials_a_Lightweight_IoT_Protoc.html?hl=&id=SyG4tAEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SyG4tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Send and receive messages with the MQTT protocol for your IoT solutions.About This Book* Make your connected devices less prone to attackers by understanding practical security mechanisms* Dive deep into one of IoT&#39;s extremely lightweight ..."
+    }
+}

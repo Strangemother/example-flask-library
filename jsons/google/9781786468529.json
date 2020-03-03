@@ -1,0 +1,72 @@
+{
+    "kind": "books#volume",
+    "id": "_hjwvQAACAAJ",
+    "etag": "cE81xC+wZbA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_hjwvQAACAAJ",
+    "volumeInfo": {
+        "title": "Software Architecture with Python",
+        "authors": [
+            "Anand Balachandran Pillai"
+        ],
+        "publishedDate": "2017-04-28",
+        "description": "Architect and design highly scalable, robust, clean, and highly performant applications in PythonAbout This Book* Identify design issues and make the necessary adjustments to achieve improved performance* Understand practical architectural quality attributes from the perspective of a practicing engineer and architect using Python* Gain knowledge of architectural principles and how they can be used to provide accountability and rationale for architectural decisionsWho This Book Is ForThis book is for experienced Python developers who are aspiring to become the architects of enterprise-grade applications or software architects who would like to leverage Python to create effective blueprints of applications.What You Will Learn* Build programs with the right architectural attributes* Use Enterprise Architectural Patterns to solve scalable problems on the Web* Understand design patterns from a Python perspective* Optimize the performance testing tools in Python* Deploy code in remote environments or on the Cloud using Python* Secure architecture applications in PythonIn DetailThis book starts off by explaining how Python fits into an application architecture. As you move along, you will understand the architecturally significant demands and how to determine them. Later, you'll get a complete understanding of the different architectural quality requirements that help an architect to build a product that satisfies business needs, such as maintainability/reusability, testability, scalability, performance, usability, and security.You will use various techniques such as incorporating DevOps, Continuous Integration, and more to make your application robust. You will understand when and when not to use object orientation in your applications. You will be able to think of the future and design applications that can scale proportionally to the growing business.The focus is on building the business logic based on the business process documentation and which frameworks are to be used when. We also cover some important patterns that are to be taken into account while solving design problems as well as those in relatively new domains such as the Cloud.This book will help you understand the ins and outs of Python so that you can make those critical design decisions that not just live up to but also surpass the expectations of your clients.Style and approachFilled with examples and use cases, this guide takes a no-nonsense approach to help you with everything it takes to become a successful software architect.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1786468522"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781786468529"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 556,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_hjwvQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=_hjwvQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=_hjwvQAACAAJ&dq=isbn:9781786468529&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=_hjwvQAACAAJ&dq=isbn:9781786468529&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Software_Architecture_with_Python.html?hl=&id=_hjwvQAACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_hjwvQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Architect and design highly scalable, robust, clean, and highly performant applications in PythonAbout This Book* Identify design issues and make the necessary adjustments to achieve improved performance* Understand practical architectural ..."
+    }
+}

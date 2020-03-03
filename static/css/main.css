@@ -1,0 +1,297 @@
+body > header {
+    /* border: solid; */
+}
+
+body {
+    margin: 0;
+    font-family: 'Nunito';
+    transition: background .6s ease;
+    /* padding-top: 4em; */
+    /* background: #000; */
+    color: #2b2b2b;
+}
+
+body.standard {
+    background: initial;
+    color: #252525;
+}
+
+section#books {
+    /* border: solid; */
+    display: flex;
+    max-width: 100%;
+}
+
+ul.books .book {/* border: solid; */display: flex;margin: 1.5em 0;/* overflow: hidden; */width: fit-content;/* flex-shrink: 3; *//* flex-grow: 2; *//* justify-content: space-around; *//* max-width: 48%; */}
+
+ul.books {
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    /* overflow: hidden; */
+    width: auto;
+    justify-content: space-evenly;
+}
+
+.book .content h2 {
+    /* margin: 0; */
+}
+
+.book .image {
+    margin: 0 1.5em;
+    /* display: flex; */
+    /* align-items: flex-start; */
+    /* background: #DDD; */
+    /* height: fit-content; */
+    /* position: sticky; */
+    /* flex-direction: column; */
+    /* position: relative; */
+    /* top: 4em; */
+    /* height: 600px; */
+    /* position: fixed; */
+}
+
+
+body.dark {
+    background: #222;
+    color: #AAA;
+    width: 100%;
+}
+
+.dark header {
+    background: #111;
+}
+
+header > h1 {
+    margin: 0;
+    padding: 0.4em 0.7em;
+}
+
+body > header {
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.dark a {color: #6f97d2;}
+
+
+.small .image img {
+    max-height: 150px;
+    width: unset;
+}
+
+.small .desc p {
+    /* max-height: 2.5em; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /* display: inline-flex; */
+    /* border: solid; */
+    white-space: nowrap;
+    /* display: inline-block; */
+    /* border: solid 1px black; */
+    max-width: 30em;
+    /* overflow: hidden; */
+    /* min-width: 20em; */
+    /* display: flex; */
+}
+
+.standard .content {
+    /* display: flex; */
+    flex-direction: column;
+    flex-grow: 0;
+    flex-shrink: 1;
+    /* width: min-content; */
+    /* flex: 1; */
+}
+
+img {
+    width: fit-content;
+    height: fit-content;
+}
+
+.standard .desc p {
+    width: auto;
+    white-space: normal;
+    max-width: 50em;
+    font-size: 1.1em;
+    white-space: pre-line;
+}
+
+p.caption {
+    max-width: 30em;
+    font-size: 1.3em;
+}
+
+.small p.caption {
+    font-size: 1em;
+    margin: 0.5em 0;
+}
+
+.small .content h2 {
+    font-size: 1.1em;
+    max-width: 25em;
+}
+
+.standard .content h2 {
+    max-width: 27em;
+    margin: 0;
+}
+
+.fancy li.book {
+    /* background: #111; */
+    padding: 7em 3em 4em;
+    margin: 0;
+}
+
+.dark.fancy li.book:nth-child(even) {
+    background: #bbbbbb;
+    color: #1f1f1f;
+    flex-direction: row-reverse;
+}
+
+.fancy .book > .content {
+    margin-left: 4em;
+}
+
+.fancy h2 {
+    font-size: 2.8em;
+    margin: 0;
+    line-height: 1.2em;
+    letter-spacing: 0.4px;
+    font-weight: 500;
+    position: relative;
+    margin-top: -0.2em;
+}
+
+.fancy p.caption {
+    max-width: max-content;
+}
+
+.fancy li.book:nth-child(even) .content {
+    margin-right: 3.5em;
+}
+
+.fancy li.book .content .caption {
+    font-weight: 100;
+    font-size: 1.9em;
+    margin: 1.3em 0;
+}
+
+.fancy .desc {
+    font-size: 1.1em;
+}
+
+.fancy .sticky {
+     position: sticky;
+     position: -webkit-sticky;
+     /* height: 70px; */
+     top: 8em;
+     padding-bottom: 3em;
+}
+
+.sticky img {
+    /* position: sticky; */
+    /* top: 9em; */
+}
+
+.fancy .book .image {
+    margin: 0;
+}
+
+.dark.fancy li.book {
+    background: #111;
+}
+
+.fancy li.book:nth-child(even) {
+    background: #EEE;
+}
+
+.standard.fancy {
+    /* max-width: 1100px; */
+}
+
+.standard.fancy .content {
+    max-width: 44em;
+}
+
+.minimal .desc {
+    display: none;
+}
+
+.minimal .book > .content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.minimal .content h2 {
+    display: inline-flex;
+    flex-basis: 41%;
+    /* border: solid; */
+    flex-shrink: 1;
+}
+
+.minimal .book p.caption {
+    display: flex;
+    /* flex-basis: 50%; */
+    /* border: solid; */
+    flex-shrink: 2;
+    flex-wrap: wrap;
+}
+
+.minimal .books .book .content .caption {
+    font-size: 1rem;
+}
+
+ul.files {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.meta .files {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.minimal .book {
+    /* flex-wrap: wrap; */
+    /* display: flex; */
+}
+
+.minimal .book {
+    display: flex;
+    /* flex-wrap: wrap; */
+    border: solid;
+}
+
+.isbn {
+    font-family: "Courier New";
+    background: #0000007a;
+    display: inline-block;
+    padding: 0.1em 0.3em;
+}
+
+.meta {
+    position: sticky;
+    top: 0.2em;
+    z-index: 1;
+    /* display: flex; */
+    flex-direction: column;
+    /* align-self: flex-end; */
+    /* margin-left: 77%; */
+}
+
+li.supplement-file {
+    display: none;
+}
+
+.fancy .isbn {
+    color: #c7c7c7;
+}

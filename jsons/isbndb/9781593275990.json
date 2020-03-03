@@ -1,0 +1,25 @@
+{
+    "book": {
+        "publisher": "No Starch Press",
+        "synopsys": "In Automate The Boring Stuff With Python, You'll Learn How To Use Python To Write Programs That Do In Minutes What Would Take You Hours To Do By Hand -- No Prior Programming Experience Required. Once You've Mastered The Basics Of Programming, You'll Create Python Programs That Effortlessly Perform Useful And Impressive Feats Of Automation To: Search For Text In A File Or Across Multiple Files; Create, Update, Move, And Rename Files And Folders; Search The Web And Download Online Content; Update And Format Data In Excel Spreadsheets Of Any Size; Split, Merge, Watermark, And Encrypt Pdfs; Send Reminder Emails And Text Notifications; Fill Out Online Forms. Step-by-step Instructions Walk You Through Each Program, And Practice Projects At The End Of Each Chapter Challenge You To Improve Those Programs And Use Your Newfound Skills To Automate Similar Tasks.",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/59/90/9781593275990.jpg",
+        "title_long": "Automate The Boring Stuff With Python: Practical Programming For Total Beginners",
+        "edition": "1",
+        "pages": 504,
+        "date_published": "2015",
+        "subjects": [
+            "Python (computer Program Language)",
+            "Computer Programming"
+        ],
+        "authors": [
+            "Al Sweigart"
+        ],
+        "title": "Automate The Boring Stuff With Python: Practical Programming For Total Beginners",
+        "isbn13": "9781593275990",
+        "msrp": "29.95",
+        "binding": "Paperback",
+        "publish_date": "2015",
+        "isbn": "1593275994"
+    }
+}

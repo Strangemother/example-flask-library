@@ -1,0 +1,26 @@
+{
+    "book": {
+        "publisher": "No Starch Press, Incorporated",
+        "synopsys": "By Jason R. Briggs. Includes Index.",
+        "language": "Eng",
+        "image": "https://images.isbndb.com/covers/40/78/9781593274078.jpg",
+        "title_long": "Python For Kids: A Playful Introduction To Programming",
+        "edition": "1",
+        "pages": 348,
+        "date_published": "2013",
+        "subjects": [
+            "Computer Software",
+            "Computer Programming",
+            "Python (computer Program Language)"
+        ],
+        "authors": [
+            "Jason R. Briggs"
+        ],
+        "title": "Python For Kids: A Playful Introduction To Programming",
+        "isbn13": "9781593274078",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2013",
+        "isbn": "1593274076"
+    }
+}

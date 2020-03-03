@@ -1,0 +1,38 @@
+{
+    "asset": "teach your kids to code",
+    "page_detail": {
+        "count": 336,
+        "delta": 0
+    },
+    "pages": 336,
+    "title": {
+        "title_short": "Teach Your Kids to Code",
+        "subtitle": "A Parent-Friendly Guide to Python Programming",
+        "description": "Teach Your Kids to Code is a parent's and teacher's guide to teaching kids basic programming and problem solving using Python, the powerful language used in college courses and by tech companies like Google and IBM. Step-by-step explanations will have kids learning computational thinking right away, while visual and game-oriented examples hold their attention. Friendly introductions to fundamental programming concepts such as variables, loops, and functions will help even the youngest programmers build the skills they need to make their own cool games and applications. Whether you've been coding for years or have never programmed anything at all, Teach Your Kids to Code will help you show your young programmer how to: Explore geometry by drawing colorful shapes with Turtle graphicsWrite programs to encode and decode messages, play Rock-Paper-Scissors, and calculate how tall someone is in Ping-Pong ballsCreate fun, playable games like War, Yahtzee, and PongAdd interactivity, animation, and sound to their apps Teach Your Kids to Code is the perfect companion to any introductory programming class or after-school meet-up, or simply your educational efforts at home. Spend some fun, productive afternoons at the computer with your kids\u2014you can all learn something!",
+        "title_long": "Teach Your Kids To Code: A Parent-friendly Guide To Python Programming",
+        "synopsys": "A Guide To Teaching Basic Programming Skills For Parents And Teachers, With Step-by-step Explanations, Visual Examples, And Exercises. Covers Programming Concepts Including Loops, Lists, Functions, And Variables, And How To Build Games And Applications--",
+        "title": "Teach Your Kids To Code: A Parent-friendly Guide To Python Programming"
+    },
+    "isbn": "1593276141",
+    "isbn13": "9781593276140",
+    "authors": [
+        "Bryson Payne"
+    ],
+    "publisher": [
+        "No Starch Press"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": 4.0,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/61/40/9781593276140.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=tki0CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=tki0CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "cost": 0.0,
+    "publish_date": "2015",
+    "files": [],
+    "image": "1593276141.jpg"
+}

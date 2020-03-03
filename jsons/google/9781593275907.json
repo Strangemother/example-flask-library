@@ -1,0 +1,74 @@
+{
+    "kind": "books#volume",
+    "id": "9MS9BQAAQBAJ",
+    "etag": "Ryznp8jv3Kc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9MS9BQAAQBAJ",
+    "volumeInfo": {
+        "title": "Black Hat Python",
+        "subtitle": "Python Programming for Hackers and Pentesters",
+        "authors": [
+            "Justin Seitz"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2014-12-14",
+        "description": "In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you\u2019ll explore the darker side of Python\u2019s capabilities\u2014writing network sniffers, manipulating packets, infecting virtual machines, creating stealthy trojans, and more. You\u2019ll learn how to: Create a trojan command-and-control using GitHubDetect sandboxing and automate com\u00admon malware tasks, like keylogging and screenshottingEscalate Windows privileges with creative process controlUse offensive memory forensics tricks to retrieve password hashes and inject shellcode into a virtual machineExtend the popular Burp Suite web-hacking toolAbuse Windows COM automation to perform a man-in-the-browser attackExfiltrate data from a network most sneakily Insider techniques and creative challenges throughout show you how to extend the hacks and how to write your own exploits. When it comes to offensive security, your ability to create powerful tools on the fly is indispensable. Learn how in Black Hat Python.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593275907"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1593275900"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9MS9BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9MS9BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=9MS9BQAAQBAJ&printsec=frontcover&dq=isbn:9781593275907&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=9MS9BQAAQBAJ&dq=isbn:9781593275907&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Black_Hat_Python.html?hl=&id=9MS9BQAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true
+        },
+        "pdf": {
+            "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9MS9BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you\u2019ll explore the darker side of Python\u2019s capabilities\u2014writing network sniffers, manipulating packets, infecting virtual machines, ..."
+    }
+}

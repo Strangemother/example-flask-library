@@ -1,0 +1,24 @@
+{
+    "book": {
+        "publisher": "Packt Publishing,",
+        "synopsys": "Prateek Joshi.",
+        "language": "Eng English",
+        "format": "1 online resource (1 volume) : illustrations",
+        "image": "https://images.isbndb.com/covers/43/92/9781786464392.jpg",
+        "title_long": "Artificial Intelligence With Python: Build Real-world Artificial Intelligence Applications With Python To Intelligently Interact With The World Around You",
+        "dimensions": "computer",
+        "subjects": [
+            "Python (Computer program language)",
+            "Artificial intelligence--Data processing",
+            "Application software--Development",
+            "QA76.73.P98"
+        ],
+        "authors": [
+            "Joshi, Prateek (author.)"
+        ],
+        "title": "Artificial Intelligence With Python: Build Real-world Artificial Intelligence Applications With Python To Intelligently Interact With The World Around You",
+        "isbn13": "9781786464392",
+        "msrp": "0.00",
+        "isbn": "1786469677"
+    }
+}

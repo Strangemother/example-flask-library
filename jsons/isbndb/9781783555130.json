@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "synopsys": "Machine Learning And Predictive Analytics Are Transforming The Way Businesses And Other Organizations Operate. Being Able To Understand Trends And Patterns In Complex Data Is Critical To Success, Becoming One Of The Key Strategies For Unlocking Growth In A Challenging Contemporary Marketplace. Python Can Help You Deliver Key Insights Into Your Data \u2013 Its Unique Capabilities As A Language Let You Build Sophisticated Algorithms And Statistical Models That Can Reveal New Perspectives And Answer Key Questions That Are Vital For Success. Python Machine Learning Gives You Access To The World Of Predictive Analytics And Demonstrates Why Python Is One Of The World's Leading Data Science Languages. If You Want To Ask Better Questions Of Data, Or Need To Improve And Extend The Capabilities Of Your Machine Learning Systems, This Practical Data Science Book Is Invaluable. Covering A Wide Range Of Powerful Python Libraries, Including Scikit-learn, Theano, And Pylearn2, And Featuring Guidance And Tips On Everything From Sentiment Analysis To Neural Networks, You'll Soon Be Able To Answer Some Of The Most Important Questions Facing You And Your Organization. Giving Computers The Ability To Learn From Data -- Training Machine Learning Algorithms For Classification -- A Tour Of Machine Learning Classifiers Using Scikit-learn -- Building Good Training Sets : Data Preprocessing -- Compressing Data Via Dimensionality Reduction -- Learning Best Practices For Model Evaluation And Hyperparameter Tuning -- Combining Different Models For Ensemble Learning -- Applying Machine Learning To Sentiment Analysis -- Embedding A Machine Learning Model Into A Web Application -- Predicting Continuous Target Variables With Regression Analysis -- Working With Unlabeled Data : Clustering Analysis -- Training Artificial Neural Networks For Image Recognition -- Parallelizing Neural Network Training With Theano. Sebastian Raschka. Includes Index.",
+        "language": "Eng English",
+        "image": "https://images.isbndb.com/covers/51/30/9781783555130.jpg",
+        "title_long": "Python Machine Learning, 1st Edition",
+        "pages": 454,
+        "date_published": "2015",
+        "authors": [
+            "Sebastian Raschka"
+        ],
+        "title": "Python Machine Learning, 1st Edition",
+        "isbn13": "9781783555130",
+        "msrp": "44.99",
+        "binding": "Paperback",
+        "publish_date": "2015",
+        "isbn": "1783555130"
+    }
+}

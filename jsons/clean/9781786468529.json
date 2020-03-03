@@ -1,0 +1,41 @@
+{
+    "asset": "software architecture with python",
+    "page_detail": {
+        "count": 556,
+        "delta": 0
+    },
+    "pages": 556,
+    "title": {
+        "title_short": "Software Architecture with Python",
+        "subtitle": null,
+        "description": "Architect and design highly scalable, robust, clean, and highly performant applications in PythonAbout This Book* Identify design issues and make the necessary adjustments to achieve improved performance* Understand practical architectural quality attributes from the perspective of a practicing engineer and architect using Python* Gain knowledge of architectural principles and how they can be used to provide accountability and rationale for architectural decisionsWho This Book Is ForThis book is for experienced Python developers who are aspiring to become the architects of enterprise-grade applications or software architects who would like to leverage Python to create effective blueprints of applications.What You Will Learn* Build programs with the right architectural attributes* Use Enterprise Architectural Patterns to solve scalable problems on the Web* Understand design patterns from a Python perspective* Optimize the performance testing tools in Python* Deploy code in remote environments or on the Cloud using Python* Secure architecture applications in PythonIn DetailThis book starts off by explaining how Python fits into an application architecture. As you move along, you will understand the architecturally significant demands and how to determine them. Later, you'll get a complete understanding of the different architectural quality requirements that help an architect to build a product that satisfies business needs, such as maintainability/reusability, testability, scalability, performance, usability, and security.You will use various techniques such as incorporating DevOps, Continuous Integration, and more to make your application robust. You will understand when and when not to use object orientation in your applications. You will be able to think of the future and design applications that can scale proportionally to the growing business.The focus is on building the business logic based on the business process documentation and which frameworks are to be used when. We also cover some important patterns that are to be taken into account while solving design problems as well as those in relatively new domains such as the Cloud.This book will help you understand the ins and outs of Python so that you can make those critical design decisions that not just live up to but also surpass the expectations of your clients.Style and approachFilled with examples and use cases, this guide takes a no-nonsense approach to help you with everything it takes to become a successful software architect.",
+        "title_long": "Software Architecture With Python",
+        "synopsys": "Anand Balachandran Pillai. Includes Index.",
+        "title": "Software Architecture With Python"
+    },
+    "isbn": "1786468522",
+    "isbn13": "9781786468529",
+    "authors": [
+        "Anand Balachandran Pillai"
+    ],
+    "publisher": [
+        "Packt Publishing - Ebooks Account"
+    ],
+    "categories": [
+        "Python (Computer program language)",
+        "QA76.73.P98 .P555 2017",
+        "005.133",
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/85/29/9781786468529.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=_hjwvQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=_hjwvQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 49.99,
+    "publish_date": "2017",
+    "files": [],
+    "image": "1786468522.jpg"
+}

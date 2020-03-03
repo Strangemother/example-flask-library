@@ -1,0 +1,74 @@
+{
+    "kind": "books#volume",
+    "id": "HuxuawEACAAJ",
+    "etag": "e8mzUrJp9vk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HuxuawEACAAJ",
+    "volumeInfo": {
+        "title": "Python Machine Learning",
+        "authors": [
+            "Sebastian Raschka"
+        ],
+        "publishedDate": "2015-08-24",
+        "description": "Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analyticsAbout This Book- Leverage Python's most powerful open-source libraries for deep learning, data wrangling, and data visualization- Learn effective strategies and best practices to improve and optimize machine learning systems and algorithms- Ask - and answer - tough questions of your data with robust statistical models, built for a range of datasetsWho This Book Is ForIf you want to find out how to use Python to start answering critical questions of your data, pick up Python Machine Learning - whether you want to get started from scratch or want to extend your data science knowledge, this is an essential and unmissable resource.What You Will Learn- Explore how to use different machine learning models to ask different questions of your data- Learn how to build neural networks using Keras and Theano- Find out how to write clean and elegant Python code that will optimize the strength of your algorithms- Discover how to embed your machine learning model in a web application for increased accessibility- Predict continuous target outcomes using regression analysis- Uncover hidden patterns and structures in data with clustering- Organize data using effective pre-processing techniques- Get to grips with sentiment analysis to delve deeper into textual and social media dataIn DetailMachine learning and predictive analytics are transforming the way businesses and other organizations operate. Being able to understand trends and patterns in complex data is critical to success, becoming one of the key strategies for unlocking growth in a challenging contemporary marketplace. Python can help you deliver key insights into your data - its unique capabilities as a language let you build sophisticated algorithms and statistical models that can reveal new perspectives and answer key questions that are vital for success.Python Machine Learning gives you access to the world of predictive analytics and demonstrates why Python is one of the world's leading data science languages. If you want to ask better questions of data, or need to improve and extend the capabilities of your machine learning systems, this practical data science book is invaluable. Covering a wide range of powerful Python libraries, including scikit-learn, Theano, and Keras, and featuring guidance and tips on everything from sentiment analysis to neural networks, you'll soon be able to answer some of the most important questions facing you and your organization.Style and approachPython Machine Learning connects the fundamental theoretical principles behind machine learning to their practical application in a way that focuses you on asking and answering the right questions. It walks you through the key elements of Python and its powerful machine learning libraries, while demonstrating how to get to grips with a range of statistical models.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1783555130"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781783555130"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "categories": [
+            "COMPUTERS"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HuxuawEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HuxuawEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=HuxuawEACAAJ&dq=isbn:9781783555130&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=HuxuawEACAAJ&dq=isbn:9781783555130&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Machine_Learning.html?hl=&id=HuxuawEACAAJ"
+    },
+    "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HuxuawEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analyticsAbout This Book- Leverage Python&#39;s most powerful open-source libraries for deep learning, data wrangling, and data visualization- Learn ..."
+    }
+}

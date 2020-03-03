@@ -1,0 +1,40 @@
+{
+    "asset": "Raspberry Pi 3 Cookbook for Python Programmers - Third Edition",
+    "page_detail": {
+        "count": 552,
+        "delta": 0
+    },
+    "pages": 552,
+    "title": {
+        "title_short": "Raspberry Pi 3 Cookbook for Python Programmers - Third Edition",
+        "subtitle": null,
+        "description": "A recipe-based guide to programming your Raspberry Pi 3 using Python Key Features Leverage the power of Raspberry Pi 3 using Python programming Create 3D games, build neural network modules, and interface with your own circuits Packed with clear, step-by-step recipes to walk you through the capabilities of Raspberry Pi Book Description Raspberry Pi 3 Cookbook for Python Programmers - Third Edition begins by guiding you through setting up Raspberry Pi 3, performing tasks using Python 3.6, and introducing the first steps to interface with electronics. As you work through each chapter, you will build your skills and apply them as you progress. You will learn how to build text classifiers, predict sentiments in words, develop applications using the popular Tkinter library, and create games by controlling graphics on your screen. You will harness the power of a built in graphics processor using Pi3D to generate your own high-quality 3D graphics and environments. You will understand how to connect Raspberry Pi's hardware pins directly to control electronics, from switching on LEDs and responding to push buttons to driving motors and servos. Get to grips with monitoring sensors to gather real-life data, using it to control other devices, and viewing the results over the internet. You will apply what you have learned by creating your own Pi-Rover or Pi-Hexipod robots. You will also learn about sentiment analysis, face recognition techniques, and building neural network modules for optical character recognition. Finally, you will learn to build movie recommendations system on Raspberry Pi 3. What you will learn Learn to set up and run Raspberry Pi 3 Build text classifiers and perform automation using Python Predict sentiments in words and create games and graphics Detect edges and contours in images Build human face detection and recognition system Use Python to drive hardware Sense and display real-world data Build a neural network module for optical character recognition Build movie recommendations system Who this book is for This book is for anyone who wants to master the skills of Python programming using Raspberry Pi 3. Prior knowledge of Python will be an added advantage.",
+        "title_long": "Raspberry Pi 3 Cookbook For Python Programmers: Unleash The Potential Of Raspberry Pi 3 With Over 100 Recipes, 3rd Edition",
+        "synopsys": null,
+        "title": "Raspberry Pi 3 Cookbook For Python Programmers: Unleash The Potential Of Raspberry Pi 3 With Over 100 Recipes, 3rd Edition"
+    },
+    "isbn": "1788629876",
+    "isbn13": "9781788629874",
+    "authors": [
+        "Tim Cox",
+        "Dr. Steven Lawrence Fernandes",
+        "Steven Lawrence"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/98/74/9781788629874.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=Tz-itQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Tz-itQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 34.99,
+    "publish_date": "2018",
+    "files": [],
+    "image": "1788629876.jpg"
+}

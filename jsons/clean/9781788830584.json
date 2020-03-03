@@ -1,0 +1,38 @@
+{
+    "asset": "Mastering Arduino",
+    "page_detail": {
+        "count": 372,
+        "delta": 0
+    },
+    "pages": 372,
+    "title": {
+        "title_short": "Mastering Arduino",
+        "subtitle": "A Project-Based Approach to Electronics, Circuits, and Programming",
+        "description": "Mastering Arduino is a practical, no-nonsense guide that will teach you the electronics and programming skills that you need to create advanced Arduino projects. Key Features Covers enough electronics and code for users at any level Includes complete circuit diagrams for all projects Final robot project combines knowledge from all the chapters Book Description Mastering Arduino is an all-in-one guide to getting the most out of your Arduino. This practical, no-nonsense guide teaches you all of the electronics and programming skills that you need to create advanced Arduino projects. This book is packed full of real-world projects for you to practice on, bringing all of the knowledge in the book together and giving you the skills to build your own robot from the examples in this book. The final two chapters discuss wireless technologies and how they can be used in your projects. The book begins with the basics of electronics, making sure that you understand components, circuits, and prototyping before moving on. It then performs the same function for code, getting you into the Arduino IDE and showing you how to connect the Arduino to a computer and run simple projects on your Arduino. Once the basics are out of the way, the next 10 chapters of the book focus on small projects centered around particular components, such as LCD displays, stepper motors, or voice synthesizers. Each of these chapters will get you familiar with the technology involved, how to build with it, how to program it, and how it can be used in your own projects. What you will learn Explains the basics of electronics and circuits along with the Arduino IDE and basic C operations Use sensors to build a mini weather station Control LEDs using code Power a robot arm using stepper motors Remotely control your Arduino using RF, Bluetooth LE, and Bluetooth Classic Make a sound tone generator with buttons Who this book is for Mastering Arduino is for anybody who wants to experiment with an Arduino board and build simple projects. No prior knowledge is required, as the fundamentals of electronics and coding are covered in this book as well as advance projects.",
+        "title_long": "Mastering Arduino: A Project-based Approach To Electronics, Circuits, And Programming",
+        "synopsys": null,
+        "title": "Mastering Arduino: A Project-based Approach To Electronics, Circuits, And Programming"
+    },
+    "isbn": "178883058x",
+    "isbn13": "9781788830584",
+    "authors": [
+        "Jon Hoffman"
+    ],
+    "publisher": [
+        "Packt Publishing"
+    ],
+    "categories": [
+        "Computers"
+    ],
+    "rating": -1,
+    "rating_count": -1,
+    "images": {
+        "image": "https://images.isbndb.com/covers/05/84/9781788830584.jpg",
+        "smallThumbnail": "http://books.google.com/books/content?id=ZUittQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ZUittQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "cost": 39.99,
+    "publish_date": "2018",
+    "files": [],
+    "image": "178883058x.jpg"
+}

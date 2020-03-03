@@ -1,0 +1,20 @@
+{
+    "book": {
+        "publisher": "Packt Publishing - Ebooks Account",
+        "synopsys": "Lentin Joseph. Includes Index.",
+        "language": "Eng English",
+        "image": "https://images.isbndb.com/covers/75/36/9781783287536.jpg",
+        "title_long": "Learning Robotics Using Python: Design, Simulate, Program, And Prototype An Interactive Autonomous Mobile Robot From Scratch With The Help Of Python, Ros, And Open-cv!",
+        "pages": 385,
+        "date_published": "2015",
+        "authors": [
+            "Lentin Joseph"
+        ],
+        "title": "Learning Robotics Using Python: Design, Simulate, Program, And Prototype An Interactive Autonomous Mobile Robot From Scratch With The Help Of Python, Ros, And Open-cv!",
+        "isbn13": "9781783287536",
+        "msrp": "0.00",
+        "binding": "Paperback",
+        "publish_date": "2015",
+        "isbn": "1783287535"
+    }
+}
